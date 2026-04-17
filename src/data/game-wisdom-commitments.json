@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "commit.hor.s.anbary.lapidary",
+    "skillId": "s.anbary.lapidary",
+    "skillName": "Anbary & Lapidary",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "Black Sapphire"
+  },
+  {
+    "id": "commit.ith.s.anbary.lapidary",
+    "skillId": "s.anbary.lapidary",
+    "skillName": "Anbary & Lapidary",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Amber"
+  },
+  {
+    "id": "commit.bos.s.applebrighteuphonies",
+    "skillId": "s.applebrighteuphonies",
+    "skillName": "Applebright Euphonies",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "What May Be Known"
+  },
+  {
+    "id": "commit.ill.s.applebrighteuphonies",
+    "skillId": "s.applebrighteuphonies",
+    "skillName": "Applebright Euphonies",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "What May Be True"
+  },
+  {
+    "id": "commit.ill.s.auroralcontemplations",
+    "skillId": "s.auroralcontemplations",
+    "skillName": "Auroral Contemplations",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The First Sunrise"
+  },
+  {
+    "id": "commit.nyc.s.auroralcontemplations",
+    "skillId": "s.auroralcontemplations",
+    "skillName": "Auroral Contemplations",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Sunset Road"
+  },
+  {
+    "id": "commit.hor.s.bells.brazieries",
+    "skillId": "s.bells.brazieries",
+    "skillName": "Bells & Brazieries",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The Toll"
+  },
+  {
+    "id": "commit.ith.s.bells.brazieries",
+    "skillId": "s.bells.brazieries",
+    "skillName": "Bells & Brazieries",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The Chime"
+  },
+  {
+    "id": "commit.nyc.s.coil.chasm",
+    "skillId": "s.coil.chasm",
+    "skillName": "Coil & Chasm",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "Peacock"
+  },
+  {
+    "id": "commit.sko.s.coil.chasm",
+    "skillId": "s.coil.chasm",
+    "skillName": "Coil & Chasm",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "Serpent"
+  },
+  {
+    "id": "commit.bos.s.desires.dissolutions",
+    "skillId": "s.desires.dissolutions",
+    "skillName": "Desires & Dissolutions",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "Underneath"
+  },
+  {
+    "id": "commit.hor.s.desires.dissolutions",
+    "skillId": "s.desires.dissolutions",
+    "skillName": "Desires & Dissolutions",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Above"
+  },
+  {
+    "id": "commit.ill.s.disciplines.thehammer",
+    "skillId": "s.disciplines.thehammer",
+    "skillName": "Disciplines of the Hammer",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Steel and Glass"
+  },
+  {
+    "id": "commit.nyc.s.disciplines.thehammer",
+    "skillId": "s.disciplines.thehammer",
+    "skillName": "Disciplines of the Hammer",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "Amber, Orichalcum"
+  },
+  {
+    "id": "commit.hus.s.disciplines.thescar",
+    "skillId": "s.disciplines.thescar",
+    "skillName": "Disciplines of the Scar",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Crime"
+  },
+  {
+    "id": "commit.ill.s.disciplines.thescar",
+    "skillId": "s.disciplines.thescar",
+    "skillName": "Disciplines of the Scar",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The Scar"
+  },
+  {
+    "id": "commit.hor.s.door.wall",
+    "skillId": "s.door.wall",
+    "skillName": "Door & Wall",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "What Should Not Be"
+  },
+  {
+    "id": "commit.nyc.s.door.wall",
+    "skillId": "s.door.wall",
+    "skillName": "Door & Wall",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "What May Not Be"
+  },
+  {
+    "id": "commit.bos.s.drums.dances",
+    "skillId": "s.drums.dances",
+    "skillName": "Drums & Dances",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Root"
+  },
+  {
+    "id": "commit.hor.s.drums.dances",
+    "skillId": "s.drums.dances",
+    "skillName": "Drums & Dances",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The Heart"
+  },
+  {
+    "id": "commit.hor.s.edictsinviolable",
+    "skillId": "s.edictsinviolable",
+    "skillName": "Edicts Inviolable",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Fire"
+  },
+  {
+    "id": "commit.pre.s.edictsinviolable",
+    "skillId": "s.edictsinviolable",
+    "skillName": "Edicts Inviolable",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "Night"
+  },
+  {
+    "id": "commit.nyc.s.edictsliminal",
+    "skillId": "s.edictsliminal",
+    "skillName": "Edicts Liminal",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "Sapphire"
+  },
+  {
+    "id": "commit.sko.s.edictsliminal",
+    "skillId": "s.edictsliminal",
+    "skillName": "Edicts Liminal",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "Scolecite"
+  },
+  {
+    "id": "commit.hor.s.edictsmartial",
+    "skillId": "s.edictsmartial",
+    "skillName": "Edicts Martial",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Conflict Creates Gods"
+  },
+  {
+    "id": "commit.ill.s.edictsmartial",
+    "skillId": "s.edictsmartial",
+    "skillName": "Edicts Martial",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Understanding Creates Conflict"
+  },
+  {
+    "id": "commit.bos.s.furs.feathers",
+    "skillId": "s.furs.feathers",
+    "skillName": "Furs & Feathers",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Well in the Wood"
+  },
+  {
+    "id": "commit.nyc.s.furs.feathers",
+    "skillId": "s.furs.feathers",
+    "skillName": "Furs & Feathers",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Wings in the Wood"
+  },
+  {
+    "id": "commit.hus.s.glassblowing.vesselcrafting",
+    "skillId": "s.glassblowing.vesselcrafting",
+    "skillName": "Glassblowing & Vesselcrafting",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Glass, the Keeper"
+  },
+  {
+    "id": "commit.ith.s.glassblowing.vesselcrafting",
+    "skillId": "s.glassblowing.vesselcrafting",
+    "skillName": "Glassblowing & Vesselcrafting",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Glass, the Egg"
+  },
+  {
+    "id": "commit.ill.s.glaziery.lightsmithing",
+    "skillId": "s.glaziery.lightsmithing",
+    "skillName": "Glaziery & Lightsmithing",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The White Flower's Paradox"
+  },
+  {
+    "id": "commit.ith.s.glaziery.lightsmithing",
+    "skillId": "s.glaziery.lightsmithing",
+    "skillName": "Glaziery & Lightsmithing",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The Red Flower's Lesson"
+  },
+  {
+    "id": "commit.bos.s.herbs.infusions",
+    "skillId": "s.herbs.infusions",
+    "skillName": "Herbs & Infusions",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Root and the Source"
+  },
+  {
+    "id": "commit.pre.s.herbs.infusions",
+    "skillId": "s.herbs.infusions",
+    "skillName": "Herbs & Infusions",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Source and the Root"
+  },
+  {
+    "id": "commit.bir.s.hill.hollow",
+    "skillId": "s.hill.hollow",
+    "skillName": "Hill & Hollow",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "How They Began"
+  },
+  {
+    "id": "commit.pre.s.hill.hollow",
+    "skillId": "s.hill.hollow",
+    "skillName": "Hill & Hollow",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "How They Endured"
+  },
+  {
+    "id": "commit.bos.s.horns.ivories",
+    "skillId": "s.horns.ivories",
+    "skillName": "Horns & Ivories",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Moth's Way"
+  },
+  {
+    "id": "commit.sko.s.horns.ivories",
+    "skillId": "s.horns.ivories",
+    "skillName": "Horns & Ivories",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Chandler's Path"
+  },
+  {
+    "id": "commit.hor.s.inks.containment",
+    "skillId": "s.inks.containment",
+    "skillName": "Inks of Containment",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "When It Is Permitted"
+  },
+  {
+    "id": "commit.pre.s.inks.containment",
+    "skillId": "s.inks.containment",
+    "skillName": "Inks of Containment",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "When It Is Safe"
+  },
+  {
+    "id": "commit.hor.s.inks.power",
+    "skillId": "s.inks.power",
+    "skillName": "Inks of Power",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The Weapon"
+  },
+  {
+    "id": "commit.hus.s.inks.power",
+    "skillId": "s.inks.power",
+    "skillName": "Inks of Power",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Wound"
+  },
+  {
+    "id": "commit.hus.s.inks.revelation",
+    "skillId": "s.inks.revelation",
+    "skillName": "Inks of Revelation",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Truths that Were"
+  },
+  {
+    "id": "commit.ith.s.inks.revelation",
+    "skillId": "s.inks.revelation",
+    "skillName": "Inks of Revelation",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Truths that Will Be"
+  },
+  {
+    "id": "commit.bos.s.insects.nectars",
+    "skillId": "s.insects.nectars",
+    "skillName": "Insects & Nectars",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Grail's Favourlings"
+  },
+  {
+    "id": "commit.nyc.s.insects.nectars",
+    "skillId": "s.insects.nectars",
+    "skillName": "Insects & Nectars",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Moth's Spawn"
+  },
+  {
+    "id": "commit.bir.s.leaves.thorns",
+    "skillId": "s.leaves.thorns",
+    "skillName": "Leaves & Thorns",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "Looking Up"
+  },
+  {
+    "id": "commit.bos.s.leaves.thorns",
+    "skillId": "s.leaves.thorns",
+    "skillName": "Leaves & Thorns",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "Looking Down"
+  },
+  {
+    "id": "commit.ith.s.lockworks.clockworks",
+    "skillId": "s.lockworks.clockworks",
+    "skillName": "Lockworks & Clockworks",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Of Clocks"
+  },
+  {
+    "id": "commit.sko.s.lockworks.clockworks",
+    "skillId": "s.lockworks.clockworks",
+    "skillName": "Lockworks & Clockworks",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "Of Locks"
+  },
+  {
+    "id": "commit.hus.s.maggephenemysteries",
+    "skillId": "s.maggephenemysteries",
+    "skillName": "Maggephene Mysteries",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "Revenge"
+  },
+  {
+    "id": "commit.pre.s.maggephenemysteries",
+    "skillId": "s.maggephenemysteries",
+    "skillName": "Maggephene Mysteries",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "Rebirth"
+  },
+  {
+    "id": "commit.ill.s.meniscatereflections",
+    "skillId": "s.meniscatereflections",
+    "skillName": "Meniscate Reflections",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "What Could Be"
+  },
+  {
+    "id": "commit.pre.s.meniscatereflections",
+    "skillId": "s.meniscatereflections",
+    "skillName": "Meniscate Reflections",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "What Might Be"
+  },
+  {
+    "id": "commit.bos.s.orchids.narcotics",
+    "skillId": "s.orchids.narcotics",
+    "skillName": "Orchids & Narcotics",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Grail's Births"
+  },
+  {
+    "id": "commit.sko.s.orchids.narcotics",
+    "skillId": "s.orchids.narcotics",
+    "skillName": "Orchids & Narcotics",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Chandler's Kindling"
+  },
+  {
+    "id": "commit.hor.s.ouranoscopy",
+    "skillId": "s.ouranoscopy",
+    "skillName": "Ouranoscopy",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "Peace"
+  },
+  {
+    "id": "commit.hus.s.ouranoscopy",
+    "skillId": "s.ouranoscopy",
+    "skillName": "Ouranoscopy",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "Wisdom"
+  },
+  {
+    "id": "commit.bir.s.path.pilgrim",
+    "skillId": "s.path.pilgrim",
+    "skillName": "Path & Pilgrim",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "The Threshold"
+  },
+  {
+    "id": "commit.nyc.s.path.pilgrim",
+    "skillId": "s.path.pilgrim",
+    "skillName": "Path & Pilgrim",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Path"
+  },
+  {
+    "id": "commit.bos.s.pearl.tide",
+    "skillId": "s.pearl.tide",
+    "skillName": "Pearl & Tide",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "What Returns"
+  },
+  {
+    "id": "commit.nyc.s.pearl.tide",
+    "skillId": "s.pearl.tide",
+    "skillName": "Pearl & Tide",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "What Remains"
+  },
+  {
+    "id": "commit.bir.s.pentiments.precursors",
+    "skillId": "s.pentiments.precursors",
+    "skillName": "Pentiments & Precursors",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "Coral"
+  },
+  {
+    "id": "commit.sko.s.pentiments.precursors",
+    "skillId": "s.pentiments.precursors",
+    "skillName": "Pentiments & Precursors",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "Carapace"
+  },
+  {
+    "id": "commit.ill.s.preliminalmeter",
+    "skillId": "s.preliminalmeter",
+    "skillName": "Preliminal Meter",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Of Keys"
+  },
+  {
+    "id": "commit.ith.s.preliminalmeter",
+    "skillId": "s.preliminalmeter",
+    "skillName": "Preliminal Meter",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Of Swords"
+  },
+  {
+    "id": "commit.ill.s.purifications.exaltations",
+    "skillId": "s.purifications.exaltations",
+    "skillName": "Purifications & Exaltations",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The Hours"
+  },
+  {
+    "id": "commit.ith.s.purifications.exaltations",
+    "skillId": "s.purifications.exaltations",
+    "skillName": "Purifications & Exaltations",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The Tree"
+  },
+  {
+    "id": "commit.ith.s.putrefactions.calcinations",
+    "skillId": "s.putrefactions.calcinations",
+    "skillName": "Putrefactions & Calcinations",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "In Flames"
+  },
+  {
+    "id": "commit.sko.s.putrefactions.calcinations",
+    "skillId": "s.putrefactions.calcinations",
+    "skillName": "Putrefactions & Calcinations",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "In Ashes"
+  },
+  {
+    "id": "commit.ill.s.pyroglyphics",
+    "skillId": "s.pyroglyphics",
+    "skillName": "Pyroglyphics",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Birth in Fire"
+  },
+  {
+    "id": "commit.ith.s.pyroglyphics",
+    "skillId": "s.pyroglyphics",
+    "skillName": "Pyroglyphics",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "A Red Blossom"
+  },
+  {
+    "id": "commit.hus.s.quenchings.quellings",
+    "skillId": "s.quenchings.quellings",
+    "skillName": "Quenchings & Quellings",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "Safety in Silence"
+  },
+  {
+    "id": "commit.pre.s.quenchings.quellings",
+    "skillId": "s.quenchings.quellings",
+    "skillName": "Quenchings & Quellings",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "Safety in Oblivion"
+  },
+  {
+    "id": "commit.ill.s.raggedcrossroads",
+    "skillId": "s.raggedcrossroads",
+    "skillName": "Ragged Crossroads",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "Tomorrow's Light"
+  },
+  {
+    "id": "commit.sko.s.raggedcrossroads",
+    "skillId": "s.raggedcrossroads",
+    "skillName": "Ragged Crossroads",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "At the Threshold"
+  },
+  {
+    "id": "commit.bos.s.resurgences.emergences",
+    "skillId": "s.resurgences.emergences",
+    "skillName": "Resurgences & Emergences",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "Grail and Moth"
+  },
+  {
+    "id": "commit.pre.s.resurgences.emergences",
+    "skillId": "s.resurgences.emergences",
+    "skillName": "Resurgences & Emergences",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "Moth and Grail"
+  },
+  {
+    "id": "commit.bir.s.rhyme.remembrance",
+    "skillId": "s.rhyme.remembrance",
+    "skillName": "Rhyme & Remembrance",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "What We Were?"
+  },
+  {
+    "id": "commit.sko.s.rhyme.remembrance",
+    "skillId": "s.rhyme.remembrance",
+    "skillName": "Rhyme & Remembrance",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "Secrecy; Knowledge; Power"
+  },
+  {
+    "id": "commit.bos.s.rites.theroots",
+    "skillId": "s.rites.theroots",
+    "skillName": "Rites of the Roots",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "What is Taken"
+  },
+  {
+    "id": "commit.pre.s.rites.theroots",
+    "skillId": "s.rites.theroots",
+    "skillName": "Rites of the Roots",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "What is Given"
+  },
+  {
+    "id": "commit.ill.s.cracktrack",
+    "skillId": "s.cracktrack",
+    "skillName": "s.cracktrack",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "A Tongue of Sky"
+  },
+  {
+    "id": "commit.pre.s.cracktrack",
+    "skillId": "s.cracktrack",
+    "skillName": "s.cracktrack",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "A Tongue of Earth"
+  },
+  {
+    "id": "commit.hus.s.ericapaean",
+    "skillId": "s.ericapaean",
+    "skillName": "s.ericapaean",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The King in the Mirror"
+  },
+  {
+    "id": "commit.ill.s.ericapaean",
+    "skillId": "s.ericapaean",
+    "skillName": "s.ericapaean",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The King and the Key"
+  },
+  {
+    "id": "commit.hus.s.fucine",
+    "skillId": "s.fucine",
+    "skillName": "s.fucine",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Queen's Wound"
+  },
+  {
+    "id": "commit.ith.s.fucine",
+    "skillId": "s.fucine",
+    "skillName": "s.fucine",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The Queen's Weapon"
+  },
+  {
+    "id": "commit.bos.s.henavek",
+    "skillId": "s.henavek",
+    "skillName": "s.henavek",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Roots"
+  },
+  {
+    "id": "commit.ith.s.henavek",
+    "skillId": "s.henavek",
+    "skillName": "s.henavek",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The Stars"
+  },
+  {
+    "id": "commit.nyc.s.hyksos",
+    "skillId": "s.hyksos",
+    "skillName": "s.hyksos",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Watchmen"
+  },
+  {
+    "id": "commit.sko.s.hyksos",
+    "skillId": "s.hyksos",
+    "skillName": "s.hyksos",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Dartsmen"
+  },
+  {
+    "id": "commit.bos.s.killasimi",
+    "skillId": "s.killasimi",
+    "skillName": "s.killasimi",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Weaver's Tale"
+  },
+  {
+    "id": "commit.sko.s.killasimi",
+    "skillId": "s.killasimi",
+    "skillName": "s.killasimi",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Carpenter's Tale"
+  },
+  {
+    "id": "commit.hor.s.mandaic",
+    "skillId": "s.mandaic",
+    "skillName": "s.mandaic",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "The Jeweller's Tale"
+  },
+  {
+    "id": "commit.ith.s.mandaic",
+    "skillId": "s.mandaic",
+    "skillName": "s.mandaic",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "The Chandler's Tale"
+  },
+  {
+    "id": "commit.bir.s.ramsund",
+    "skillId": "s.ramsund",
+    "skillName": "s.ramsund",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Falconer's Tale"
+  },
+  {
+    "id": "commit.pre.s.ramsund",
+    "skillId": "s.ramsund",
+    "skillName": "s.ramsund",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "The Thief's Tale"
+  },
+  {
+    "id": "commit.bir.s.sabazine",
+    "skillId": "s.sabazine",
+    "skillName": "s.sabazine",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Fisher's Tale"
+  },
+  {
+    "id": "commit.hor.s.sabazine",
+    "skillId": "s.sabazine",
+    "skillName": "s.sabazine",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Sailor's Tale"
+  },
+  {
+    "id": "commit.bir.s.vak",
+    "skillId": "s.vak",
+    "skillName": "s.vak",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "An Opportunity"
+  },
+  {
+    "id": "commit.nyc.s.vak",
+    "skillId": "s.vak",
+    "skillName": "s.vak",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "An Arrangement"
+  },
+  {
+    "id": "commit.hor.s.sacralimiae",
+    "skillId": "s.sacralimiae",
+    "skillName": "Sacra Limiae",
+    "wisdom": "Horomachistry",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "Of Limits"
+  },
+  {
+    "id": "commit.hus.s.sacralimiae",
+    "skillId": "s.sacralimiae",
+    "skillName": "Sacra Limiae",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "Of Endings"
+  },
+  {
+    "id": "commit.hor.s.sacrasolisinvicti",
+    "skillId": "s.sacrasolisinvicti",
+    "skillName": "Sacra Solis Invicti",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "A Light Above"
+  },
+  {
+    "id": "commit.ill.s.sacrasolisinvicti",
+    "skillId": "s.sacrasolisinvicti",
+    "skillName": "Sacra Solis Invicti",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "A Light Within"
+  },
+  {
+    "id": "commit.bir.s.sandstories",
+    "skillId": "s.sandstories",
+    "skillName": "Sand Stories",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "A City"
+  },
+  {
+    "id": "commit.sko.s.sandstories",
+    "skillId": "s.sandstories",
+    "skillName": "Sand Stories",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "A Temple"
+  },
+  {
+    "id": "commit.bir.s.seastories",
+    "skillId": "s.seastories",
+    "skillName": "Sea Stories",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "The Sea-Born"
+  },
+  {
+    "id": "commit.nyc.s.seastories",
+    "skillId": "s.seastories",
+    "skillName": "Sea Stories",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Wolf-Wife"
+  },
+  {
+    "id": "commit.hus.s.serpents.venoms",
+    "skillId": "s.serpents.venoms",
+    "skillName": "Serpents & Venoms",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Last Sun"
+  },
+  {
+    "id": "commit.sko.s.serpents.venoms",
+    "skillId": "s.serpents.venoms",
+    "skillName": "Serpents & Venoms",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The First Sun"
+  },
+  {
+    "id": "commit.hus.s.sharps",
+    "skillId": "s.sharps",
+    "skillName": "Sharps",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "A Wound in Dreams"
+  },
+  {
+    "id": "commit.sko.s.sharps",
+    "skillId": "s.sharps",
+    "skillName": "Sharps",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "A War in Dreams"
+  },
+  {
+    "id": "commit.nyc.s.sickle.eclipse",
+    "skillId": "s.sickle.eclipse",
+    "skillName": "Sickle & Eclipse",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "Words to Walk By"
+  },
+  {
+    "id": "commit.pre.s.sickle.eclipse",
+    "skillId": "s.sickle.eclipse",
+    "skillName": "Sickle & Eclipse",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "Secret, Safe"
+  },
+  {
+    "id": "commit.hus.s.sights.sensations",
+    "skillId": "s.sights.sensations",
+    "skillName": "Sights & Sensations",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The End"
+  },
+  {
+    "id": "commit.nyc.s.sights.sensations",
+    "skillId": "s.sights.sensations",
+    "skillName": "Sights & Sensations",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "An End"
+  },
+  {
+    "id": "commit.bir.s.skystories",
+    "skillId": "s.skystories",
+    "skillName": "Sky Stories",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Roost"
+  },
+  {
+    "id": "commit.hor.s.skystories",
+    "skillId": "s.skystories",
+    "skillName": "Sky Stories",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The Tryst"
+  },
+  {
+    "id": "commit.bir.s.snowstories",
+    "skillId": "s.snowstories",
+    "skillName": "Snow Stories",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "Much Remains"
+  },
+  {
+    "id": "commit.hus.s.snowstories",
+    "skillId": "s.snowstories",
+    "skillName": "Snow Stories",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Much is Lost"
+  },
+  {
+    "id": "commit.ith.s.solutions.separations",
+    "skillId": "s.solutions.separations",
+    "skillName": "Solutions & Separations",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The Straight"
+  },
+  {
+    "id": "commit.sko.s.solutions.separations",
+    "skillId": "s.solutions.separations",
+    "skillName": "Solutions & Separations",
+    "wisdom": "Skolekosophy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Crooked"
+  },
+  {
+    "id": "commit.bos.s.spices.savours",
+    "skillId": "s.spices.savours",
+    "skillName": "Spices & Savours",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "Served Cold"
+  },
+  {
+    "id": "commit.ith.s.spices.savours",
+    "skillId": "s.spices.savours",
+    "skillName": "Spices & Savours",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "Served Hot"
+  },
+  {
+    "id": "commit.ith.s.stitching.binding",
+    "skillId": "s.stitching.binding",
+    "skillName": "Stitching & Binding",
+    "wisdom": "Ithastry",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "To Hold"
+  },
+  {
+    "id": "commit.pre.s.stitching.binding",
+    "skillId": "s.stitching.binding",
+    "skillName": "Stitching & Binding",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "To Heal"
+  },
+  {
+    "id": "commit.bir.s.stonestories",
+    "skillId": "s.stonestories",
+    "skillName": "Stone Stories",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "A Vengeance"
+  },
+  {
+    "id": "commit.pre.s.stonestories",
+    "skillId": "s.stonestories",
+    "skillName": "Stone Stories",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "A Vigilance"
+  },
+  {
+    "id": "commit.bir.s.strings.songs",
+    "skillId": "s.strings.songs",
+    "skillName": "Strings & Songs",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "The Round"
+  },
+  {
+    "id": "commit.nyc.s.strings.songs",
+    "skillId": "s.strings.songs",
+    "skillName": "Strings & Songs",
+    "wisdom": "Nyctodromy",
+    "ability": "xsha",
+    "abilityLabel": "Shapt",
+    "soul": "Knock",
+    "foundationStone": "The Passage"
+  },
+  {
+    "id": "commit.hus.s.surgeries.exsanguinations",
+    "skillId": "s.surgeries.exsanguinations",
+    "skillName": "Surgeries & Exsanguinations",
+    "wisdom": "Hushery",
+    "ability": "xwis",
+    "abilityLabel": "Wist",
+    "soul": "Winter",
+    "foundationStone": "The White"
+  },
+  {
+    "id": "commit.pre.s.surgeries.exsanguinations",
+    "skillId": "s.surgeries.exsanguinations",
+    "skillName": "Surgeries & Exsanguinations",
+    "wisdom": "Preservation",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "The Golden"
+  },
+  {
+    "id": "commit.hor.s.thegreatsignsandthegreatscars",
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "skillName": "The Great Signs and the Great Scars",
+    "wisdom": "Horomachistry",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "The First Enemy"
+  },
+  {
+    "id": "commit.hus.s.thegreatsignsandthegreatscars",
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "skillName": "The Great Signs and the Great Scars",
+    "wisdom": "Hushery",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The First Error"
+  },
+  {
+    "id": "commit.ill.s.transformations.liberations",
+    "skillId": "s.transformations.liberations",
+    "skillName": "Transformations & Liberations",
+    "wisdom": "Illumination",
+    "ability": "xmet",
+    "abilityLabel": "Mettle",
+    "soul": "Forge",
+    "foundationStone": "From Light"
+  },
+  {
+    "id": "commit.ith.s.transformations.liberations",
+    "skillId": "s.transformations.liberations",
+    "skillName": "Transformations & Liberations",
+    "wisdom": "Ithastry",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "From Steel"
+  },
+  {
+    "id": "commit.bos.s.tridesmahiera",
+    "skillId": "s.tridesmahiera",
+    "skillName": "Tridesma Hiera",
+    "wisdom": "Bosk",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The First among the Feasts"
+  },
+  {
+    "id": "commit.pre.s.tridesmahiera",
+    "skillId": "s.tridesmahiera",
+    "skillName": "Tridesma Hiera",
+    "wisdom": "Preservation",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "The Light, the Night, the Wood"
+  },
+  {
+    "id": "commit.ill.s.watchmansparadoxes",
+    "skillId": "s.watchmansparadoxes",
+    "skillName": "Watchman's Paradoxes",
+    "wisdom": "Illumination",
+    "ability": "xpho",
+    "abilityLabel": "Phost",
+    "soul": "Lantern",
+    "foundationStone": "From Light"
+  },
+  {
+    "id": "commit.nyc.s.watchmansparadoxes",
+    "skillId": "s.watchmansparadoxes",
+    "skillName": "Watchman's Paradoxes",
+    "wisdom": "Nyctodromy",
+    "ability": "xfet",
+    "abilityLabel": "Fet",
+    "soul": "Rose",
+    "foundationStone": "From Change"
+  },
+  {
+    "id": "commit.bir.s.weaving.knotworking",
+    "skillId": "s.weaving.knotworking",
+    "skillName": "Weaving & Knotworking",
+    "wisdom": "Birdsong",
+    "ability": "xcho",
+    "abilityLabel": "Chor",
+    "soul": "Heart",
+    "foundationStone": "What Remains"
+  },
+  {
+    "id": "commit.bos.s.weaving.knotworking",
+    "skillId": "s.weaving.knotworking",
+    "skillName": "Weaving & Knotworking",
+    "wisdom": "Bosk",
+    "ability": "xhea",
+    "abilityLabel": "Health",
+    "soul": "Heart",
+    "foundationStone": "What Endures"
+  },
+  {
+    "id": "commit.bir.s.wolfstories",
+    "skillId": "s.wolfstories",
+    "skillName": "Wolf Stories",
+    "wisdom": "Birdsong",
+    "ability": "xtri",
+    "abilityLabel": "Trist",
+    "soul": "Moth",
+    "foundationStone": "The Wolf's Return"
+  },
+  {
+    "id": "commit.sko.s.wolfstories",
+    "skillId": "s.wolfstories",
+    "skillName": "Wolf Stories",
+    "wisdom": "Skolekosophy",
+    "ability": "xere",
+    "abilityLabel": "Ereb",
+    "soul": "Grail",
+    "foundationStone": "The Wolf's Beginning"
+  }
+]

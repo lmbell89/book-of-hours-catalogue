@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 Liam Bell
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+GAME CONTENT NOTICE
+
+This tool is an unofficial companion app for Book of Hours, developed and
+published by Weather Factory Ltd (https://weatherfactory.biz). All game
+content, data, names, and lore referenced herein — including but not limited
+to item names, skill names, soul aspects, and workstation data — are the
+intellectual property of Weather Factory Ltd and are used here purely for
+informational, non-commercial fan purposes.
+
+The game data bundled in src/data/ was extracted from publicly distributed
+game files and reflects information already freely documented in community
+resources. No proprietary assets (art, audio, or executable code) are
+included.
+
+This project is not affiliated with or endorsed by Weather Factory Ltd.

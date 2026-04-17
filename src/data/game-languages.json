@@ -1,0 +1,92 @@
+[
+  {
+    "id": "w.aramaic",
+    "name": "Aramaic",
+    "isDefault": true,
+    "bookCount": 10
+  },
+  {
+    "id": "w.cracktrack",
+    "name": "Cracktrack",
+    "isDefault": false,
+    "bookCount": 6
+  },
+  {
+    "id": "w.ericapaean",
+    "name": "Ericapaean",
+    "isDefault": false,
+    "bookCount": 6
+  },
+  {
+    "id": "w.fucine",
+    "name": "Fucine",
+    "isDefault": false,
+    "bookCount": 17
+  },
+  {
+    "id": "w.greek",
+    "name": "Greek",
+    "isDefault": true,
+    "bookCount": 18
+  },
+  {
+    "id": "w.henavek",
+    "name": "Henavek",
+    "isDefault": false,
+    "bookCount": 3
+  },
+  {
+    "id": "w.hyksos",
+    "name": "Hyksos",
+    "isDefault": false,
+    "bookCount": 5
+  },
+  {
+    "id": "w.killasimi",
+    "name": "Killasimi",
+    "isDefault": false,
+    "bookCount": 8
+  },
+  {
+    "id": "w.latin",
+    "name": "Latin",
+    "isDefault": true,
+    "bookCount": 20
+  },
+  {
+    "id": "w.mandaic",
+    "name": "Mandaic",
+    "isDefault": false,
+    "bookCount": 13
+  },
+  {
+    "id": "w.phrygian",
+    "name": "Phrygian",
+    "isDefault": true,
+    "bookCount": 11
+  },
+  {
+    "id": "w.ramsund",
+    "name": "Ramsund",
+    "isDefault": false,
+    "bookCount": 2
+  },
+  {
+    "id": "w.sabazine",
+    "name": "Sabazine",
+    "isDefault": false,
+    "bookCount": 5
+  },
+  {
+    "id": "w.sanskrit",
+    "name": "Sanskrit",
+    "isDefault": true,
+    "bookCount": 13
+  },
+  {
+    "id": "w.vak",
+    "name": "Vak",
+    "isDefault": false,
+    "bookCount": 16
+  }
+]

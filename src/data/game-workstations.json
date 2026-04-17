@@ -1,0 +1,2650 @@
+[
+  {
+    "id": "world.moor",
+    "name": "A Walk on the Moor",
+    "souls": [
+      "Heart",
+      "Rose",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.glassware.alchemist",
+    "name": "Alchemist's Glassware",
+    "souls": [
+      "Winter",
+      "Lantern",
+      "Grail",
+      "Forge"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Flower",
+      "Leaf",
+      "Material",
+      "Remains",
+      "Root"
+    ],
+    "slot5": [
+      "Fuel",
+      "Liquid"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.lady",
+    "name": "Altar of the Knot",
+    "souls": [
+      "Moth",
+      "Moon",
+      "Heart"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Mark",
+      "Material",
+      "Omen"
+    ],
+    "slot5": [
+      "Flower",
+      "Material",
+      "Memory",
+      "Woven"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.ascite",
+    "name": "Altar: Ascite",
+    "souls": [
+      "Edge",
+      "Scale",
+      "Winter",
+      "Knock"
+    ],
+    "wisdom": "Nyctodromy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Mark",
+      "Omen",
+      "Tool"
+    ],
+    "slot5": [
+      "Memory",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.malachite",
+    "name": "Altar: Malachite",
+    "souls": [
+      "Moth",
+      "Nectar",
+      "Heart"
+    ],
+    "wisdom": "Preservation",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Mark",
+      "Omen",
+      "Sustenance"
+    ],
+    "slot5": [
+      "Flower",
+      "Memory",
+      "Remains",
+      "Root",
+      "Sustenance",
+      "Woven"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.tentreto",
+    "name": "Altar: St Tentreto",
+    "souls": [
+      "Moon",
+      "Moth",
+      "Knock",
+      "Scale"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Blank",
+      "Cooperative",
+      "Element of the soul",
+      "Memory"
+    ],
+    "slot5": [
+      "Cooperative",
+      "Liquid",
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.tentreto.offering",
+    "name": "Altar: St Tentreto",
+    "souls": [
+      "Moon",
+      "Moth",
+      "Knock",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Blank",
+      "Cooperative",
+      "Element of the soul",
+      "Memory"
+    ],
+    "slot5": [
+      "Cooperative",
+      "Liquid",
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.chair.barber",
+    "name": "Barber's Chair",
+    "souls": [
+      "Heart",
+      "Grail",
+      "Moth"
+    ],
+    "wisdom": "Preservation",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "world.beachcombing",
+    "name": "Beachcombing",
+    "souls": [
+      "Heart",
+      "Moon",
+      "Rose"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.beehive.liselotte",
+    "name": "Beehive",
+    "souls": [
+      "Nectar",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.beehive",
+    "name": "Beehive",
+    "souls": [
+      "Nectar",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "world.sea.boathouse",
+    "name": "Brancrug Boathouse",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.cage",
+    "name": "Cage",
+    "souls": [
+      "Moth",
+      "Moon",
+      "Knock",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Beverage",
+      "Cooperative",
+      "Sustenance"
+    ],
+    "slot5": [
+      "Beverage",
+      "Cooperative",
+      "Sustenance"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.calicite",
+    "name": "Calicite Altar",
+    "souls": [
+      "Moon",
+      "Heart",
+      "Grail"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Beverage",
+      "Cooperative",
+      "Element of the soul",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Beverage",
+      "Flower",
+      "Memory",
+      "Remains",
+      "Woven"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.catacombs",
+    "name": "Catacombs Altar",
+    "souls": [
+      "Moon",
+      "Scale",
+      "Winter"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Mark",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Memory",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.chrysalis",
+    "name": "Chrysalis",
+    "souls": [
+      "Nectar",
+      "Heart",
+      "Scale",
+      "Moth"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Element of the soul",
+      "Liquid"
+    ],
+    "slot5": [
+      "Liquid",
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.chrysalis.wisp",
+    "name": "Chrysalis",
+    "souls": [
+      "Nectar",
+      "Heart",
+      "Scale",
+      "Moth",
+      "Winter"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Element of the soul",
+      "Liquid"
+    ],
+    "slot5": [
+      "Liquid",
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.sarcophagus.columbic",
+    "name": "Columbic Sarcophagus",
+    "souls": [
+      "Moth",
+      "Winter"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.sarcophagus.columbic.mihail",
+    "name": "Columbic Sarcophagus",
+    "souls": [
+      "Moth",
+      "Winter",
+      "Forge",
+      "Lantern"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.condignator",
+    "name": "Condignator",
+    "souls": [
+      "Edge",
+      "Forge",
+      "Knock",
+      "Lantern"
+    ],
+    "wisdom": "Skolekosophy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Fuel",
+      "Memory",
+      "Remains",
+      "Tool"
+    ],
+    "slot5": [
+      "Cooperative",
+      "Element of the soul",
+      "Fuel",
+      "Memory",
+      "Remains",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.corals.deeplight",
+    "name": "Deeplight Corals",
+    "souls": [
+      "Nectar",
+      "Rose",
+      "Scale",
+      "Moon"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "world.corals.deeplight",
+    "name": "Deeplight Corals",
+    "souls": [
+      "Nectar",
+      "Rose",
+      "Scale",
+      "Moon"
+    ],
+    "wisdom": "Bosk",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.ambrose.consider",
+    "name": "Desk: Ambrose",
+    "souls": [
+      "Forge",
+      "Knock",
+      "Lantern",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.eva.consider",
+    "name": "Desk: Eva",
+    "souls": [
+      "Edge",
+      "Grail",
+      "Moon",
+      "Winter"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.governor.consider",
+    "name": "Desk: Governor",
+    "souls": [
+      "Lantern",
+      "Edge",
+      "Moth",
+      "Forge"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.natan.consider",
+    "name": "Desk: Natan",
+    "souls": [
+      "Heart",
+      "Knock",
+      "Rose",
+      "Moth"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.nonna.consider",
+    "name": "Desk: Nonna",
+    "souls": [
+      "Lantern",
+      "Grail",
+      "Nectar",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.pale.consider",
+    "name": "Desk: Pale",
+    "souls": [
+      "Lantern",
+      "Scale",
+      "Sky",
+      "Winter"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.reading.consider",
+    "name": "Desk: Reading Room",
+    "souls": [
+      "Heart",
+      "Lantern",
+      "Moon",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.desk.vagabond.consider",
+    "name": "Desk: Vagabond",
+    "souls": [
+      "Edge",
+      "Knock",
+      "Rose",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Blank",
+      "Readable"
+    ],
+    "slot5": [
+      "Ink",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.dispensary",
+    "name": "Dispensary",
+    "souls": [
+      "Nectar",
+      "Knock",
+      "Moth",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Flower",
+      "Remains"
+    ],
+    "slot5": [
+      "Fuel",
+      "Liquid",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.entrance",
+    "name": "Entrance Hall Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.yard.exercise",
+    "name": "Exercise Yard",
+    "souls": [
+      "Winter",
+      "Edge",
+      "Heart",
+      "Knock"
+    ],
+    "wisdom": "Ithastry",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.foundry",
+    "name": "Foundry",
+    "souls": [
+      "Knock",
+      "Edge",
+      "Scale",
+      "Forge"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Glass",
+      "Metal",
+      "Stone"
+    ],
+    "slot5": [
+      "Fuel",
+      "Liquid"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.a.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.a.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.a.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.b.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.b.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.b.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.c.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.c.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.c.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.d.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.d.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.d.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.g.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.g.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.g.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.h.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.h.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.h.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.p.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.p.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.p.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.v.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.v.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.v.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.x.1",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.x.2",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "garden.plot.x.3",
+    "name": "Garden",
+    "souls": [
+      "Nectar"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.phonograph.consider",
+    "name": "Governor's Phonograph",
+    "souls": [
+      "Rose",
+      "Scale",
+      "Heart",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Phonograph Record"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.clock.great",
+    "name": "Great Clock",
+    "souls": [
+      "Forge",
+      "Knock",
+      "Sky",
+      "Winter"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Element of the soul",
+      "Omen"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.cell.adept",
+    "name": "Guest Bed: Adept Cell",
+    "souls": [
+      "Scale",
+      "Lantern",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.hermit",
+    "name": "Guest Bed: Hermit",
+    "souls": [
+      "Scale",
+      "Moon",
+      "Sky",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.infirmary",
+    "name": "Guest Bed: Infirmary",
+    "souls": [
+      "Nectar",
+      "Edge",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.librarian",
+    "name": "Guest Bed: Librarian's Quarters",
+    "souls": [
+      "Lantern",
+      "Rose",
+      "Sky",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.lodge",
+    "name": "Guest Bed: Lodge",
+    "souls": [
+      "Scale",
+      "Forge",
+      "Knock",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.cell.long",
+    "name": "Guest Bed: Long Cell",
+    "souls": [
+      "Scale",
+      "Lantern",
+      "Edge",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.motley",
+    "name": "Guest Bed: Motley",
+    "souls": [
+      "Forge",
+      "Rose",
+      "Moth",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.pale",
+    "name": "Guest Bed: Pale",
+    "souls": [
+      "Grail",
+      "Sky",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.servants1",
+    "name": "Guest Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.servants2",
+    "name": "Guest Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.servants3",
+    "name": "Guest Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.servants4",
+    "name": "Guest Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.severn",
+    "name": "Guest Bed: Severn Chamber",
+    "souls": [
+      "Grail",
+      "Moon",
+      "Rose",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.solomon",
+    "name": "Guest Bed: Solomon",
+    "souls": [
+      "Rose",
+      "Lantern",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.guest.violet",
+    "name": "Guest Bed: Violet Chamber",
+    "souls": [
+      "Grail",
+      "Knock",
+      "Moth",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.workbench.gullscry",
+    "name": "Gullscry Workbench",
+    "souls": [
+      "Forge",
+      "Sky",
+      "Winter",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Ductile",
+      "Remains",
+      "Tool",
+      "Wood",
+      "Wooden",
+      "Woven"
+    ],
+    "slot5": [
+      "Ductile",
+      "Remains",
+      "Tool",
+      "Wood",
+      "Wooden"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.mirrors",
+    "name": "Hall of Division Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.kitchen.hallofvoices",
+    "name": "Hearth: Hall of Voices",
+    "souls": [
+      "Moon",
+      "Edge",
+      "Nectar",
+      "Grail"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot5": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot6": [
+      "Kitchenware",
+      "Knife"
+    ]
+  },
+  {
+    "id": "library.fireplace.hermit",
+    "name": "Hermit's Stove",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.workbench.hermit",
+    "name": "Hermit's Workbench",
+    "souls": [
+      "Forge",
+      "Sky",
+      "Scale",
+      "Moon"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Ductile",
+      "Remains",
+      "Stone",
+      "Tool",
+      "Wooden",
+      "Woven"
+    ],
+    "slot5": [
+      "Ductile",
+      "Remains",
+      "Stone",
+      "Tool",
+      "Wooden"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.well",
+    "name": "Hush House Well",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.infirmary",
+    "name": "Infirmary Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.bells",
+    "name": "Instrument: Bells",
+    "souls": [
+      "Sky",
+      "Forge"
+    ],
+    "wisdom": "Ithastry",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.piano.grand",
+    "name": "Instrument: Grand Piano",
+    "souls": [
+      "Sky",
+      "Rose"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.drum",
+    "name": "Instrument: Hallowed Drum",
+    "souls": [
+      "Sky",
+      "Heart"
+    ],
+    "wisdom": "Preservation",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.harp2",
+    "name": "Instrument: Hunter's Harp",
+    "souls": [
+      "Sky",
+      "Scale"
+    ],
+    "wisdom": "Nyctodromy",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.organ",
+    "name": "Instrument: Organ",
+    "souls": [
+      "Sky",
+      "Forge"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.piano.servants",
+    "name": "Instrument: Piano",
+    "souls": [
+      "Sky",
+      "Moth"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.doublebass",
+    "name": "Instrument: Quivering Double Bass",
+    "souls": [
+      "Sky",
+      "Grail"
+    ],
+    "wisdom": "Birdsong",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.instrument.harp",
+    "name": "Instrument: Sunset Harp",
+    "souls": [
+      "Sky",
+      "Moon"
+    ],
+    "wisdom": "Birdsong",
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Sound"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.kitchen.gaol",
+    "name": "Kitchen Range: Gaol",
+    "souls": [
+      "Scale",
+      "Lantern",
+      "Nectar",
+      "Grail"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot5": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot6": [
+      "Kitchenware",
+      "Knife"
+    ]
+  },
+  {
+    "id": "library.kitchen.servants",
+    "name": "Kitchen Range: Servants",
+    "souls": [
+      "Scale",
+      "Heart",
+      "Nectar",
+      "Grail"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot5": [
+      "Beverage",
+      "Cooking Ingredient",
+      "Flower",
+      "Fuel",
+      "Leaf",
+      "Root",
+      "Sustenance"
+    ],
+    "slot6": [
+      "Kitchenware",
+      "Knife"
+    ]
+  },
+  {
+    "id": "library.fireplace.librarian",
+    "name": "Librarian's Quarters Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "world.sea.crane",
+    "name": "Loading Dock Crane",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.lodge",
+    "name": "Lodge Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.prospect.loggia",
+    "name": "Loggia Prospect",
+    "souls": [
+      "Moon",
+      "Rose"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Blank",
+      "Cooperative",
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.long1",
+    "name": "Long Tower Study Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.loom",
+    "name": "Loom",
+    "souls": [
+      "Heart",
+      "Moth",
+      "Nectar",
+      "Rose"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Fabric"
+    ],
+    "slot5": [
+      "Fabric"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.mirrors",
+    "name": "Mirrors",
+    "souls": [
+      "Grail",
+      "Knock",
+      "Winter",
+      "Lantern"
+    ],
+    "wisdom": "Nyctodromy",
+    "slot4": [
+      "Element of the soul",
+      "Light"
+    ],
+    "slot5": [
+      "Light",
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "village.killes.open",
+    "name": "Mrs and Mr Kille",
+    "souls": [
+      "Winter",
+      "Grail"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.cell.adept",
+    "name": "My Bed: Adept Cell",
+    "souls": [
+      "Scale",
+      "Lantern",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.hermit",
+    "name": "My Bed: Hermit",
+    "souls": [
+      "Scale",
+      "Moon",
+      "Sky",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.infirmary",
+    "name": "My Bed: Infirmary",
+    "souls": [
+      "Nectar",
+      "Edge",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.librarian",
+    "name": "My Bed: Librarian's Quarters",
+    "souls": [
+      "Lantern",
+      "Rose",
+      "Sky",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.lodge",
+    "name": "My Bed: Lodge",
+    "souls": [
+      "Scale",
+      "Forge",
+      "Knock",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.cell.long",
+    "name": "My Bed: Long Cell",
+    "souls": [
+      "Scale",
+      "Lantern",
+      "Edge",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.motley",
+    "name": "My Bed: Motley",
+    "souls": [
+      "Forge",
+      "Rose",
+      "Moth",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.pale",
+    "name": "My Bed: Pale",
+    "souls": [
+      "Grail",
+      "Sky",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.servants1",
+    "name": "My Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.servants2",
+    "name": "My Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.servants3",
+    "name": "My Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.servants4",
+    "name": "My Bed: Servant's Quarters",
+    "souls": [
+      "Forge",
+      "Nectar",
+      "Scale",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.severn",
+    "name": "My Bed: Severn Chamber",
+    "souls": [
+      "Grail",
+      "Moon",
+      "Rose",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.solomon",
+    "name": "My Bed: Solomon",
+    "souls": [
+      "Rose",
+      "Lantern",
+      "Winter",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.bed.rest.violet",
+    "name": "My Bed: Violet Chamber",
+    "souls": [
+      "Grail",
+      "Knock",
+      "Moth",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Malady"
+    ],
+    "slot5": [
+      "Beverage",
+      "Covenant",
+      "Restorative"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.table.necropsy",
+    "name": "Necropsy Table",
+    "souls": [
+      "Scale",
+      "Heart",
+      "Knock",
+      "Winter"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Carcass",
+      "Material",
+      "Remains",
+      "Tool"
+    ],
+    "slot5": [
+      "Carcass",
+      "Material",
+      "Remains",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.nocturnary",
+    "name": "Nocturnary",
+    "souls": [
+      "Winter",
+      "Nectar",
+      "Grail",
+      "Moon"
+    ],
+    "wisdom": "Skolekosophy",
+    "slot4": [
+      "Device",
+      "Element of the soul",
+      "Omen",
+      "Pigment",
+      "Wood"
+    ],
+    "slot5": [
+      "Liquid",
+      "Memory",
+      "Omen",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.oubliette",
+    "name": "Oubliette Containment",
+    "souls": [
+      "Winter",
+      "Edge",
+      "Lantern",
+      "Forge"
+    ],
+    "wisdom": "Ithastry",
+    "slot4": [
+      "Element of the soul",
+      "Fuel",
+      "Gem",
+      "Metal",
+      "Remains"
+    ],
+    "slot5": [
+      "Fuel",
+      "Gem",
+      "Memory",
+      "Metal",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.pale",
+    "name": "Pale Chamber Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "village.postoffice.open",
+    "name": "Post Office",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [
+      "Pence",
+      "Tally"
+    ],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.practic.dummy",
+    "name": "Practic Garden Dummy",
+    "souls": [
+      "Edge",
+      "Scale",
+      "Heart",
+      "Winter"
+    ],
+    "wisdom": "Illumination",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.duelhall",
+    "name": "Practice Equipment",
+    "souls": [
+      "Edge",
+      "Scale",
+      "Lantern",
+      "Heart"
+    ],
+    "wisdom": "Illumination",
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.projector.consider",
+    "name": "Projector",
+    "souls": [
+      "Lantern",
+      "Forge",
+      "Grail",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Film"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "pumps.lower",
+    "name": "Pumps: Lower Level",
+    "souls": [
+      "Forge",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "pumps.upper",
+    "name": "Pumps: Upper Level",
+    "souls": [
+      "Forge",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.refectory",
+    "name": "Refectory Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.rowenarium",
+    "name": "Rowenarium",
+    "souls": [
+      "Rose",
+      "Winter",
+      "Grail",
+      "Moth"
+    ],
+    "wisdom": "Skolekosophy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Key",
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.rowenarium.spencer.down",
+    "name": "Rowenarium",
+    "souls": [
+      "Rose",
+      "Winter",
+      "Grail",
+      "Moth",
+      "Knock"
+    ],
+    "wisdom": "Skolekosophy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Key",
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.rowenarium.spencer.out",
+    "name": "Rowenarium",
+    "souls": [
+      "Rose",
+      "Winter",
+      "Grail",
+      "Moth",
+      "Knock"
+    ],
+    "wisdom": "Skolekosophy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Key",
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.spring",
+    "name": "Sacred Spring",
+    "souls": [
+      "Nectar",
+      "Grail",
+      "Moon"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Element of the soul",
+      "Omen",
+      "Remains"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment",
+      "Remains"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.workbench.governor",
+    "name": "Sculptor's Bench",
+    "souls": [
+      "Forge",
+      "Lantern",
+      "Scale",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Ductile",
+      "Remains",
+      "Stone",
+      "Tool",
+      "Wooden",
+      "Woven"
+    ],
+    "slot5": [
+      "Ductile",
+      "Remains",
+      "Stone",
+      "Tool",
+      "Wooden"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "world.sea.beach",
+    "name": "Sea's Edge",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [
+      "Beast",
+      "Element of the soul",
+      "Penny"
+    ],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.servants",
+    "name": "Servants' Hall Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "station.serving.lodge",
+    "name": "Serve Here",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "station.serving.kitchen",
+    "name": "Serve Here",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "station.serving.gaol",
+    "name": "Serve Here",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.atrium",
+    "name": "Shrine: St Januarius",
+    "souls": [
+      "Rose",
+      "Sky",
+      "Heart",
+      "Knock"
+    ],
+    "wisdom": "Nyctodromy",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.chancel",
+    "name": "Shrine: the Chancel",
+    "souls": [
+      "Moth",
+      "Winter",
+      "Edge"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.chancel.mihail",
+    "name": "Shrine: the Chancel",
+    "souls": [
+      "Moth",
+      "Winter",
+      "Edge",
+      "Forge",
+      "Lantern"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.glorious",
+    "name": "Shrine: the Madrugad",
+    "souls": [
+      "Sky",
+      "Winter",
+      "Forge"
+    ],
+    "wisdom": "Ithastry",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.radiant",
+    "name": "Shrine: the Watchman",
+    "souls": [
+      "Rose",
+      "Sky",
+      "Lantern"
+    ],
+    "wisdom": "Illumination",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Gem",
+      "Lens",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.altar.solar",
+    "name": "Solar Altar",
+    "souls": [
+      "Sky",
+      "Winter",
+      "Lantern"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Cooperative",
+      "Element of the soul",
+      "Light",
+      "Mark",
+      "Omen"
+    ],
+    "slot5": [
+      "Fuel",
+      "Gem",
+      "Lens",
+      "Light",
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.prospect.spire",
+    "name": "Spire Prospect",
+    "souls": [
+      "Moth",
+      "Sky"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Blank",
+      "Cooperative",
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.staffroom",
+    "name": "Staff-Room Stove",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.telescope",
+    "name": "Telescope",
+    "souls": [
+      "Forge",
+      "Moon",
+      "Rose",
+      "Sky"
+    ],
+    "wisdom": "Horomachistry",
+    "slot4": [
+      "Element of the soul",
+      "Lens",
+      "Tool"
+    ],
+    "slot5": [
+      "Lens",
+      "Memory",
+      "Tool"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "village.sweetbones.open",
+    "name": "The 'Sweet Bones'",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Pence",
+      "Soaked",
+      "Soiled"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "world.tree.gate",
+    "name": "The Earl's Yew",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [
+      "Journal"
+    ],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "world.nests",
+    "name": "The Gull-Colony",
+    "souls": [
+      "Rose",
+      "Scale",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "village.rectory.open",
+    "name": "The Rectory",
+    "souls": [
+      "Lantern",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "world.caves",
+    "name": "The Sea-Caves",
+    "souls": [
+      "Moon",
+      "Scale"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "village.smithy.open",
+    "name": "The Smithy",
+    "souls": [
+      "Edge",
+      "Forge",
+      "Heart"
+    ],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.phonograph.severn.consider",
+    "name": "Thirza's Phonograph",
+    "souls": [
+      "Knock",
+      "Moon",
+      "Heart",
+      "Sky"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Phonograph Record"
+    ],
+    "slot5": [
+      "Memory"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.prospect.towertop",
+    "name": "Tower-Top Prospect",
+    "souls": [
+      "Sky",
+      "Winter"
+    ],
+    "wisdom": "Hushery",
+    "slot4": [
+      "Blank",
+      "Cooperative",
+      "Element of the soul"
+    ],
+    "slot5": [
+      "Memory",
+      "Pigment"
+    ],
+    "slot6": []
+  },
+  {
+    "id": "library.fireplace.westcott",
+    "name": "Westcott Room Fireplace",
+    "souls": [],
+    "wisdom": null,
+    "slot4": [],
+    "slot5": [],
+    "slot6": []
+  },
+  {
+    "id": "library.workbench.gallery",
+    "name": "Windlit Workbench",
+    "souls": [
+      "Forge",
+      "Lantern",
+      "Heart",
+      "Knock"
+    ],
+    "wisdom": null,
+    "slot4": [
+      "Ductile",
+      "Remains",
+      "Tool",
+      "Wood",
+      "Wooden",
+      "Woven"
+    ],
+    "slot5": [
+      "Ductile",
+      "Remains",
+      "Tool",
+      "Wood",
+      "Wooden"
+    ],
+    "slot6": []
+  }
+]

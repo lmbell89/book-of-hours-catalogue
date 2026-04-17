@@ -1,0 +1,2812 @@
+[
+  {
+    "id": "t.acatalogueofunchartedpleasures",
+    "name": "A Catalogue of Uncharted Pleasures",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 12
+    },
+    "skillId": "s.orchids.narcotics",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.achildstreasuryofgoldenafternoons",
+    "name": "A Child's Treasury of Golden Afternoons",
+    "rereadResult": "Numen: Merciless Alteration",
+    "souls": {
+      "Edge": 10
+    },
+    "skillId": "s.sharps",
+    "language": "Hyksos"
+  },
+  {
+    "id": "t.adescentoftheshell",
+    "name": "A Descent of the Shell",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 14
+    },
+    "skillId": "s.purifications.exaltations",
+    "language": null
+  },
+  {
+    "id": "t.ajourneytothegrove",
+    "name": "A Journey to the Grove",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.orchids.narcotics",
+    "language": null
+  },
+  {
+    "id": "t.alightintheinkwell",
+    "name": "A Light in the Inkwell",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 8
+    },
+    "skillId": "s.inks.revelation",
+    "language": null
+  },
+  {
+    "id": "t.amanualfordeparture",
+    "name": "A Manual for Departure",
+    "rereadResult": "Secret Threshold",
+    "souls": {
+      "Knock": 14
+    },
+    "skillId": "s.door.wall",
+    "language": "Vak"
+  },
+  {
+    "id": "t.anovelmethodforinvocation.contrition",
+    "name": "A Novel Method for Invocation & Contrition",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Rose": 14
+    },
+    "skillId": "s.preliminalmeter",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.apaleladyandaprinceofwines",
+    "name": "A Pale Lady and a Prince of Wines",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.seastories",
+    "language": null
+  },
+  {
+    "id": "t.asecondglory",
+    "name": "A Second Glory",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 12
+    },
+    "skillId": "s.snowstories",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.aseventhvoice",
+    "name": "A Seventh Voice",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Sky": 8
+    },
+    "skillId": "s.preliminalmeter",
+    "language": null
+  },
+  {
+    "id": "t.ashapeinsmoke",
+    "name": "A Shape in Smoke",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Forge": 8
+    },
+    "skillId": "s.pyroglyphics",
+    "language": null
+  },
+  {
+    "id": "t.atowerfalls",
+    "name": "A Tower Falls",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Knock": 16
+    },
+    "skillId": "s.preliminalmeter",
+    "language": "Vak"
+  },
+  {
+    "id": "t.atowerrises",
+    "name": "A Tower Rises",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Rose": 18
+    },
+    "skillId": "s.preliminalmeter",
+    "language": "Vak"
+  },
+  {
+    "id": "t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse",
+    "name": "A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Heart": 4
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Greek"
+  },
+  {
+    "id": "t.atruehistoryofvalentinedewulf",
+    "name": "A True History of Valentine Dewulf",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.furs.feathers",
+    "language": null
+  },
+  {
+    "id": "t.adviceoncontainment",
+    "name": "Advice on Containment",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 4
+    },
+    "skillId": "s.glassblowing.vesselcrafting",
+    "language": null
+  },
+  {
+    "id": "t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms",
+    "name": "Against the Sisterhood of the Knot and the Foulness of their Depraved Customs",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.skystories",
+    "language": "Greek"
+  },
+  {
+    "id": "t.againstvitruvius",
+    "name": "Against Vitruvius",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.lockworks.clockworks",
+    "language": null
+  },
+  {
+    "id": "t.ambrosial!",
+    "name": "Ambrosial!",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Forge": 8
+    },
+    "skillId": "s.spices.savours",
+    "language": null
+  },
+  {
+    "id": "t.amiranisbeteli",
+    "name": "Amiranis Beteli",
+    "rereadResult": "Numen: the Bells of Ys",
+    "souls": {
+      "Forge": 10
+    },
+    "skillId": "s.bells.brazieries",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.analmanacofentrances",
+    "name": "An Almanac of Entrances",
+    "rereadResult": "Secret Threshold",
+    "souls": {
+      "Knock": 10
+    },
+    "skillId": "s.edictsliminal",
+    "language": null
+  },
+  {
+    "id": "t.anechoofsilence",
+    "name": "An Echo of Silence",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 10
+    },
+    "skillId": "s.sacralimiae",
+    "language": "Sabazine"
+  },
+  {
+    "id": "t.anexorcistsfieldmanual",
+    "name": "An Exorcist's Field Manual",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.edictsmartial",
+    "language": null
+  },
+  {
+    "id": "t.animpertinentvitulation",
+    "name": "An Impertinent Vitulation",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 6
+    },
+    "skillId": "s.leaves.thorns",
+    "language": null
+  },
+  {
+    "id": "t.anintroductiontohistories",
+    "name": "An Introduction to Histories",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 4
+    },
+    "skillId": "s.snowstories",
+    "language": null
+  },
+  {
+    "id": "t.aninvestigationofafounderedcountry",
+    "name": "An Investigation of A Foundered Country",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.hill.hollow",
+    "language": null
+  },
+  {
+    "id": "t.annalsofstbrandans",
+    "name": "Annals of St Brandan's",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 4
+    },
+    "skillId": "s.inks.containment",
+    "language": "Latin"
+  },
+  {
+    "id": "t.apolloandmarsyas",
+    "name": "Apollo and Marsyas",
+    "rereadResult": "Memory: Storm",
+    "souls": {
+      "Heart": 4
+    },
+    "skillId": "s.surgeries.exsanguinations",
+    "language": null
+  },
+  {
+    "id": "t.asthesunhiscourse",
+    "name": "As The Sun His Course",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 8
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.ascitesupplications",
+    "name": "Ascite Supplications",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Scale": 8
+    },
+    "skillId": "s.stonestories",
+    "language": "Greek"
+  },
+  {
+    "id": "t.bancroftdiaries",
+    "name": "Bancroft Diaries",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Lantern": 4
+    },
+    "skillId": "s.pyroglyphics",
+    "language": "Latin"
+  },
+  {
+    "id": "t.blacknephrite",
+    "name": "Black Nephrite",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.wolfstories",
+    "language": null
+  },
+  {
+    "id": "t.bookofmiah",
+    "name": "Book of Miah",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Rose": 10
+    },
+    "skillId": "s.sandstories",
+    "language": "Hyksos"
+  },
+  {
+    "id": "t.bookoftrueblood",
+    "name": "Book of True Blood",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 14
+    },
+    "skillId": "s.meniscatereflections",
+    "language": "Latin"
+  },
+  {
+    "id": "t.bytheirmarksshallyeknowthem",
+    "name": "By Their Marks Shall Ye Know them",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 6
+    },
+    "skillId": "s.surgeries.exsanguinations",
+    "language": null
+  },
+  {
+    "id": "t.calicitesupplications",
+    "name": "Calicite Supplications",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 8
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Greek"
+  },
+  {
+    "id": "t.cardeasdelights",
+    "name": "Cardea's Delights",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 8
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": "Latin"
+  },
+  {
+    "id": "t.chioneatabydos",
+    "name": "Chione at Abydos",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 6
+    },
+    "skillId": "s.snowstories",
+    "language": null
+  },
+  {
+    "id": "t.codexacephali",
+    "name": "Codex Acephali",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Moon": 10
+    },
+    "skillId": "s.snowstories",
+    "language": "Latin"
+  },
+  {
+    "id": "t.collectedhushhouselectures",
+    "name": "Collected Hush House Lectures",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": null
+  },
+  {
+    "id": "t.coloursintheliver",
+    "name": "COLOURS IN THE LIVER",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Grail": 6
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": null
+  },
+  {
+    "id": "t.commandmentsforthepreservationofallthatexists",
+    "name": "Commandments For the Preservation of All That Exists",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Heart": 14
+    },
+    "skillId": "s.stitching.binding",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.cucurbitprisonerrecords1927",
+    "name": "Cucurbit Prisoner Records 1927",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 12
+    },
+    "skillId": "s.insects.nectars",
+    "language": null
+  },
+  {
+    "id": "t.cucurbitprisonerrecords1928",
+    "name": "Cucurbit Prisoner Records 1928",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Scale": 12
+    },
+    "skillId": "s.hill.hollow",
+    "language": null
+  },
+  {
+    "id": "t.damascenetraditionsofthehouseoflethe",
+    "name": "Damascene Traditions of the House of Lethe",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Sky": 8
+    },
+    "skillId": "s.sacralimiae",
+    "language": null
+  },
+  {
+    "id": "t.debellismurorum",
+    "name": "De Bellis Murorum",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 6
+    },
+    "skillId": "s.disciplines.thescar",
+    "language": "Latin"
+  },
+  {
+    "id": "t.dehorisbook1",
+    "name": "De Horis book 1",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 4
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Latin"
+  },
+  {
+    "id": "t.dehorisbook2",
+    "name": "De Horis book 2",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Edge": 4
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": "Latin"
+  },
+  {
+    "id": "t.dehorisbook3",
+    "name": "De Horis book 3",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 4
+    },
+    "skillId": "s.disciplines.thescar",
+    "language": "Latin"
+  },
+  {
+    "id": "t.demotucorporumvetitorum",
+    "name": "De motu corporum vetitorum",
+    "rereadResult": "Memory: Storm",
+    "souls": {
+      "Sky": 10
+    },
+    "skillId": "s.ouranoscopy",
+    "language": null
+  },
+  {
+    "id": "t.deratioquercuum",
+    "name": "De Ratio Quercuum",
+    "rereadResult": "Earth-Sign",
+    "souls": {
+      "Nectar": 8
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Latin"
+  },
+  {
+    "id": "t.deathsandtheirevasions",
+    "name": "Deaths and their Evasions",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Knock": 14
+    },
+    "skillId": "s.edictsliminal",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.eachflamehisfuel",
+    "name": "Each Flame His Fuel",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Sky": 14
+    },
+    "skillId": "s.glaziery.lightsmithing",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.echidnalia",
+    "name": "Echidnalia",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Scale": 21
+    },
+    "skillId": "s.stonestories",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.enchiridiontragularis",
+    "name": "Enchiridion Tragularis",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moon": 14
+    },
+    "skillId": "s.serpents.venoms",
+    "language": "Greek"
+  },
+  {
+    "id": "t.etteryafter",
+    "name": "Ettery After",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 8
+    },
+    "skillId": "s.inks.containment",
+    "language": null
+  },
+  {
+    "id": "t.evastreasury",
+    "name": "Eva's Treasury",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.anbary.lapidary",
+    "language": null
+  },
+  {
+    "id": "t.exercisesinthecontinuityofself",
+    "name": "Exercises in the Continuity of Self",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 8
+    },
+    "skillId": "s.rhyme.remembrance",
+    "language": null
+  },
+  {
+    "id": "t.exorcismforgirls",
+    "name": "Exorcism for Girls",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 6
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": null
+  },
+  {
+    "id": "t.experimentbeyondsight",
+    "name": "EXPERIMENT BEYOND SIGHT",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Moon": 8
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.fekrisherbary",
+    "name": "Fekri's Herbary",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Nectar": 6
+    },
+    "skillId": "s.herbs.infusions",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.fivecreations",
+    "name": "Five Creations",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Moth": 14
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": "Vak"
+  },
+  {
+    "id": "t.fromhistorytoeternity",
+    "name": "From History to Eternity",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moth": 10
+    },
+    "skillId": "s.inks.revelation",
+    "language": null
+  },
+  {
+    "id": "t.glimmerings",
+    "name": "Glimmerings",
+    "rereadResult": "Bittersweet Certainty",
+    "souls": {
+      "Forge": 10
+    },
+    "skillId": "s.sights.sensations",
+    "language": null
+  },
+  {
+    "id": "t.gospelofnicodemus",
+    "name": "Gospel of Nicodemus",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 6
+    },
+    "skillId": "s.sacrasolisinvicti",
+    "language": null
+  },
+  {
+    "id": "t.greenjaspertablet",
+    "name": "Green Jasper Tablet",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 10
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.honeythecomprehensiveguide",
+    "name": "Honey: the Comprehensive Guide",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Nectar": 6
+    },
+    "skillId": "s.insects.nectars",
+    "language": null
+  },
+  {
+    "id": "t.howtheendwillbegin",
+    "name": "How the End will Begin",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 14
+    },
+    "skillId": "s.raggedcrossroads",
+    "language": "Vak"
+  },
+  {
+    "id": "t.huntingjournalsofbryandewulf",
+    "name": "Hunting Journals of Bryan Dewulf",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 8
+    },
+    "skillId": "s.furs.feathers",
+    "language": null
+  },
+  {
+    "id": "t.inmemoryofgods",
+    "name": "In Memory of Gods",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 12
+    },
+    "skillId": "s.raggedcrossroads",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.inthemalleary",
+    "name": "In the Malleary",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Lantern": 4
+    },
+    "skillId": "s.anbary.lapidary",
+    "language": null
+  },
+  {
+    "id": "t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed",
+    "name": "In The Mountains As Upon The Plain There May Not Be A Path Where None Has Passed",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Sky": 18
+    },
+    "skillId": "s.skystories",
+    "language": "Vak"
+  },
+  {
+    "id": "t.inaamkapigiginlupirgarkiecryppys",
+    "name": "Inaam, Kapigiginlupir, Garkie, Cryppys",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Moth": 14
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.isaacofkarthshistoryoftheshadowlesskings",
+    "name": "Isaac of Karth's History of the Shadowless Kings",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Rose": 14
+    },
+    "skillId": "s.sandstories",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.itiswritten",
+    "name": "It Is Written",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Scale": 8
+    },
+    "skillId": "s.inks.power",
+    "language": null
+  },
+  {
+    "id": "t.journalofsirdavidgreene1903",
+    "name": "Journal of Sir David Greene, 1903",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 14
+    },
+    "skillId": "s.sharps",
+    "language": "Hyksos"
+  },
+  {
+    "id": "t.journalofthomasdewulf",
+    "name": "Journal of Thomas Dewulf",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.ouranoscopy",
+    "language": null
+  },
+  {
+    "id": "t.journalofwalterdewulf",
+    "name": "Journal of Walter Dewulf",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 6
+    },
+    "skillId": "s.door.wall",
+    "language": null
+  },
+  {
+    "id": "t.justverse",
+    "name": "Just Verse",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Rose": 6
+    },
+    "skillId": "s.preliminalmeter",
+    "language": null
+  },
+  {
+    "id": "t.keyofnight",
+    "name": "Key of Night",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 6
+    },
+    "skillId": "s.pentiments.precursors",
+    "language": null
+  },
+  {
+    "id": "t.kitlingripeandthemoldywarpsgraveandotherstories",
+    "name": "Kitling Ripe and the Moldywarp's Grave (and Other Stories)",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 6
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": null
+  },
+  {
+    "id": "t.kitlingripestastytreats",
+    "name": "Kitling Ripe's Tasty Treats",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Nectar": 4
+    },
+    "skillId": "s.spices.savours",
+    "language": null
+  },
+  {
+    "id": "t.kopralithomphalos",
+    "name": "Kopralith Omphalos",
+    "rereadResult": "Numen: Weaving the World",
+    "souls": {
+      "Moth": 10
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.ladyevasrepose",
+    "name": "Lady Eva's Repose",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 4
+    },
+    "skillId": "s.rhyme.remembrance",
+    "language": null
+  },
+  {
+    "id": "t.lakefucinorecordings",
+    "name": "Lake Fucino Recordings",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Heart": 12
+    },
+    "skillId": "s.drums.dances",
+    "language": null
+  },
+  {
+    "id": "t.lettersfromafugitive",
+    "name": "Letters from a Fugitive",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Rose": 6
+    },
+    "skillId": "s.path.pilgrim",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.letterstomysuccessor",
+    "name": "Letters To My Successor",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 8
+    },
+    "skillId": "s.inks.revelation",
+    "language": null
+  },
+  {
+    "id": "t.malachitesupplications",
+    "name": "Malachite Supplications",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moon": 8
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Greek"
+  },
+  {
+    "id": "t.medusaslament",
+    "name": "Medusa's Lament",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 14
+    },
+    "skillId": "s.horns.ivories",
+    "language": "Greek"
+  },
+  {
+    "id": "t.medusancommentaries",
+    "name": "Medusan Commentaries",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Grail": 21
+    },
+    "skillId": "s.pentiments.precursors",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.musgravessketches",
+    "name": "Musgrave's Sketches",
+    "rereadResult": "Bittersweet Certainty",
+    "souls": {
+      "Winter": 8
+    },
+    "skillId": "s.sights.sensations",
+    "language": null
+  },
+  {
+    "id": "t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme",
+    "name": "My Deeds, My Powers, My Achievements and the Injustices Perpetrated Against Me",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 16
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.naeniansketches",
+    "name": "Naenian Sketches",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 21
+    },
+    "skillId": "s.sights.sensations",
+    "language": "Sabazine"
+  },
+  {
+    "id": "t.nixabolix",
+    "name": "Nix Abolix",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Moon": 16
+    },
+    "skillId": "s.wolfstories",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.notesonbindings",
+    "name": "Notes on Bindings",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Heart": 10
+    },
+    "skillId": "s.stitching.binding",
+    "language": null
+  },
+  {
+    "id": "t.nynscagesavignontext",
+    "name": "Nyn's Cages (Avignon Text)",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Heart": 16
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.nynscagesbrugestextilluminated",
+    "name": "Nyn's Cages (Bruges Text, Illuminated)",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 10
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.oblationsiniron",
+    "name": "Oblations in Iron",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 6
+    },
+    "skillId": "s.inks.containment",
+    "language": null
+  },
+  {
+    "id": "t.observationsonthepeacockdoor",
+    "name": "Observations on the Peacock Door",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Moon": 10
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": "Vak"
+  },
+  {
+    "id": "t.oghkoroghkortissilakoghkor",
+    "name": "OGHKOR OGHKOR TISSILAK OGHKOR",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 12
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": null
+  },
+  {
+    "id": "t.oldcoppernoseandthesoftermetal",
+    "name": "Old Coppernose and the Softer Metal",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 8
+    },
+    "skillId": "s.bells.brazieries",
+    "language": null
+  },
+  {
+    "id": "t.onimperfections",
+    "name": "On Imperfections",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 10
+    },
+    "skillId": "s.glassblowing.vesselcrafting",
+    "language": null
+  },
+  {
+    "id": "t.onmatthiasandtheamethystimagoloss",
+    "name": "On Matthias and the Amethyst Imago: Loss",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Moth": 6
+    },
+    "skillId": "s.solutions.separations",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.onmatthiasandtheamethystimagopursuit",
+    "name": "On Matthias and the Amethyst Imago: Pursuit",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Grail": 6
+    },
+    "skillId": "s.desires.dissolutions",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.onmatthiasandtheamethystimagotransformation",
+    "name": "On Matthias and the Amethyst Imago: Transformation",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Forge": 6
+    },
+    "skillId": "s.spices.savours",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.onresonance",
+    "name": "On Resonance",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.bells.brazieries",
+    "language": null
+  },
+  {
+    "id": "t.onthematterandthedeedsofserpents",
+    "name": "On the Matter and the Deeds of Serpents",
+    "rereadResult": "Secret Threshold",
+    "souls": {
+      "Knock": 12
+    },
+    "skillId": "s.edictsliminal",
+    "language": "Vak"
+  },
+  {
+    "id": "t.onthewhite",
+    "name": "On the White",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 6
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": null
+  },
+  {
+    "id": "t.onthewindingstair",
+    "name": "On the Winding Stair",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 8
+    },
+    "skillId": "s.door.wall",
+    "language": "Ramsund"
+  },
+  {
+    "id": "t.onthirstliesivoriesandlovelies",
+    "name": "On Thirstlies, Ivories and Lovelies",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": null
+  },
+  {
+    "id": "t.onwhatiscontainedbysilver",
+    "name": "On What is Contained By Silver",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.glassblowing.vesselcrafting",
+    "language": "Greek"
+  },
+  {
+    "id": "t.onehundredandeight",
+    "name": "One Hundred And Eight",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Scale": 4
+    },
+    "skillId": "s.pentiments.precursors",
+    "language": null
+  },
+  {
+    "id": "t.onethousandthreads",
+    "name": "One Thousand Threads",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Grail": 12
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.openingthesky",
+    "name": "Opening the Sky",
+    "rereadResult": "Cheerful Ditty",
+    "souls": {
+      "Sky": 10
+    },
+    "skillId": "s.strings.songs",
+    "language": null
+  },
+  {
+    "id": "t.operationsofacertainfinality",
+    "name": "Operations of a Certain Finality",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 8
+    },
+    "skillId": "s.putrefactions.calcinations",
+    "language": null
+  },
+  {
+    "id": "t.opusmagnuscaeruleus",
+    "name": "Opus Magnum Caeruleum",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Lantern": 14
+    },
+    "skillId": "s.pyroglyphics",
+    "language": null
+  },
+  {
+    "id": "t.perugiandiaries",
+    "name": "Perugian Diaries",
+    "rereadResult": "Cheerful Ditty",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.strings.songs",
+    "language": null
+  },
+  {
+    "id": "t.plantagenetmysteries",
+    "name": "Plantagenet Mysteries",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Moth": 21
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.propheciesofglory",
+    "name": "Prophecies of Glory",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 8
+    },
+    "skillId": "s.watchmansparadoxes",
+    "language": null
+  },
+  {
+    "id": "t.quirinicmeditations",
+    "name": "Quirinic Meditations",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Lantern": 21
+    },
+    "skillId": "s.auroralcontemplations",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.raptintheking",
+    "name": "Rapt in the King",
+    "rereadResult": "Earth-Sign",
+    "souls": {
+      "Heart": 8
+    },
+    "skillId": "s.drums.dances",
+    "language": null
+  },
+  {
+    "id": "t.recordingsfromthealthibanabyss",
+    "name": "Recordings from the Althiban Abyss",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 4
+    },
+    "skillId": "s.stonestories",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.serpentroot",
+    "name": "Serpent-Root",
+    "rereadResult": "Numen: Loopholes",
+    "souls": {
+      "Nectar": 10
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.sevenfacesoficarus",
+    "name": "Seven Faces of Icarus",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.furs.feathers",
+    "language": null
+  },
+  {
+    "id": "t.sevenshards",
+    "name": "Seven Shards",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Edge": 10
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": null
+  },
+  {
+    "id": "t.shuriticbookofsuns",
+    "name": "Shuritic Book of Suns",
+    "rereadResult": "Numen: the Great Counterfeit",
+    "souls": {
+      "Sky": 10
+    },
+    "skillId": "s.sacrasolisinvicti",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.singlefootsongs",
+    "name": "Singlefoot Songs",
+    "rereadResult": "Savage Hymn",
+    "souls": {
+      "Scale": 6
+    },
+    "skillId": "s.hill.hollow",
+    "language": null
+  },
+  {
+    "id": "t.skinofsilver",
+    "name": "Skin of Silver",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Forge": 10
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.snareofthetreecollectedproverbsofauntmopsy",
+    "name": "Snare of the Tree: Collected Proverbs of Aunt Mopsy",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Grail": 8
+    },
+    "skillId": "s.applebrighteuphonies",
+    "language": null
+  },
+  {
+    "id": "t.stolenhistories",
+    "name": "Stolen Histories",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 4
+    },
+    "skillId": "s.coil.chasm",
+    "language": null
+  },
+  {
+    "id": "t.sunriseawakenings",
+    "name": "Sunrise Awakenings",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 4
+    },
+    "skillId": "s.auroralcontemplations",
+    "language": null
+  },
+  {
+    "id": "t.sunsetceliaandtheendofdays",
+    "name": "Sunset Celia and the End of Days",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Sky": 10
+    },
+    "skillId": "s.sacralimiae",
+    "language": null
+  },
+  {
+    "id": "t.sunsetpassages",
+    "name": "Sunset Passages",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Forge": 4
+    },
+    "skillId": "s.sacrasolisinvicti",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theaccountofkanishkatthespidersdoor",
+    "name": "The Account of Kanishk at the Spider's Door",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.sharps",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.theadmonitoryautomataproject",
+    "name": "The Admonitory Automata Project",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 10
+    },
+    "skillId": "s.lockworks.clockworks",
+    "language": null
+  },
+  {
+    "id": "t.thealloyofthewhiterose",
+    "name": "The Alloy of the White Rose",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 10
+    },
+    "skillId": "s.purifications.exaltations",
+    "language": null
+  },
+  {
+    "id": "t.theamalgamoftheredrose",
+    "name": "The Amalgam of the Red Rose",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 8
+    },
+    "skillId": "s.meniscatereflections",
+    "language": null
+  },
+  {
+    "id": "t.theascendant",
+    "name": "The Ascendant",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 10
+    },
+    "skillId": "s.edictsmartial",
+    "language": "Hyksos"
+  },
+  {
+    "id": "t.thebarrowchildselegies",
+    "name": "The Barrowchild's Elegies",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 10
+    },
+    "skillId": "s.rhyme.remembrance",
+    "language": "Latin"
+  },
+  {
+    "id": "t.thebeekeepersends",
+    "name": "The Bee-Keeper's Ends",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 8
+    },
+    "skillId": "s.insects.nectars",
+    "language": null
+  },
+  {
+    "id": "t.theberrybook",
+    "name": "The Berrybook",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Nectar": 8
+    },
+    "skillId": "s.leaves.thorns",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.theblackbookofbrittany",
+    "name": "The Black Book of Brittany",
+    "rereadResult": "Bittersweet Certainty",
+    "souls": {
+      "Moon": 12
+    },
+    "skillId": "s.inks.containment",
+    "language": null
+  },
+  {
+    "id": "t.thebookofcinders",
+    "name": "The Book of Cinders",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 6
+    },
+    "skillId": "s.pyroglyphics",
+    "language": null
+  },
+  {
+    "id": "t.thebookofdissolution",
+    "name": "The Book of Dissolution",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 12
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.thebookofmasks",
+    "name": "The Book of Masks",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 14
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.thebookofthecentipede",
+    "name": "The Book of the Centipede",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Rose": 6
+    },
+    "skillId": "s.sandstories",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thebookoftheextinguishedheart",
+    "name": "The Book of the Extinguished Heart",
+    "rereadResult": "Bittersweet Certainty",
+    "souls": {
+      "Heart": 16
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.thebookofthewhitecat",
+    "name": "The Book of the White Cat",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Sky": 16
+    },
+    "skillId": "s.watchmansparadoxes",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.thebookofthrones",
+    "name": "The Book of Thrones",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 12
+    },
+    "skillId": "s.auroralcontemplations",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.theburningwoman",
+    "name": "The Burning Woman",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 14
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.thecarbonekschism",
+    "name": "The Carbonek Schism",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Moth": 6
+    },
+    "skillId": "s.sacralimiae",
+    "language": "Sabazine"
+  },
+  {
+    "id": "t.thecarminepetalrevised",
+    "name": "The Carmine Petal: Revised",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 12
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": null
+  },
+  {
+    "id": "t.thecarminepetalunexpurgated",
+    "name": "The Carmine Petal: Unexpurgated",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 18
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": null
+  },
+  {
+    "id": "t.theceaselesstantra",
+    "name": "The Ceaseless Tantra",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Heart": 6
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thechandlerswish",
+    "name": "The Chandler's Wish",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Lantern": 12
+    },
+    "skillId": "s.inks.revelation",
+    "language": null
+  },
+  {
+    "id": "t.theconcursumdiaries",
+    "name": "The Concursum Diaries",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Rose": 8
+    },
+    "skillId": "s.path.pilgrim",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.thecrossingtonoon",
+    "name": "The Crossing to Noon",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 8
+    },
+    "skillId": "s.seastories",
+    "language": "Latin"
+  },
+  {
+    "id": "t.thedeathsofthemoon",
+    "name": "The Deaths of the Moon",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 8
+    },
+    "skillId": "s.snowstories",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.thedebateofsevencups",
+    "name": "The Debate of Seven Cups",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 10
+    },
+    "skillId": "s.solutions.separations",
+    "language": null
+  },
+  {
+    "id": "t.thedeedsofthescarredcaptain",
+    "name": "The Deeds of the Scarred Captain",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 12
+    },
+    "skillId": "s.sharps",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thedevouredtantra",
+    "name": "The Devoured Tantra",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Grail": 6
+    },
+    "skillId": "s.applebrighteuphonies",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thedreamoftheconspiracyofthelowerskies",
+    "name": "The Dream of the Conspiracy of the Lower Skies",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Grail": 16
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.theelationsoflimentinus",
+    "name": "The Elations of Limentinus",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 6
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theencirclingtantra",
+    "name": "The Encircling Tantra",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 6
+    },
+    "skillId": "s.horns.ivories",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thefallencross",
+    "name": "The Fallen Cross",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.ouranoscopy",
+    "language": null
+  },
+  {
+    "id": "t.thefirecircletantra",
+    "name": "The Fire-Circle Tantra",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moth": 8
+    },
+    "skillId": "s.solutions.separations",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thefivelettersonmemory",
+    "name": "The Five Letters On Memory",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 6
+    },
+    "skillId": "s.rhyme.remembrance",
+    "language": null
+  },
+  {
+    "id": "t.theflayedtantra",
+    "name": "The Flayed Tantra",
+    "rereadResult": "Memory: Storm",
+    "souls": {
+      "Heart": 8
+    },
+    "skillId": "s.maggephenemysteries",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thefocusofamber",
+    "name": "The Focus of Amber",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Sky": 16
+    },
+    "skillId": "s.glaziery.lightsmithing",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.thegeminiadi",
+    "name": "The Geminiad i",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Heart": 10
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thegeminiadii",
+    "name": "The Geminiad ii",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.pentiments.precursors",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thegeminiadiii",
+    "name": "The Geminiad iii",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Moth": 12
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thegospelofzacchaeus",
+    "name": "The Gospel of Zacchaeus",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Knock": 8
+    },
+    "skillId": "s.horns.ivories",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thegrandpassageofthehours",
+    "name": "The Grand Passage of the Hours",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 12
+    },
+    "skillId": "s.door.wall",
+    "language": "Vak"
+  },
+  {
+    "id": "t.thehighmysteriesoftheinnermostchamberofourchurchsolar",
+    "name": "The High Mysteries of the Innermost Chamber of our Church Solar",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 14
+    },
+    "skillId": "s.sacrasolisinvicti",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thehightraditionsofthenobleendeavour",
+    "name": "The High Traditions of the Noble Endeavour",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Edge": 6
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": "Latin"
+  },
+  {
+    "id": "t.thehissingkey",
+    "name": "The Hissing Key",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Scale": 8
+    },
+    "skillId": "s.serpents.venoms",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thehistoryofinks",
+    "name": "The History of Inks",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Rose": 14
+    },
+    "skillId": "s.inks.power",
+    "language": null
+  },
+  {
+    "id": "t.thehumoursofagentleman",
+    "name": "The Humours of a Gentleman",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.skystories",
+    "language": null
+  },
+  {
+    "id": "t.theincandescenttantra",
+    "name": "The Incandescent Tantra",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 8
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.theinstrumentsoftheheart",
+    "name": "The Instruments of the Heart",
+    "rereadResult": "Cheerful Ditty",
+    "souls": {
+      "Heart": 10
+    },
+    "skillId": "s.drums.dances",
+    "language": null
+  },
+  {
+    "id": "t.theintimationsofskin",
+    "name": "The Intimations of Skin",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Grail": 8
+    },
+    "skillId": "s.desires.dissolutions",
+    "language": null
+  },
+  {
+    "id": "t.theinvisibleoperaunfinishedrecording",
+    "name": "The Invisible Opera (Unfinished Recording)",
+    "rereadResult": "Cheerful Ditty",
+    "souls": {
+      "Sky": 12
+    },
+    "skillId": "s.strings.songs",
+    "language": null
+  },
+  {
+    "id": "t.theironbook",
+    "name": "The Iron Book",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Edge": 8
+    },
+    "skillId": "s.disciplines.thehammer",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.theivorybook",
+    "name": "The Ivory Book",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 8
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thekerishamportolan",
+    "name": "The Kerisham Portolan",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.seastories",
+    "language": null
+  },
+  {
+    "id": "t.theknownunknowntantra",
+    "name": "The Known-Unknown Tantra",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 6
+    },
+    "skillId": "s.watchmansparadoxes",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thelarquebinecodex",
+    "name": "The Larquebine Codex",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.seastories",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.theleoninetantra",
+    "name": "The Leonine Tantra",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 8
+    },
+    "skillId": "s.edictsmartial",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thelionandtheglass",
+    "name": "The Lion and the Glass",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Sky": 12
+    },
+    "skillId": "s.glaziery.lightsmithing",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.thelocksmithsdreamalightthroughthekeyhole",
+    "name": "The Locksmith's Dream: a Light through the Keyhole",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 4
+    },
+    "skillId": "s.purifications.exaltations",
+    "language": null
+  },
+  {
+    "id": "t.thelocksmithsdreamincursus",
+    "name": "The Locksmith's Dream: Incursus",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Lantern": 6
+    },
+    "skillId": "s.glaziery.lightsmithing",
+    "language": null
+  },
+  {
+    "id": "t.thelocksmithsdreamportionsandproportions",
+    "name": "The Locksmith's Dream: Portions and Proportions",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.lockworks.clockworks",
+    "language": null
+  },
+  {
+    "id": "t.thelocksmithsdreamstolenreflections",
+    "name": "The Locksmith's Dream: Stolen Reflections",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Sky": 4
+    },
+    "skillId": "s.watchmansparadoxes",
+    "language": null
+  },
+  {
+    "id": "t.thelocksmithsdreamtrespasses",
+    "name": "The Locksmith's Dream: Trespasses",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Knock": 6
+    },
+    "skillId": "s.edictsliminal",
+    "language": null
+  },
+  {
+    "id": "t.themannerinwhichthealchemistwasspared",
+    "name": "The Manner in which the Alchemist was Spared",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 14
+    },
+    "skillId": "s.anbary.lapidary",
+    "language": "Vak"
+  },
+  {
+    "id": "t.themessengerawaitingherdestination",
+    "name": "The Messenger Awaiting Her Destination",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Forge": 16
+    },
+    "skillId": "s.door.wall",
+    "language": "Vak"
+  },
+  {
+    "id": "t.themirrorofmelancthe",
+    "name": "The Mirror of Melancthe",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Sky": 12
+    },
+    "skillId": "s.sights.sensations",
+    "language": null
+  },
+  {
+    "id": "t.themoonsegg",
+    "name": "The Moon's Egg",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.pearl.tide",
+    "language": null
+  },
+  {
+    "id": "t.themorphycodex",
+    "name": "The Morphy Codex",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.themostsorrowfulendoftheladynonna",
+    "name": "The Most Sorrowful End of the Lady Nonna",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 4
+    },
+    "skillId": "s.herbs.infusions",
+    "language": "Henavek"
+  },
+  {
+    "id": "t.theopenhead",
+    "name": "THE OPEN HEAD",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Edge": 8
+    },
+    "skillId": "s.disciplines.thescar",
+    "language": "Hyksos"
+  },
+  {
+    "id": "t.theorchidtransfigurationsabirth",
+    "name": "The Orchid Transfigurations: a Birth",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 8
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theorchidtransfigurationsafeast",
+    "name": "The Orchid Transfigurations: a Feast",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Grail": 4
+    },
+    "skillId": "s.desires.dissolutions",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theorchidtransfigurationsnoon",
+    "name": "The Orchid Transfigurations: Noon",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Heart": 4
+    },
+    "skillId": "s.maggephenemysteries",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theoriginsofhours",
+    "name": "The Origins of Hours",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Sky": 16
+    },
+    "skillId": "s.sacralimiae",
+    "language": "Vak"
+  },
+  {
+    "id": "t.theothereyeoftheserpent",
+    "name": "The Other Eye of the Serpent",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Sky": 10
+    },
+    "skillId": "s.anbary.lapidary",
+    "language": null
+  },
+  {
+    "id": "t.theotherline",
+    "name": "The Other Line",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Heart": 4
+    },
+    "skillId": "s.preliminalmeter",
+    "language": null
+  },
+  {
+    "id": "t.thequeensturn",
+    "name": "The Queen's Turn",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 10
+    },
+    "skillId": "s.hill.hollow",
+    "language": null
+  },
+  {
+    "id": "t.thequeensoftherivers",
+    "name": "The Queens of the Rivers",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Scale": 4
+    },
+    "skillId": "s.path.pilgrim",
+    "language": null
+  },
+  {
+    "id": "t.theradicalmeasure",
+    "name": "The Radical Measure",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Rose": 10
+    },
+    "skillId": "s.preliminalmeter",
+    "language": null
+  },
+  {
+    "id": "t.theradicalmeasureglossed",
+    "name": "The Radical Measure (Glossed)",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Rose": 12
+    },
+    "skillId": "s.preliminalmeter",
+    "language": null
+  },
+  {
+    "id": "t.therapturesofforculus",
+    "name": "The Raptures of Forculus",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 4
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": "Latin"
+  },
+  {
+    "id": "t.theredbookofbrittany",
+    "name": "The Red Book of Brittany",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Rose": 12
+    },
+    "skillId": "s.inks.power",
+    "language": null
+  },
+  {
+    "id": "t.therepublicofteeth",
+    "name": "The Republic of Teeth",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Scale": 6
+    },
+    "skillId": "s.serpents.venoms",
+    "language": null
+  },
+  {
+    "id": "t.theroadtojanus",
+    "name": "The Road to Janus",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 18
+    },
+    "skillId": "s.door.wall",
+    "language": "Vak"
+  },
+  {
+    "id": "t.theroseofhypatia",
+    "name": "The Rose of Hypatia",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Moth": 8
+    },
+    "skillId": "s.weaving.knotworking",
+    "language": "Greek"
+  },
+  {
+    "id": "t.theroseofnuriel",
+    "name": "The Rose of Nuriel",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.thegreatsignsandthegreatscars",
+    "language": "Greek"
+  },
+  {
+    "id": "t.theroseofwaznei",
+    "name": "The Rose of Waznei",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 8
+    },
+    "skillId": "s.auroralcontemplations",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thescarinthesky",
+    "name": "The Scar in the Sky",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Winter": 14
+    },
+    "skillId": "s.quenchings.quellings",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.theseadoesnotregret",
+    "name": "The Sea Does Not Regret",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.pearl.tide",
+    "language": null
+  },
+  {
+    "id": "t.thesecretcolours",
+    "name": "The Secret Colours",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Moon": 14
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": "Greek"
+  },
+  {
+    "id": "t.theserenityoftheblackwood",
+    "name": "The Serenity of the Black Wood",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Moth": 12
+    },
+    "skillId": "s.sacralimiae",
+    "language": "Greek"
+  },
+  {
+    "id": "t.thesevenfoldslayingofthesevencoiled",
+    "name": "The Sevenfold Slaying of the Seven-Coiled",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 16
+    },
+    "skillId": "s.disciplines.thescar",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.theshadowinthestair",
+    "name": "The Shadow in the Stair",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Nectar": 6
+    },
+    "skillId": "s.coil.chasm",
+    "language": null
+  },
+  {
+    "id": "t.theshavenlocktantra",
+    "name": "The Shaven Lock Tantra",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 6
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thesilverbook",
+    "name": "The Silver Book",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 8
+    },
+    "skillId": "s.edictsliminal",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thesixlettersonnecessity",
+    "name": "The Six Letters on Necessity",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Moth": 4
+    },
+    "skillId": "s.transformations.liberations",
+    "language": null
+  },
+  {
+    "id": "t.theskeletonsongs",
+    "name": "The Skeleton Songs",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Grail": 4
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": null
+  },
+  {
+    "id": "t.theskyinthescar",
+    "name": "The Sky in the Scar",
+    "rereadResult": "Numen: Back Into Balance",
+    "souls": {
+      "Edge": 10
+    },
+    "skillId": "s.sickle.eclipse",
+    "language": "Sabazine"
+  },
+  {
+    "id": "t.theskythesoul",
+    "name": "The Sky, the Soul",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Lantern": 12
+    },
+    "skillId": "s.pyroglyphics",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.thesongsofthecarapacecross",
+    "name": "The Songs of the Carapace Cross",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Moth": 16
+    },
+    "skillId": "s.edictsliminal",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thesundisfigured",
+    "name": "The Sun Disfigured",
+    "rereadResult": "Numen: the Sun's Weakness",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.applebrighteuphonies",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.thesunsdesign",
+    "name": "The Sun's Design",
+    "rereadResult": "Numen: the Paths of the Sun",
+    "souls": {
+      "Lantern": 10
+    },
+    "skillId": "s.watchmansparadoxes",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.thesunslament",
+    "name": "The Sun's Lament",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Edge": 4
+    },
+    "skillId": "s.raggedcrossroads",
+    "language": null
+  },
+  {
+    "id": "t.thetantraofworms",
+    "name": "The Tantra of Worms",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Scale": 8
+    },
+    "skillId": "s.coil.chasm",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thetemptationsofarchitecture",
+    "name": "The Temptations of Architecture",
+    "rereadResult": "Secret Threshold",
+    "souls": {
+      "Forge": 10
+    },
+    "skillId": "s.door.wall",
+    "language": null
+  },
+  {
+    "id": "t.thethirstingtantra",
+    "name": "The Thirsting Tantra",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 8
+    },
+    "skillId": "s.orchids.narcotics",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thethreeandthethreekerishammanuscript",
+    "name": "The Three and the Three (Kerisham Manuscript)",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moon": 10
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.thethreeandthethreestchiavimanuscript",
+    "name": "The Three and the Three (St Chiavi Manuscript)",
+    "rereadResult": "Numen: Three Rules",
+    "souls": {
+      "Moon": 18
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.thethreeandthethreevaticanmanuscript",
+    "name": "The Three and the Three (Vatican Manuscript)",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Moon": 14
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.thetimeofdivision",
+    "name": "The Time of Division",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Heart": 14
+    },
+    "skillId": "s.surgeries.exsanguinations",
+    "language": "Mandaic"
+  },
+  {
+    "id": "t.thetreatiseonunderplaces",
+    "name": "The Treatise on Underplaces",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Knock": 4
+    },
+    "skillId": "s.horns.ivories",
+    "language": null
+  },
+  {
+    "id": "t.thetripledheart",
+    "name": "The Tripled Heart",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Grail": 4
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Henavek"
+  },
+  {
+    "id": "t.theturquoisehand",
+    "name": "The Turquoise Hand",
+    "rereadResult": "Numen: That Old Lost Music",
+    "souls": {
+      "Rose": 10
+    },
+    "skillId": "s.pentiments.precursors",
+    "language": "Ramsund"
+  },
+  {
+    "id": "t.thetwelvelettersonconsequence",
+    "name": "The Twelve Letters On Consequence",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.putrefactions.calcinations",
+    "language": null
+  },
+  {
+    "id": "t.thetwinserpenttantra",
+    "name": "The Twin-Serpent Tantra",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 8
+    },
+    "skillId": "s.edictsliminal",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thevictoryofcrowns",
+    "name": "The Victory of Crowns",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Edge": 4
+    },
+    "skillId": "s.sharps",
+    "language": null
+  },
+  {
+    "id": "t.thevienneseconundra",
+    "name": "The Viennese Conundra",
+    "rereadResult": "Memory: Fear",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.wolfstories",
+    "language": null
+  },
+  {
+    "id": "t.thevinzantinscriptions",
+    "name": "The Vinzant Inscriptions",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 6
+    },
+    "skillId": "s.transformations.liberations",
+    "language": "Phrygian"
+  },
+  {
+    "id": "t.thevoyagesofferninshunoforeol",
+    "name": "The Voyages of Ferninshun of Oreol",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 18
+    },
+    "skillId": "s.seastories",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.thewaroftheroads14511551",
+    "name": "The War of the Roads, 1451-1551",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Edge": 4
+    },
+    "skillId": "s.meniscatereflections",
+    "language": null
+  },
+  {
+    "id": "t.thewatchfultantra",
+    "name": "The Watchful Tantra",
+    "rereadResult": "Memory: Revelation",
+    "souls": {
+      "Lantern": 8
+    },
+    "skillId": "s.purifications.exaltations",
+    "language": "Sanskrit"
+  },
+  {
+    "id": "t.thewhitebookofbrittany",
+    "name": "The White Book of Brittany",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 10
+    },
+    "skillId": "s.raggedcrossroads",
+    "language": null
+  },
+  {
+    "id": "t.thewindsruin",
+    "name": "The Wind's Ruin",
+    "rereadResult": "Beguiling Melody",
+    "souls": {
+      "Grail": 4
+    },
+    "skillId": "s.applebrighteuphonies",
+    "language": null
+  },
+  {
+    "id": "t.thewonderfulshape",
+    "name": "The Wonderful Shape",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 10
+    },
+    "skillId": "s.tridesmahiera",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.theworlddespoild",
+    "name": "The World Despoil'd",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Moon": 6
+    },
+    "skillId": "s.maggephenemysteries",
+    "language": null
+  },
+  {
+    "id": "t.theworlddoesnotweep",
+    "name": "The World Does Not Weep",
+    "rereadResult": "Memory: Hindsight",
+    "souls": {
+      "Winter": 10
+    },
+    "skillId": "s.putrefactions.calcinations",
+    "language": "Aramaic"
+  },
+  {
+    "id": "t.thewoundwounds",
+    "name": "The Wound-Wounds",
+    "rereadResult": "Memory: Regret",
+    "souls": {
+      "Edge": 18
+    },
+    "skillId": "s.disciplines.thescar",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.thewritingonthewall",
+    "name": "The Writing on the Wall",
+    "rereadResult": "Numen: an Irresistible Feast",
+    "souls": {
+      "Nectar": 10
+    },
+    "skillId": "s.spices.savours",
+    "language": "Vak"
+  },
+  {
+    "id": "t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates",
+    "name": "Those Indignities Perpetrated By the Deceitful Fraternity of Obliviates",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Winter": 6
+    },
+    "skillId": "s.raggedcrossroads",
+    "language": "Latin"
+  },
+  {
+    "id": "t.thosewhodonotsleep",
+    "name": "Those Who Do Not Sleep",
+    "rereadResult": "Memory: Storm",
+    "souls": {
+      "Heart": 12
+    },
+    "skillId": "s.surgeries.exsanguinations",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.threeflowershaththetree",
+    "name": "Three Flowers Hath the Tree",
+    "rereadResult": "Memory: Gossip",
+    "souls": {
+      "Nectar": 4
+    },
+    "skillId": "s.leaves.thorns",
+    "language": null
+  },
+  {
+    "id": "t.toapalelady",
+    "name": "To a Pale Lady",
+    "rereadResult": "Memory: Salt",
+    "souls": {
+      "Moon": 8
+    },
+    "skillId": "s.pearl.tide",
+    "language": null
+  },
+  {
+    "id": "t.towardsafundamentalaesthetic",
+    "name": "Towards a Fundamental Aesthetic",
+    "rereadResult": "Numen: Inescapable Confinement",
+    "souls": {
+      "Knock": 10
+    },
+    "skillId": "s.glassblowing.vesselcrafting",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.towardsafundamentalaestheticsecondedition",
+    "name": "Towards a Fundamental Aesthetic: Second Edition",
+    "rereadResult": "Numen: a Final Understanding",
+    "souls": {
+      "Winter": 10
+    },
+    "skillId": "s.sights.sensations",
+    "language": "Ericapaean"
+  },
+  {
+    "id": "t.travellingatnightvol1",
+    "name": "Travelling at Night, vol 1",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Knock": 4
+    },
+    "skillId": "s.edictsliminal",
+    "language": null
+  },
+  {
+    "id": "t.travellingatnightvol2",
+    "name": "Travelling at Night, vol 2",
+    "rereadResult": "Memory: Solace",
+    "souls": {
+      "Sky": 6
+    },
+    "skillId": "s.sights.sensations",
+    "language": null
+  },
+  {
+    "id": "t.travellingatnightvol3",
+    "name": "Travelling at Night, vol 3",
+    "rereadResult": "Memory: Pattern",
+    "souls": {
+      "Knock": 4
+    },
+    "skillId": "s.door.wall",
+    "language": null
+  },
+  {
+    "id": "t.twentysixenticementsseventorments",
+    "name": "Twenty-Six Enticements, Seven Torments",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Grail": 14
+    },
+    "skillId": "s.resurgences.emergences",
+    "language": "Fucine"
+  },
+  {
+    "id": "t.twowombsoneheart",
+    "name": "Two Wombs, One Heart",
+    "rereadResult": "Memory: Satisfaction",
+    "souls": {
+      "Heart": 8
+    },
+    "skillId": "s.stitching.binding",
+    "language": "Killasimi"
+  },
+  {
+    "id": "t.udrocashaas",
+    "name": "Ud Rocashaas",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Scale": 10
+    },
+    "skillId": "s.stonestories",
+    "language": "Henavek"
+  },
+  {
+    "id": "t.unhatchedhymns",
+    "name": "Unhatched Hymns",
+    "rereadResult": "Savage Hymn",
+    "souls": {
+      "Lantern": 10
+    },
+    "skillId": "s.sacrasolisinvicti",
+    "language": "Sabazine"
+  },
+  {
+    "id": "t.velletriinterviews",
+    "name": "Velletri Interviews",
+    "rereadResult": "Memory: A Stolen Secret",
+    "souls": {
+      "Heart": 6
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.vinzantsminglings",
+    "name": "Vinzant's Minglings",
+    "rereadResult": "Memory: Foresight",
+    "souls": {
+      "Forge": 4
+    },
+    "skillId": "s.bells.brazieries",
+    "language": null
+  },
+  {
+    "id": "t.wainscothistories",
+    "name": "Wainscot Histories",
+    "rereadResult": "Memory: Contradiction",
+    "souls": {
+      "Lantern": 6
+    },
+    "skillId": "s.auroralcontemplations",
+    "language": null
+  },
+  {
+    "id": "t.warmingdraughtstouplifttheheart",
+    "name": "Warming Draughts to Uplift the Heart",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Heart": 8
+    },
+    "skillId": "s.herbs.infusions",
+    "language": "Greek"
+  },
+  {
+    "id": "t.whatdoesnotbark",
+    "name": "What Does Not Bark",
+    "rereadResult": "Memory: Storm",
+    "souls": {
+      "Moon": 4
+    },
+    "skillId": "s.edictsinviolable",
+    "language": null
+  },
+  {
+    "id": "t.wherehasshegone",
+    "name": "Where Has She Gone?",
+    "rereadResult": "Memory: Intuition",
+    "souls": {
+      "Rose": 16
+    },
+    "skillId": "s.sandstories",
+    "language": "Vak"
+  },
+  {
+    "id": "t.whitejadetablet",
+    "name": "White Jade Tablet",
+    "rereadResult": "Memory: Impulse",
+    "souls": {
+      "Moth": 14
+    },
+    "skillId": "s.rites.theroots",
+    "language": "Cracktrack"
+  },
+  {
+    "id": "t.xenodiceneodes",
+    "name": "Xenodicene Odes",
+    "rereadResult": "Confounding Parable",
+    "souls": {
+      "Knock": 21
+    },
+    "skillId": "s.preliminalmeter",
+    "language": "Vak"
+  }
+]

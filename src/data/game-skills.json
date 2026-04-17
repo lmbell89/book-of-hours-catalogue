@@ -1,0 +1,861 @@
+[
+  {
+    "id": "s.anbary.lapidary",
+    "name": "Anbary & Lapidary",
+    "souls": {
+      "Sky": 2,
+      "Forge": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Ithastry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.applebrighteuphonies",
+    "name": "Applebright Euphonies",
+    "souls": {
+      "Sky": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Bosk"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.auroralcontemplations",
+    "name": "Auroral Contemplations",
+    "souls": {
+      "Lantern": 2,
+      "Edge": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.bells.brazieries",
+    "name": "Bells & Brazieries",
+    "souls": {
+      "Forge": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Ithastry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.coil.chasm",
+    "name": "Coil & Chasm",
+    "souls": {
+      "Scale": 2,
+      "Nectar": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.desires.dissolutions",
+    "name": "Desires & Dissolutions",
+    "souls": {
+      "Grail": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.disciplines.thehammer",
+    "name": "Disciplines of the Hammer",
+    "souls": {
+      "Edge": 2,
+      "Forge": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.disciplines.thescar",
+    "name": "Disciplines of the Scar",
+    "souls": {
+      "Edge": 2,
+      "Lantern": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Hushery"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.door.wall",
+    "name": "Door & Wall",
+    "souls": {
+      "Knock": 2,
+      "Forge": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.drums.dances",
+    "name": "Drums & Dances",
+    "souls": {
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.edictsinviolable",
+    "name": "Edicts Inviolable",
+    "souls": {
+      "Heart": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Preservation"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.edictsliminal",
+    "name": "Edicts Liminal",
+    "souls": {
+      "Moth": 2,
+      "Knock": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.edictsmartial",
+    "name": "Edicts Martial",
+    "souls": {
+      "Moon": 2,
+      "Edge": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.furs.feathers",
+    "name": "Furs & Feathers",
+    "souls": {
+      "Sky": 2,
+      "Scale": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Bosk"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.glassblowing.vesselcrafting",
+    "name": "Glassblowing & Vesselcrafting",
+    "souls": {
+      "Knock": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Ithastry",
+      "Hushery"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.glaziery.lightsmithing",
+    "name": "Glaziery & Lightsmithing",
+    "souls": {
+      "Lantern": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Ithastry"
+    ],
+    "properties": [
+      "Chandlery"
+    ]
+  },
+  {
+    "id": "s.herbs.infusions",
+    "name": "Herbs & Infusions",
+    "souls": {
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "wisdoms": [
+      "Preservation",
+      "Bosk"
+    ],
+    "properties": [
+      "Effective Against Corruption"
+    ]
+  },
+  {
+    "id": "s.hill.hollow",
+    "name": "Hill & Hollow",
+    "souls": {
+      "Moon": 2,
+      "Scale": 1
+    },
+    "wisdoms": [
+      "Preservation",
+      "Birdsong"
+    ],
+    "properties": [
+      "Effective Against Infestations"
+    ]
+  },
+  {
+    "id": "s.horns.ivories",
+    "name": "Horns & Ivories",
+    "souls": {
+      "Scale": 2,
+      "Knock": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Bosk"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.inks.containment",
+    "name": "Inks of Containment",
+    "souls": {
+      "Winter": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Preservation",
+      "Horomachistry"
+    ],
+    "properties": [
+      "Effective Against Theoplasma"
+    ]
+  },
+  {
+    "id": "s.inks.power",
+    "name": "Inks of Power",
+    "souls": {
+      "Rose": 2,
+      "Scale": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.inks.revelation",
+    "name": "Inks of Revelation",
+    "souls": {
+      "Lantern": 2,
+      "Moth": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Ithastry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.insects.nectars",
+    "name": "Insects & Nectars",
+    "souls": {
+      "Nectar": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Bosk"
+    ],
+    "properties": [
+      "Chandlery"
+    ]
+  },
+  {
+    "id": "s.leaves.thorns",
+    "name": "Leaves & Thorns",
+    "souls": {
+      "Nectar": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Birdsong",
+      "Bosk"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.lockworks.clockworks",
+    "name": "Lockworks & Clockworks",
+    "souls": {
+      "Knock": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Ithastry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.maggephenemysteries",
+    "name": "Maggephene Mysteries",
+    "souls": {
+      "Moon": 2,
+      "Heart": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Corruption"
+    ]
+  },
+  {
+    "id": "s.meniscatereflections",
+    "name": "Meniscate Reflections",
+    "souls": {
+      "Forge": 2,
+      "Edge": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Theoplasma"
+    ]
+  },
+  {
+    "id": "s.orchids.narcotics",
+    "name": "Orchids & Narcotics",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.ouranoscopy",
+    "name": "Ouranoscopy",
+    "souls": {
+      "Sky": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Hushery"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.path.pilgrim",
+    "name": "Path & Pilgrim",
+    "souls": {
+      "Rose": 2,
+      "Scale": 1
+    },
+    "wisdoms": [
+      "Birdsong",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.pearl.tide",
+    "name": "Pearl & Tide",
+    "souls": {
+      "Rose": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Bosk"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.pentiments.precursors",
+    "name": "Pentiments & Precursors",
+    "souls": {
+      "Scale": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.preliminalmeter",
+    "name": "Preliminal Meter",
+    "souls": {
+      "Knock": 2,
+      "Rose": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Ithastry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.purifications.exaltations",
+    "name": "Purifications & Exaltations",
+    "souls": {
+      "Sky": 2,
+      "Lantern": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Ithastry"
+    ],
+    "properties": [
+      "Effective Against Corruption"
+    ]
+  },
+  {
+    "id": "s.putrefactions.calcinations",
+    "name": "Putrefactions & Calcinations",
+    "souls": {
+      "Winter": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Ithastry",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.pyroglyphics",
+    "name": "Pyroglyphics",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Ithastry"
+    ],
+    "properties": [
+      "Chandlery"
+    ]
+  },
+  {
+    "id": "s.quenchings.quellings",
+    "name": "Quenchings & Quellings",
+    "souls": {
+      "Winter": 2,
+      "Heart": 1
+    },
+    "wisdoms": [
+      "Preservation",
+      "Hushery"
+    ],
+    "properties": [
+      "Effective Against Theoplasma"
+    ]
+  },
+  {
+    "id": "s.raggedcrossroads",
+    "name": "Ragged Crossroads",
+    "souls": {
+      "Edge": 2,
+      "Winter": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.resurgences.emergences",
+    "name": "Resurgences & Emergences",
+    "souls": {
+      "Moth": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Infestations"
+    ]
+  },
+  {
+    "id": "s.rhyme.remembrance",
+    "name": "Rhyme & Remembrance",
+    "souls": {
+      "Winter": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.rites.theroots",
+    "name": "Rites of the Roots",
+    "souls": {
+      "Nectar": 2,
+      "Moth": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Preservation"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.sacralimiae",
+    "name": "Sacra Limiae",
+    "souls": {
+      "Moth": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Hushery"
+    ],
+    "properties": [
+      "Effective Against Curses"
+    ]
+  },
+  {
+    "id": "s.sacrasolisinvicti",
+    "name": "Sacra Solis Invicti",
+    "souls": {
+      "Lantern": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Horomachistry"
+    ],
+    "properties": [
+      "Effective Against Curses"
+    ]
+  },
+  {
+    "id": "s.sandstories",
+    "name": "Sand Stories",
+    "souls": {
+      "Rose": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.seastories",
+    "name": "Sea Stories",
+    "souls": {
+      "Moon": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Birdsong",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.serpents.venoms",
+    "name": "Serpents & Venoms",
+    "souls": {
+      "Scale": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.sharps",
+    "name": "Sharps",
+    "souls": {
+      "Edge": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Hushery"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.sickle.eclipse",
+    "name": "Sickle & Eclipse",
+    "souls": {
+      "Edge": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Corruption"
+    ]
+  },
+  {
+    "id": "s.sights.sensations",
+    "name": "Sights & Sensations",
+    "souls": {
+      "Sky": 2,
+      "Winter": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.skystories",
+    "name": "Sky Stories",
+    "souls": {
+      "Sky": 2,
+      "Rose": 1
+    },
+    "wisdoms": [
+      "Horomachistry",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.snowstories",
+    "name": "Snow Stories",
+    "souls": {
+      "Winter": 2,
+      "Moon": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.solutions.separations",
+    "name": "Solutions & Separations",
+    "souls": {
+      "Moth": 2,
+      "Knock": 1
+    },
+    "wisdoms": [
+      "Ithastry",
+      "Skolekosophy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.spices.savours",
+    "name": "Spices & Savours",
+    "souls": {
+      "Nectar": 2,
+      "Forge": 1
+    },
+    "wisdoms": [
+      "Ithastry",
+      "Bosk"
+    ],
+    "properties": [
+      "Spicing"
+    ]
+  },
+  {
+    "id": "s.stitching.binding",
+    "name": "Stitching & Binding",
+    "souls": {
+      "Sky": 2,
+      "Heart": 1
+    },
+    "wisdoms": [
+      "Ithastry",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Infestations"
+    ]
+  },
+  {
+    "id": "s.stonestories",
+    "name": "Stone Stories",
+    "souls": {
+      "Scale": 2,
+      "Nectar": 1
+    },
+    "wisdoms": [
+      "Preservation",
+      "Birdsong"
+    ],
+    "properties": [
+      "Effective Against Infestations"
+    ]
+  },
+  {
+    "id": "s.strings.songs",
+    "name": "Strings & Songs",
+    "souls": {
+      "Sky": 2,
+      "Heart": 1
+    },
+    "wisdoms": [
+      "Nyctodromy",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.surgeries.exsanguinations",
+    "name": "Surgeries & Exsanguinations",
+    "souls": {
+      "Heart": 2,
+      "Knock": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Infestations"
+    ]
+  },
+  {
+    "id": "s.thegreatsignsandthegreatscars",
+    "name": "The Great Signs and the Great Scars",
+    "souls": {
+      "Grail": 2,
+      "Knock": 1
+    },
+    "wisdoms": [
+      "Hushery",
+      "Horomachistry"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.transformations.liberations",
+    "name": "Transformations & Liberations",
+    "souls": {
+      "Forge": 2,
+      "Moth": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Ithastry"
+    ],
+    "properties": [
+      "Chandlery"
+    ]
+  },
+  {
+    "id": "s.tridesmahiera",
+    "name": "Tridesma Hiera",
+    "souls": {
+      "Moon": 2,
+      "Grail": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Preservation"
+    ],
+    "properties": [
+      "Effective Against Curses"
+    ]
+  },
+  {
+    "id": "s.watchmansparadoxes",
+    "name": "Watchman's Paradoxes",
+    "souls": {
+      "Lantern": 2,
+      "Sky": 1
+    },
+    "wisdoms": [
+      "Illumination",
+      "Nyctodromy"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.weaving.knotworking",
+    "name": "Weaving & Knotworking",
+    "souls": {
+      "Heart": 2,
+      "Moth": 1
+    },
+    "wisdoms": [
+      "Bosk",
+      "Birdsong"
+    ],
+    "properties": []
+  },
+  {
+    "id": "s.wolfstories",
+    "name": "Wolf Stories",
+    "souls": {
+      "Moon": 2,
+      "Scale": 1
+    },
+    "wisdoms": [
+      "Skolekosophy",
+      "Birdsong"
+    ],
+    "properties": []
+  }
+]

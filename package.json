@@ -1,0 +1,20 @@
+{
+  "name": "book-of-hours-manager",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --config vite.singlefile.config.js",
+    "preview": "vite preview",
+    "extract": "node scripts/extract-game-data.cjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2",
+    "vite-plugin-singlefile": "^2.3.2"
+  }
+}

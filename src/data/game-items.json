@@ -1,0 +1,8041 @@
+[
+  {
+    "id": "painting.knock",
+    "name": "'A Bargain'",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.sacrifice",
+    "name": "'A Sacrifice'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.abbot.geffrey",
+    "name": "'Abbot Geffrey'",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.abbot.thomas",
+    "name": "'Abbot Thomas'",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.abduction.salvation",
+    "name": "'Abduction, Salvation'",
+    "souls": {
+      "Grail": 1,
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.thekiss",
+    "name": "'Again, at Night'",
+    "souls": {
+      "Grail": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.ambrose",
+    "name": "'Ambrose Westcott'",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.annointing",
+    "name": "'An Anointing'",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.sky.b",
+    "name": "'As Above, So Below'",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "statue.crozier",
+    "name": "'Authority'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.brian",
+    "name": "'Brian Levinsen'",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.cockatoo",
+    "name": "'Chac'",
+    "souls": {
+      "Nectar": 2,
+      "Sky": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.teeny2",
+    "name": "'Crowcross Sands at High Tide'",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.birds",
+    "name": "'Departure'",
+    "souls": {
+      "Moth": 2,
+      "Winter": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.serena",
+    "name": "'Dr Serena Blackwood'",
+    "souls": {
+      "Forge": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.dontmesswithladyeva",
+    "name": "'Eva and Abraham, 1724'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.eva",
+    "name": "'Eva Dewulf'",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.fraser",
+    "name": "'Fraser Strathcoyne'",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.gervinus",
+    "name": "'Gervinus van Lauren'",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.gideon",
+    "name": "'Gideon Dewulf'",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.lantern",
+    "name": "'Glory's Gift'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.nectar",
+    "name": "'Gods Return'",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.hendrik",
+    "name": "'Hendrik Dewulf'",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.julian",
+    "name": "'Julian Coseley'",
+    "souls": {
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.kitty",
+    "name": "'Kitty Mazarine'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "statue.debraose",
+    "name": "'Lady de Braose'",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "statue.rowena",
+    "name": "'Lady Rowena'",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.tryphon",
+    "name": "'Lady Tryphon'",
+    "souls": {
+      "Grail": 2,
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.tree.teeny",
+    "name": "'Leaves in the Wind'",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.munday",
+    "name": "'Lord Munday'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.coupleinthelibrary",
+    "name": "'Love in a Quiet Place'",
+    "souls": {
+      "Grail": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.morgen",
+    "name": "'Mlle Matutine'",
+    "souls": {
+      "Grail": 1,
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.musgrave",
+    "name": "'Musgrave Dewulf'",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.natalia",
+    "name": "'Natalia Brulleau'",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "motley1.portrait1",
+    "name": "'Our Benefactor'",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "motley1.portrait2",
+    "name": "'Our Benefactress'",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.behatted",
+    "name": "'Portrait of a Behatted Lady'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.poplars",
+    "name": "'Raveline Summer'",
+    "souls": {
+      "Forge": 1,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.picasso1",
+    "name": "'Red, Blue'",
+    "souls": {
+      "Grail": 1,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.thecalm",
+    "name": "'Sedona, Not Yet'",
+    "souls": {
+      "Moth": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.sky",
+    "name": "'Self-Born'",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.serena",
+    "name": "'Serena Blackwood'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.david",
+    "name": "'Sir David Greene'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.knotabbess",
+    "name": "'SISTER'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.solomon",
+    "name": "'Solomon Husher'",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.melancthe",
+    "name": "'St Melancthe'",
+    "souls": {
+      "Lantern": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.winter",
+    "name": "'Supplication'",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.teeny3",
+    "name": "'The Boy Prays'",
+    "souls": {
+      "Grail": 1,
+      "Moon": 1,
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.bridge.ortucchio",
+    "name": "'The Bridge at Ortucchio'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.moth",
+    "name": "'The First Answer'",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.grail",
+    "name": "'The First Birth'",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.forge",
+    "name": "'The First End'",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.edge",
+    "name": "'The First Threshold'",
+    "souls": {
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "tapestry.thefoundationofthesun",
+    "name": "'The Foundation of the Sun'",
+    "souls": {
+      "Winter": 2
+    },
+    "properties": [
+      "Woven"
+    ]
+  },
+  {
+    "id": "painting.heart",
+    "name": "'The Foundlings'",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.scale",
+    "name": "'The Hatching'",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.mansus",
+    "name": "'The Mansus'",
+    "souls": {
+      "Knock": 2,
+      "Lantern": 2,
+      "Moth": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "hours.sister",
+    "name": "'The Sister-and-Witch'",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.donkey",
+    "name": "'The Tattered Outlaw'",
+    "souls": {
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "hours.thunderskin",
+    "name": "'The Thunderskin'",
+    "souls": {
+      "Heart": 2,
+      "Sky": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "hours.velvet",
+    "name": "'The Velvet'",
+    "souls": {
+      "Moon": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "statuette.velvet",
+    "name": "'The Velvet'",
+    "souls": {
+      "Moon": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.owl",
+    "name": "'The Watcher'",
+    "souls": {
+      "Knock": 2,
+      "Lantern": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.moon",
+    "name": "'The Wheel Still Turns'",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "hours.witch",
+    "name": "'The Witch-and-Sister'",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1,
+      "Moth": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.thirza",
+    "name": "'Thirza Blake'",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.thomas",
+    "name": "'Thomas Dewulf'",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.picasso2",
+    "name": "'To Be Fruitful'",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.mountainlake",
+    "name": "'To Hear Those Voices'",
+    "souls": {
+      "Moon": 2,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.valentine",
+    "name": "'Valentine Dewulf'",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.walter",
+    "name": "'Walter Dewulf'",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.willem",
+    "name": "'Willem Harries'",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "abandoned.luggage",
+    "name": "Abandoned Luggage",
+    "souls": {
+      "Heart": 1,
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "packages.abandoned",
+    "name": "Abandoned Packages",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "veg.marrow.acrid",
+    "name": "Acrid Marrow",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "agave.aeterna",
+    "name": "Agave Aeterna",
+    "souls": {
+      "Lantern": 2,
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Flower",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "aglaophotis",
+    "name": "Aglaophotis",
+    "souls": {
+      "Heart": 2,
+      "Knock": 2,
+      "Lantern": 2,
+      "Nectar": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Flower",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "souffle.aglaophotis",
+    "name": "Aglaophotis Soufflé",
+    "souls": {
+      "Heart": 2,
+      "Knock": 2,
+      "Lantern": 2,
+      "Nectar": 1,
+      "Rose": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "candle.aglaophotis",
+    "name": "Aglaophotis-Scented Candle",
+    "souls": {
+      "Heart": 2,
+      "Knock": 2,
+      "Lantern": 2,
+      "Rose": 2
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "motto.bureau",
+    "name": "ALIIS LICET TIBI NON LICET",
+    "souls": {
+      "Knock": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "souls": {
+      "Forge": 1,
+      "Grail": 1,
+      "Moth": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pumpkin.amber",
+    "name": "Amber Pumpkin",
+    "souls": {
+      "Heart": 1,
+      "Lantern": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pie.pumpkin.amber",
+    "name": "Amber Pumpkin Pie",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1,
+      "Lantern": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "soup.pumpkin.amber",
+    "name": "Amber Pumpkin Soup",
+    "souls": {
+      "Heart": 1,
+      "Lantern": 1,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "casket.ambered",
+    "name": "Ambered Casket",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Cache (Bright)"
+    ]
+  },
+  {
+    "id": "ambergris",
+    "name": "Ambergris Chunk",
+    "souls": {
+      "Moon": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Material",
+      "Gem"
+    ]
+  },
+  {
+    "id": "armchair.grail",
+    "name": "Ambrose's Favourite Chair",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "ampoule.amethyst",
+    "name": "Amethyst Ampoule",
+    "souls": {
+      "Heart": 2,
+      "Knock": 2
+    },
+    "properties": [
+      "Liquid",
+      "Glass"
+    ]
+  },
+  {
+    "id": "animal.bones",
+    "name": "Animal Bones",
+    "souls": {
+      "Scale": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "apple.charlotte",
+    "name": "Apple Charlotte",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "pie.apples",
+    "name": "Apple Pie",
+    "souls": {
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "bottle.armagnac",
+    "name": "Armagnac d'Ys (Bottle)",
+    "souls": {
+      "Grail": 1,
+      "Moon": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.armagnac",
+    "name": "Armagnac d'Ys (Glass)",
+    "souls": {
+      "Grail": 1,
+      "Moon": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "arsenic",
+    "name": "Arsenic",
+    "souls": {
+      "Edge": 1,
+      "Lantern": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "ascendant.harmony",
+    "name": "Ascendant Harmony",
+    "souls": {
+      "Lantern": 2,
+      "Sky": 4
+    },
+    "properties": [
+      "Memory",
+      "Sound",
+      "Birdsong"
+    ]
+  },
+  {
+    "id": "ashartine",
+    "name": "Ashartine",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 6,
+      "Sky": 2
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "asimel",
+    "name": "Asimel",
+    "souls": {
+      "Knock": 3,
+      "Moon": 5,
+      "Moth": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "axe.aspect.xenodice",
+    "name": "Aspect of the Axe: Xenodice Half-Faced",
+    "souls": {
+      "Knock": 2
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "grail.aspect.lagiah",
+    "name": "Aspect of the Grail: Lagiah, the Queen Unsated",
+    "souls": {
+      "Grail": 2
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "malachite.aspect.mylissa",
+    "name": "Aspect of the Malachite: Mylissa, Queen and Palace",
+    "souls": {
+      "Nectar": 2
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "atlantic.amber",
+    "name": "Atlantic Amber",
+    "souls": {
+      "Lantern": 3
+    },
+    "properties": [
+      "Material",
+      "Gem"
+    ]
+  },
+  {
+    "id": "chair.church.atrium",
+    "name": "Atrium Chair",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "case.attache",
+    "name": "Attaché Case",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Cache (Unregarded)"
+    ]
+  },
+  {
+    "id": "awakened.feather",
+    "name": "Awakened Feather",
+    "souls": {
+      "Scale": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Material",
+      "Remains"
+    ]
+  },
+  {
+    "id": "weapon.practice.azita",
+    "name": "Azita's Practice Sword",
+    "souls": {
+      "Edge": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "azoth",
+    "name": "Azoth",
+    "souls": {
+      "Forge": 2,
+      "Knock": 6
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "bag.tricks",
+    "name": "Bag of Tricks",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "meringue.apple",
+    "name": "Baked Apple Meringue",
+    "souls": {
+      "Forge": 1,
+      "Grail": 2,
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "meringue.pear",
+    "name": "Baked Pear Meringue",
+    "souls": {
+      "Forge": 1,
+      "Grail": 2,
+      "Moon": 1,
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "astrolabe.sky",
+    "name": "Baron Silence's Astrolabe",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "veg.basket.apples",
+    "name": "Basket of Apples",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "basket.linen",
+    "name": "Basket of Clean Linen",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Woven",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "basket.towels.damp",
+    "name": "Basket of Damp Towels",
+    "souls": {
+      "Heart": 2
+    },
+    "properties": [
+      "Soaked",
+      "Woven"
+    ]
+  },
+  {
+    "id": "basket.laundry",
+    "name": "Basket of Dirty Laundry",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Woven",
+      "Soiled"
+    ]
+  },
+  {
+    "id": "veg.basket.leeks",
+    "name": "Basket of Leeks",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "veg.basket.onions",
+    "name": "Basket of Onions",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "basket.towels",
+    "name": "Basket of Towels",
+    "souls": {
+      "Heart": 2
+    },
+    "properties": [
+      "Woven"
+    ]
+  },
+  {
+    "id": "veg.basket",
+    "name": "Basket of Vegetables",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "batter",
+    "name": "Batter",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "candle.bedside",
+    "name": "Bedside Candleholder",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "souls": {
+      "Heart": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Cooking Ingredient",
+      "Remains",
+      "Sustenance",
+      "Raw"
+    ]
+  },
+  {
+    "id": "beeswax",
+    "name": "Beeswax",
+    "souls": {
+      "Moth": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "candle.beeswax",
+    "name": "Beeswax Candle",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "music.beguiling",
+    "name": "Beguiling Melody",
+    "souls": {
+      "Grail": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory",
+      "Sound"
+    ]
+  },
+  {
+    "id": "chair.bells",
+    "name": "Bell-Tower Chair",
+    "souls": {
+      "Forge": 1,
+      "Sky": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "bisclavrets.knot",
+    "name": "Bisclavret's Knot",
+    "souls": {
+      "Moth": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Mark"
+    ]
+  },
+  {
+    "id": "salts.bitterblack",
+    "name": "Bitterblack Salts",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Material",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "bittersweet.certainty",
+    "name": "Bittersweet Certainty",
+    "souls": {
+      "Lantern": 1,
+      "Winter": 2
+    },
+    "properties": [
+      "Memory",
+      "Sound"
+    ]
+  },
+  {
+    "id": "bottle.blackdove",
+    "name": "Black Dove Wine",
+    "souls": {
+      "Grail": 4,
+      "Heart": 4,
+      "Moon": 4,
+      "Nectar": 4
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "black.sapphire.wash",
+    "name": "Black Sapphire Wash",
+    "souls": {
+      "Moon": 6
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "blackberries",
+    "name": "Blackberries",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "jam.blackberry",
+    "name": "Blackberry Jam",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "cake.blackberry",
+    "name": "Blackberry Sponge Cake",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "blue.crown",
+    "name": "Blue Crown",
+    "souls": {
+      "Nectar": 1,
+      "Sky": 2,
+      "Winter": 2
+    },
+    "properties": [
+      "Flower",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "tea.blue.crown.cup",
+    "name": "Blue Crown Tea (Cup)",
+    "souls": {
+      "Nectar": 1,
+      "Sky": 2,
+      "Winter": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "tea.blue.crown",
+    "name": "Blue Crown Tea (Pot)",
+    "souls": {
+      "Nectar": 1,
+      "Sky": 2,
+      "Winter": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "statuette.bobo.nectar",
+    "name": "Bobos of Spring",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "egg.boiled",
+    "name": "Boiled Egg",
+    "souls": {
+      "Heart": 1,
+      "Scale": 1,
+      "Sky": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "weapons.td.bokken",
+    "name": "Bokken: Captain Torgue and Mistress Dearday",
+    "souls": {
+      "Edge": 2,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bolt.linen",
+    "name": "Bolt of Buttercup Linen",
+    "souls": {
+      "Lantern": 2,
+      "Moon": 2
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "bolt.velvet",
+    "name": "Bolt of Moss-Green Velvet",
+    "souls": {
+      "Grail": 2,
+      "Winter": 2
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "bolt.silk",
+    "name": "Bolt of Pale Silk",
+    "souls": {
+      "Moth": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "book.press",
+    "name": "Book Press",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "milk",
+    "name": "Bottle of Milk",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1,
+      "Scale": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Sustenance",
+      "Cooking Ingredient",
+      "Milk"
+    ]
+  },
+  {
+    "id": "candle.bottle",
+    "name": "Bottled Candle",
+    "souls": {
+      "Grail": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "fruit.bowl.pears",
+    "name": "Bowl of Sea-Blest Pears",
+    "souls": {
+      "Grail": 1,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "box.oddities",
+    "name": "Box of Oddities",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "box.rarities",
+    "name": "Box of Rarities",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "clock.artdeco",
+    "name": "Brazen Clock",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "knife.thirza",
+    "name": "Bronze Knife",
+    "souls": {
+      "Edge": 1,
+      "Grail": 1,
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Knife",
+      "Tool"
+    ]
+  },
+  {
+    "id": "spintria.bronze",
+    "name": "Bronze Spintria",
+    "souls": {
+      "Forge": 2
+    },
+    "properties": [
+      "Ductile",
+      "Tally"
+    ]
+  },
+  {
+    "id": "sofa.scale",
+    "name": "Brooding Sofa",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bucket.ashes",
+    "name": "Bucket of Ashes",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "bucket.seawater",
+    "name": "Bucket of Seawater",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "grapes",
+    "name": "Bunch of Grapes",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "packet.tea.assam",
+    "name": "C&H Second Flush Assam  (Packet)",
+    "souls": {
+      "Edge": 1,
+      "Knock": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Leaf",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "cup.tea.assam",
+    "name": "C&H Second Flush Assam (Cup)",
+    "souls": {
+      "Edge": 1,
+      "Knock": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "pot.tea.assam",
+    "name": "C&H Second Flush Assam (Pot)",
+    "souls": {
+      "Edge": 1,
+      "Knock": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "painting.rose",
+    "name": "Caer Ys",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "dough.cake",
+    "name": "Cake Batter",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "ham.canned",
+    "name": "Canned Ham",
+    "souls": {
+      "Heart": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Remains",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "canvas",
+    "name": "Canvas",
+    "souls": {},
+    "properties": [
+      "Blank"
+    ]
+  },
+  {
+    "id": "stool.iron",
+    "name": "Carpenter's Stool",
+    "souls": {
+      "Edge": 1,
+      "Moth": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "lamp.table.rose",
+    "name": "Cartographer's Lamp",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "statuette.cat.scale",
+    "name": "Cat of Depths",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "catsclaw",
+    "name": "Catsclaw",
+    "souls": {
+      "Edge": 2,
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf",
+      "Flower"
+    ]
+  },
+  {
+    "id": "catwink",
+    "name": "Catwink",
+    "souls": {
+      "Edge": 1,
+      "Grail": 1,
+      "Moon": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "chair.knock",
+    "name": "Chair of Challenges",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "sofa.knock",
+    "name": "Chaise-Longue of Conclusions",
+    "souls": {
+      "Grail": 1,
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "candle.fragrant.chalice",
+    "name": "Chalice Candle",
+    "souls": {
+      "Grail": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "music.cheerful",
+    "name": "Cheerful Ditty",
+    "souls": {
+      "Heart": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Memory",
+      "Sound"
+    ]
+  },
+  {
+    "id": "larva.chimeric",
+    "name": "Chimeric Larva",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 4
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "chronsicord",
+    "name": "Chronsichord",
+    "souls": {
+      "Forge": 3,
+      "Knock": 6,
+      "Sky": 3,
+      "Winter": 3
+    },
+    "properties": [
+      "Device",
+      "Tool",
+      "Ink"
+    ]
+  },
+  {
+    "id": "cinnabar",
+    "name": "Cinnabar",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "pheasant.roast.salad.grape",
+    "name": "Cold Pheasant with Grape Salad",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "chair.garden1",
+    "name": "Comfortable Garden Chair",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "compasses.forge",
+    "name": "Compasses",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "lamp.moth",
+    "name": "Compelling Lamp",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "confounding.parable",
+    "name": "Confounding Parable",
+    "souls": {
+      "Moon": 2,
+      "Rose": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "skull.contained",
+    "name": "Contained Skull",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "chair.church.lantern",
+    "name": "Contemplative Seat",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "contraband.flotsam",
+    "name": "Contraband Flotsam",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "contraband.jetsam",
+    "name": "Contraband Jetsam",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "casket.coppery",
+    "name": "Coppery Casket",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Cache (Bright)"
+    ]
+  },
+  {
+    "id": "cake.honey",
+    "name": "Cornish Honey Cake",
+    "souls": {
+      "Heart": 2,
+      "Lantern": 2,
+      "Moth": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "pie.cottage",
+    "name": "Cottage Pie",
+    "souls": {
+      "Heart": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "skull",
+    "name": "Cranial Tchotchke",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "crate.supplies",
+    "name": "Crate of Supplies",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "sugar.creamed",
+    "name": "Creamed Sugar",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "candelabrum.crescent",
+    "name": "Crescent Candelabrum",
+    "souls": {
+      "Lantern": 1,
+      "Moon": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "weapon.crossbow",
+    "name": "Crossbow",
+    "souls": {
+      "Forge": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "bread.crusty",
+    "name": "Crusty Bread",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course",
+      "Cooking Ingredient",
+      "Bread"
+    ]
+  },
+  {
+    "id": "honey.cuckoo",
+    "name": "Cuckoo-Honey",
+    "souls": {
+      "Edge": 2,
+      "Heart": 1,
+      "Knock": 1,
+      "Moth": 3,
+      "Nectar": 2,
+      "Scale": 3
+    },
+    "properties": [
+      "Sustenance",
+      "Liquid",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "burette.cucurbit",
+    "name": "Cucurbit Burette",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "weapons.td.cudgels",
+    "name": "Cudgels: Dyddgu and St Twrog",
+    "souls": {
+      "Edge": 2,
+      "Forge": 2,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "curious.hunch",
+    "name": "Curious Hunch",
+    "souls": {
+      "Heart": 3,
+      "Knock": 4,
+      "Lantern": 3,
+      "Moth": 3
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Nyctodromy"
+    ]
+  },
+  {
+    "id": "curious.seashell",
+    "name": "Curious Seashell",
+    "souls": {
+      "Moon": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "table.cypress",
+    "name": "Cypress-Wood Table",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "lamp.table.grail",
+    "name": "Cyprian's Lamp",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "bottle.dandelionwine",
+    "name": "Dandelion Wine",
+    "souls": {
+      "Lantern": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.dandelionwine",
+    "name": "Dandelion Wine (Glass)",
+    "souls": {
+      "Lantern": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "weapon.leaf.moth",
+    "name": "Dappled Practice Sword",
+    "souls": {
+      "Edge": 1,
+      "Moth": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "weapon.practice.moth",
+    "name": "Dappled Quarterstaff",
+    "souls": {
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "veg.marrow.dark",
+    "name": "Dark Marrow",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "dartboard",
+    "name": "Dartboard",
+    "souls": {
+      "Edge": 1,
+      "Moth": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "cup.coffee.dawnlion",
+    "name": "Dawnlion Coffee (Cup)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "packet.coffee.dawnlion",
+    "name": "Dawnlion Coffee (Packet)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "pot.coffee.dawnlion",
+    "name": "Dawnlion Coffee (Pot)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "clock.forge",
+    "name": "Daybreak Clock",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "dearday.lens",
+    "name": "Dearday Lens",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Lantern": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Device",
+      "Tool",
+      "Lens",
+      "Glass"
+    ]
+  },
+  {
+    "id": "weapon.foil.dearday",
+    "name": "Dearday's Foil",
+    "souls": {
+      "Edge": 2,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "assam.sweetened.cup",
+    "name": "Deep-Sweetened Assam (Cup)",
+    "souls": {
+      "Edge": 1,
+      "Knock": 1,
+      "Lantern": 2,
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "assam.sweetened",
+    "name": "Deep-Sweetened Assam (Pot)",
+    "souls": {
+      "Edge": 1,
+      "Knock": 1,
+      "Lantern": 2,
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "lapsang.sweetened.cup",
+    "name": "Deep-Sweetened Lapsang (Cup)",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 2,
+      "Nectar": 2,
+      "Sky": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "lapsang.sweetened",
+    "name": "Deep-Sweetened Lapsang (Pot)",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 2,
+      "Nectar": 2,
+      "Sky": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "sofa.grail.b",
+    "name": "Delightful Repose",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "sofa.grail.b.x",
+    "name": "Delightful Repose",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "witchworms.desiccated",
+    "name": "Desiccated Witchworms",
+    "souls": {
+      "Knock": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Material",
+      "Remains"
+    ]
+  },
+  {
+    "id": "didumos",
+    "name": "Didumos",
+    "souls": {
+      "Knock": 3,
+      "Lantern": 3,
+      "Sky": 6,
+      "Winter": 3
+    },
+    "properties": [
+      "Memory",
+      "Hushery",
+      "Horomachistry"
+    ]
+  },
+  {
+    "id": "bottle.raveline",
+    "name": "Domaine Raveline (Bottle)",
+    "souls": {
+      "Grail": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.raveline",
+    "name": "Domaine Raveline (Glass)",
+    "souls": {
+      "Grail": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "dough",
+    "name": "Dough",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "driftwood.fragment",
+    "name": "Driftwood Fragment",
+    "souls": {
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Material",
+      "Wood",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "dripping",
+    "name": "Dripping",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "earthsign",
+    "name": "Earth-Sign",
+    "souls": {
+      "Nectar": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Skolekosophy"
+    ]
+  },
+  {
+    "id": "name.earthquake",
+    "name": "Earthquake Name",
+    "souls": {
+      "Forge": 3,
+      "Scale": 6
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Ithastry",
+      "Skolekosophy"
+    ]
+  },
+  {
+    "id": "croquettes.egg",
+    "name": "Egg Croquettes",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 1,
+      "Scale": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "sandwiches.egg",
+    "name": "Egg Sandwiches",
+    "souls": {
+      "Heart": 2,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "bread.eggy",
+    "name": "Eggy Bread",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "eigengrau",
+    "name": "Eigengrau",
+    "souls": {
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "cordial.elderflower",
+    "name": "Elderflower Cordial",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "lamp.artdeco",
+    "name": "Elegant Sunburst Lamp",
+    "souls": {
+      "Lantern": 3
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "enduring.reflection",
+    "name": "Enduring Reflection",
+    "souls": {
+      "Heart": 1,
+      "Knock": 1,
+      "Rose": 3
+    },
+    "properties": [
+      "Memory",
+      "Nyctodromy"
+    ]
+  },
+  {
+    "id": "essential.periost",
+    "name": "Essential Periost",
+    "souls": {
+      "Moon": 2,
+      "Nectar": 4,
+      "Scale": 4,
+      "Winter": 4
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "evas.locks",
+    "name": "Eva's Locks",
+    "souls": {
+      "Rose": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Leaf",
+      "Flower"
+    ]
+  },
+  {
+    "id": "cup.coffee.eveningisles",
+    "name": "Evening Isles Coffee (Cup)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "packet.coffee.eveningisles",
+    "name": "Evening Isles Coffee (Packet)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Material",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "pot.coffee.eveningisles",
+    "name": "Evening Isles Coffee (Pot)",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "chair.grail.c",
+    "name": "Expansive Chair",
+    "souls": {
+      "Grail": 1,
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "stag.finnian",
+    "name": "Finnian",
+    "souls": {
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "floating.island",
+    "name": "Floating Island",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Rose": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "flour",
+    "name": "Flour",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "flushed.mommet",
+    "name": "Flushed Mommet",
+    "souls": {
+      "Grail": 6,
+      "Heart": 3,
+      "Moth": 3
+    },
+    "properties": [
+      "Device",
+      "Tool",
+      "Woven",
+      "Inert"
+    ]
+  },
+  {
+    "id": "forbidden.epic",
+    "name": "Forbidden Epic",
+    "souls": {
+      "Edge": 6,
+      "Moon": 4,
+      "Rose": 4
+    },
+    "properties": [
+      "Memory",
+      "Horomachistry",
+      "Birdsong"
+    ]
+  },
+  {
+    "id": "packages.forsaken",
+    "name": "Forsaken Packages",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "mirror.fractured",
+    "name": "Fractured Mirror",
+    "souls": {
+      "Knock": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "fragrant.chalice",
+    "name": "Fragrant Chalice",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "tea.fragrant.chalice.cup",
+    "name": "Fragrant Chalice Tea (Cup)",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "tea.fragrant.chalice",
+    "name": "Fragrant Chalice Tea (Pot)",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "weapon.practice.fraser",
+    "name": "Fraser's Practice Sword",
+    "souls": {
+      "Edge": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "toastie.mushroom",
+    "name": "Fried Mushrooms on Toast",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "lamp.fringed",
+    "name": "Fringed Lamp",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "frithweft",
+    "name": "Frith-Weft",
+    "souls": {
+      "Heart": 3
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "mirror.frost",
+    "name": "Frosty Mirror",
+    "souls": {
+      "Lantern": 1,
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "fudge",
+    "name": "Fudge",
+    "souls": {
+      "Grail": 3
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "chips.game",
+    "name": "Game Chips",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2,
+      "Knock": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "pie.game",
+    "name": "Game Pie",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Knock": 1,
+      "Moth": 1,
+      "Rose": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "chart.genealogical",
+    "name": "Genealogical Chart",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "gervinite",
+    "name": "Gervinite",
+    "souls": {
+      "Knock": 4,
+      "Rose": 2
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "liquid.gideon",
+    "name": "Gideon's Soaks",
+    "souls": {
+      "Forge": 2,
+      "Heart": 4,
+      "Nectar": 3,
+      "Winter": 2
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "toxin.glassfinger",
+    "name": "Glassfinger Toxin",
+    "souls": {
+      "Forge": 2,
+      "Knock": 4,
+      "Lantern": 2
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "skull.x",
+    "name": "Glinting Cranial Tchotchke",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "glue",
+    "name": "Glue",
+    "souls": {
+      "Forge": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "bust.knot.moth",
+    "name": "Goddess-who-changes-skin",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.knot.moon",
+    "name": "Goddess-who-drinks-light",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "spintria.gold",
+    "name": "Gold Spintria",
+    "souls": {
+      "Lantern": 5
+    },
+    "properties": [
+      "Ductile",
+      "Tally"
+    ]
+  },
+  {
+    "id": "shield.lion.golden",
+    "name": "Golden Lion Shield",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "veg.marrow.golden",
+    "name": "Golden Marrow",
+    "souls": {
+      "Heart": 1,
+      "Lantern": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "armchair.moon.a",
+    "name": "Grand Reading Armchair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "slab.granite",
+    "name": "Granite Slab",
+    "souls": {
+      "Forge": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material",
+      "Stone"
+    ]
+  },
+  {
+    "id": "salad.grape",
+    "name": "Grape Salad",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "shield.stag.green",
+    "name": "Green Stag Shield",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "weapon.practice.greene",
+    "name": "Greene's Practice Sword",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "chair.grail.a",
+    "name": "Greene's Red Chair",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "egg.gull",
+    "name": "Gull's Egg",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Egg",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "face.faceless",
+    "name": "Half-Faceless Face",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "parchment.anthropoderm",
+    "name": "Hallowed Anthropoderm",
+    "souls": {
+      "Heart": 2
+    },
+    "properties": [
+      "Blank"
+    ]
+  },
+  {
+    "id": "toastie.ham.cheese",
+    "name": "Ham and Cheese Toastie",
+    "souls": {
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "casserole.ham.egg",
+    "name": "Ham and Egg Casserole",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Moth": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "bake.ham.potato",
+    "name": "Ham and Potato Bake",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "hawthorn.blank",
+    "name": "Hawthorn Blank",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": [
+      "Material",
+      "Wood",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "healing.herbs",
+    "name": "Healing Herbs",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Leaf",
+      "Flower"
+    ]
+  },
+  {
+    "id": "jar.heart",
+    "name": "Heart in a Jar",
+    "souls": {
+      "Heart": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "egg.chicken",
+    "name": "Hen's Egg",
+    "souls": {
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Egg",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "weapon.hendrik",
+    "name": "Hendrik's Blade",
+    "souls": {
+      "Edge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Knife"
+    ]
+  },
+  {
+    "id": "candle.historywax",
+    "name": "Historywax Candle",
+    "souls": {
+      "Lantern": 3
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "casket.hive",
+    "name": "Hive Casket",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Cache (Unregarded)"
+    ]
+  },
+  {
+    "id": "music.hive",
+    "name": "Hive's Lament",
+    "souls": {
+      "Moth": 2,
+      "Nectar": 4,
+      "Winter": 2
+    },
+    "properties": [
+      "Memory",
+      "Sound",
+      "Bosk"
+    ]
+  },
+  {
+    "id": "ship.model.kerisham",
+    "name": "HMS Kerisham",
+    "souls": {
+      "Edge": 1,
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "stag.hokobald",
+    "name": "Hokobald",
+    "souls": {
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "holiest.hemolymph",
+    "name": "Holiest Hemolymph",
+    "souls": {
+      "Moth": 4,
+      "Nectar": 4,
+      "Scale": 4
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "souls": {
+      "Heart": 1,
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Liquid",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pie.pumpkin.honey",
+    "name": "Honey-Haunted Pumpkin Pie",
+    "souls": {
+      "Edge": 2,
+      "Forge": 1,
+      "Heart": 2,
+      "Knock": 1,
+      "Moth": 3,
+      "Nectar": 2,
+      "Scale": 3
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "soup.pumpkin.honey",
+    "name": "Honey-Haunted Pumpkin Soup",
+    "souls": {
+      "Edge": 2,
+      "Heart": 2,
+      "Knock": 1,
+      "Moon": 1,
+      "Moth": 3,
+      "Nectar": 2,
+      "Scale": 3
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "honeyscar.jasmine",
+    "name": "Honeyscar Jasmine",
+    "souls": {
+      "Forge": 2,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Flower",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "tea.honeyscar.cup",
+    "name": "Honeyscar Jasmine Tea (Cup)",
+    "souls": {
+      "Forge": 2,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "tea.honeyscar",
+    "name": "Honeyscar Jasmine Tea (Pot)",
+    "souls": {
+      "Forge": 2,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "candle.honeyscar",
+    "name": "Honeyscar-Scented Candle",
+    "souls": {
+      "Forge": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "horizonsight",
+    "name": "Horizon-Sight",
+    "souls": {
+      "Rose": 4
+    },
+    "properties": [
+      "Memory",
+      "Hushery"
+    ]
+  },
+  {
+    "id": "houndsgall",
+    "name": "Houndsgall",
+    "souls": {
+      "Edge": 1,
+      "Heart": 2,
+      "Scale": 5
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "human.hair",
+    "name": "Human Hair",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": [
+      "Fabric",
+      "Remains"
+    ]
+  },
+  {
+    "id": "dog.hungry",
+    "name": "Hungry Dog",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "cockatoo.green.hungry",
+    "name": "Hungry Green Cockatoo",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "gull.hungry",
+    "name": "Hungry Gull",
+    "souls": {
+      "Moon": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "imago.hungry",
+    "name": "Hungry Imago",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 6,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "larva.hungry",
+    "name": "Hungry Larva",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 4
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "relic.hungry",
+    "name": "Hungry Relic",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "stymphling.hungry",
+    "name": "Hungry Stymphling",
+    "souls": {
+      "Moon": 3,
+      "Scale": 3
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "viper.hungry",
+    "name": "Hungry Viper",
+    "souls": {
+      "Knock": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "weapon.bow.hunter",
+    "name": "Hunter's Bow",
+    "souls": {
+      "Sky": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "lamp.hurricane",
+    "name": "Hurricane Lamp",
+    "souls": {
+      "Lantern": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "key.hush.house",
+    "name": "Hush House Key",
+    "souls": {
+      "Knock": 3,
+      "Winter": 3
+    },
+    "properties": [
+      "Key"
+    ]
+  },
+  {
+    "id": "ichor.auroral",
+    "name": "Ichor Auroral",
+    "souls": {
+      "Lantern": 4,
+      "Rose": 2
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "ichor.vitreous",
+    "name": "Ichor Vitreous",
+    "souls": {
+      "Lantern": 4
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "casket.imperial",
+    "name": "Imperial Casket",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Cache (Sovereign)"
+    ]
+  },
+  {
+    "id": "armchair.moon.b",
+    "name": "Imposing Reading Armchair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "clock.servants",
+    "name": "Inscribed Clock",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "stone.indecipherable",
+    "name": "Inscribed Stone",
+    "souls": {
+      "Lantern": 3
+    },
+    "properties": [
+      "Covenant"
+    ]
+  },
+  {
+    "id": "suitcase.sb",
+    "name": "Investigator's Suitcase",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "invincible.audacity",
+    "name": "Invincible Audacity",
+    "souls": {
+      "Edge": 6,
+      "Forge": 3,
+      "Lantern": 3
+    },
+    "properties": [
+      "Memory",
+      "Illumination",
+      "Ithastry"
+    ]
+  },
+  {
+    "id": "footstool.grail",
+    "name": "Inviting Footstool",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "essence.iotic",
+    "name": "Iotic Essence",
+    "souls": {
+      "Forge": 5,
+      "Lantern": 3
+    },
+    "properties": [
+      "Liquid",
+      "Pigment",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "spintria.iron",
+    "name": "Iron Spintria",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": [
+      "Ductile",
+      "Tally"
+    ]
+  },
+  {
+    "id": "casket.ironclad",
+    "name": "Ironclad Casket",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Cache (Bright)"
+    ]
+  },
+  {
+    "id": "glass.water.isle",
+    "name": "Isle-Water (Glass)",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Water"
+    ]
+  },
+  {
+    "id": "pitcher.water.isle",
+    "name": "Isle-Water (Pitcher)",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Water"
+    ]
+  },
+  {
+    "id": "january.sanguinary",
+    "name": "January Sanguinary",
+    "souls": {
+      "Heart": 5,
+      "Knock": 3,
+      "Sky": 3
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "pheasant.jugged",
+    "name": "Jugged Pheasant",
+    "souls": {
+      "Edge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Rose": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "mackerel.kedgeree",
+    "name": "Kedgeree",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Moon": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "jerry.kerosene",
+    "name": "Kerosene",
+    "souls": {
+      "Forge": 3
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "key.hooks",
+    "name": "Key Hooks",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "pie.kingsluck",
+    "name": "Kingsluck Pie",
+    "souls": {
+      "Forge": 2,
+      "Grail": 2,
+      "Heart": 2,
+      "Knock": 1,
+      "Lantern": 1,
+      "Moth": 1,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "bowls.kitchen",
+    "name": "Kitchen Bowls",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Tool",
+      "Kitchenware"
+    ]
+  },
+  {
+    "id": "armchair.sky",
+    "name": "Kitty's Armchair",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "cake.knot",
+    "name": "Knot-Cake",
+    "souls": {
+      "Edge": 2,
+      "Grail": 1,
+      "Heart": 2,
+      "Lantern": 1,
+      "Moth": 3,
+      "Nectar": 2,
+      "Scale": 3
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "tincture.labhitic",
+    "name": "Labhitic Tincture",
+    "souls": {
+      "Edge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "chess.set",
+    "name": "Lacquered Bone Chess Set",
+    "souls": {
+      "Edge": 2,
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bottle.lambig",
+    "name": "Lambig Broceliande (Bottle)",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "chalice.lambig",
+    "name": "Lambig Broceliande (Chalice)",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "leathy",
+    "name": "Leathy",
+    "souls": {
+      "Grail": 2,
+      "Moth": 4,
+      "Nectar": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating"
+    ]
+  },
+  {
+    "id": "leathy.lees",
+    "name": "Leathy Lees",
+    "souls": {
+      "Grail": 1,
+      "Moth": 2,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "leek.gratin",
+    "name": "Leek Gratin",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "soup.leek",
+    "name": "Leek Soup",
+    "souls": {
+      "Edge": 1,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "lenten.rose",
+    "name": "Lenten Rose",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "wings.grail",
+    "name": "Lepidoptery Display (Grail-centric)",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "wings.heart",
+    "name": "Lepidoptery Display (Heart-centric)",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "wings.moth",
+    "name": "Lepidoptery Display (Moth-centric)",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "wings.scale",
+    "name": "Lepidoptery Display (Scale-centric)",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "wings.winter",
+    "name": "Lepidoptery Display (Winter-centric)",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "armchair.librarian",
+    "name": "Librarian's Armchair",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "footstool.librarian",
+    "name": "Librarian's Footstool",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "glasses.librarian",
+    "name": "Librarian's Glasses",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Glass"
+    ]
+  },
+  {
+    "id": "stool.librarian",
+    "name": "Librarian's Stool",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "clock.librarian",
+    "name": "Librarian's Timepiece",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "lignum.vitae.blank",
+    "name": "Lignum Vitae Blank",
+    "souls": {
+      "Edge": 3,
+      "Nectar": 3,
+      "Scale": 3
+    },
+    "properties": [
+      "Material",
+      "Wood",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "sofa.grail.a",
+    "name": "Lingering Repose",
+    "souls": {
+      "Grail": 1,
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "relic.living",
+    "name": "Living Relic",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "packages.lost",
+    "name": "Lost Packages",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "dog.tame",
+    "name": "Loyal Dog",
+    "souls": {
+      "Edge": 2,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "chair.sky.x",
+    "name": "Lumpy Melodic Chair",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "brazier.moon",
+    "name": "Lunar Brazier",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "globe.lunar",
+    "name": "Lunar Globe",
+    "souls": {
+      "Moon": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "mackerel",
+    "name": "Mackerel",
+    "souls": {
+      "Heart": 1,
+      "Moon": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Cooking Ingredient",
+      "Raw",
+      "Remains",
+      "Sustenance"
+    ]
+  },
+  {
+    "id": "mackerel.montecarlo",
+    "name": "Mackerel Monte Carlo",
+    "souls": {
+      "Heart": 2,
+      "Moon": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "cake.madeira",
+    "name": "Madeira Cake",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Lantern": 1,
+      "Moth": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "cockatoo.green",
+    "name": "Magnificent Green Cockatoo",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "potatoes.roast.magnificent",
+    "name": "Magnificent Roast Potatoes",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "marakat",
+    "name": "Marakat",
+    "souls": {
+      "Grail": 7,
+      "Knock": 7,
+      "Nectar": 7
+    },
+    "properties": [
+      "Liquid",
+      "Encaustum",
+      "Ink"
+    ]
+  },
+  {
+    "id": "beef.marinated",
+    "name": "Marinated Beef (Uncooked)",
+    "souls": {
+      "Heart": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Cooking Ingredient",
+      "Remains"
+    ]
+  },
+  {
+    "id": "marinade.onion",
+    "name": "Marinated Onions",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "beef.roast.marinated",
+    "name": "Marinated Roast Beef",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "clock.lantern",
+    "name": "Masquewatch Clock",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "weapon.pistols.flintlock",
+    "name": "Matched Flintlock Pistols",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "mazarine.fife",
+    "name": "Mazarine Fife",
+    "souls": {
+      "Sky": 3
+    },
+    "properties": [
+      "Tool",
+      "Instrument"
+    ]
+  },
+  {
+    "id": "weapon.practice.mehrdad",
+    "name": "Mehrad's Practice Sword",
+    "souls": {
+      "Edge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "chair.sky",
+    "name": "Melodic Chair",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "mem.dreamt",
+    "name": "Memory: A Stolen Secret",
+    "souls": {
+      "Knock": 1,
+      "Moon": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.contradiction",
+    "name": "Memory: Contradiction",
+    "souls": {
+      "Edge": 2,
+      "Moon": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.fear",
+    "name": "Memory: Fear",
+    "souls": {
+      "Edge": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.foresight",
+    "name": "Memory: Foresight",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.gossip",
+    "name": "Memory: Gossip",
+    "souls": {
+      "Grail": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.hindsight",
+    "name": "Memory: Hindsight",
+    "souls": {
+      "Scale": 1,
+      "Winter": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.impulse",
+    "name": "Memory: Impulse",
+    "souls": {
+      "Moth": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.intuition",
+    "name": "Memory: Intuition",
+    "souls": {
+      "Moon": 2,
+      "Rose": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.loss",
+    "name": "Memory: Loss",
+    "souls": {
+      "Edge": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.pattern",
+    "name": "Memory: Pattern",
+    "souls": {
+      "Forge": 1,
+      "Knock": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.regret",
+    "name": "Memory: Regret",
+    "souls": {
+      "Forge": 1,
+      "Winter": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.revelation",
+    "name": "Memory: Revelation",
+    "souls": {
+      "Lantern": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.salt",
+    "name": "Memory: Salt",
+    "souls": {
+      "Knock": 1,
+      "Moon": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.satisfaction",
+    "name": "Memory: Satisfaction",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.scent",
+    "name": "Memory: Scent",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.sight",
+    "name": "Memory: Sight",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.solace",
+    "name": "Memory: Solace",
+    "souls": {
+      "Heart": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.sound",
+    "name": "Memory: Sound",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.storm",
+    "name": "Memory: Storm",
+    "souls": {
+      "Heart": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.taste",
+    "name": "Memory: Taste",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "mem.touch",
+    "name": "Memory: Touch",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "meringue",
+    "name": "Meringue",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Rose": 1,
+      "Sky": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "candelabra.meteoric.iron",
+    "name": "Meteoric Iron Candelabra",
+    "souls": {
+      "Edge": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "midnight.mark",
+    "name": "Midnight Mark",
+    "souls": {
+      "Moon": 2,
+      "Moth": 1
+    },
+    "properties": [
+      "Mark"
+    ]
+  },
+  {
+    "id": "painting.mihail.sarcophagus",
+    "name": "Mihail in Chains",
+    "souls": {
+      "Lantern": 2,
+      "Winter": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "painting.mihail.altar",
+    "name": "Mihail in Glory",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "mirrorscope",
+    "name": "Mirrorscope",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "fruit.misshapen",
+    "name": "Misshapen Fruit",
+    "souls": {
+      "Heart": 1,
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "glass.water.numa",
+    "name": "Mist-Kissed Water (Glass)",
+    "souls": {
+      "Heart": 1,
+      "Knock": 2,
+      "Moon": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Water"
+    ]
+  },
+  {
+    "id": "pitcher.water.numa",
+    "name": "Mist-Kissed Water (Pitcher)",
+    "souls": {
+      "Heart": 1,
+      "Knock": 2,
+      "Moon": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Water"
+    ]
+  },
+  {
+    "id": "moly",
+    "name": "Moly",
+    "souls": {
+      "Heart": 1,
+      "Moon": 2,
+      "Moth": 2,
+      "Nectar": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Root",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "moly.aujus",
+    "name": "Moly au Jus",
+    "souls": {
+      "Heart": 2,
+      "Moon": 2,
+      "Moth": 2,
+      "Nectar": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "footstool.moon",
+    "name": "Moon Footstool",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "stool.moon",
+    "name": "Moon Stool",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bucket.mop",
+    "name": "Mop and Bucket",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "casket.morbid",
+    "name": "Morbid Casket",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Cache (Night)"
+    ]
+  },
+  {
+    "id": "boots.morgue",
+    "name": "Morgue Boots",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "mortar.pestle",
+    "name": "Mortar & Pestle",
+    "souls": {
+      "Forge": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "moth.orchid",
+    "name": "Moth Orchid",
+    "souls": {
+      "Knock": 2,
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "candle.mothorchid",
+    "name": "Moth-Orchid-Scented Candle",
+    "souls": {
+      "Knock": 2,
+      "Moth": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "casket.mottled",
+    "name": "Mottled Casket",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Cache (Unregarded)"
+    ]
+  },
+  {
+    "id": "bake.mushroom.potato",
+    "name": "Mushroom & Potato Bake",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "meringue.mushroom",
+    "name": "Mushroom Meringue",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "mushrooms",
+    "name": "Mushrooms",
+    "souls": {
+      "Moon": 1,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "riddle.nameday",
+    "name": "Nameday Riddle",
+    "souls": {
+      "Knock": 2,
+      "Moth": 3
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "weapon.practice.natalia",
+    "name": "Natalia's Practice Sword",
+    "souls": {
+      "Edge": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "mirror.night",
+    "name": "Night Mirror",
+    "souls": {
+      "Lantern": 1,
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "armchair.moon.c",
+    "name": "Nighted Chair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "chair.moon.a",
+    "name": "Nightsky Chair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "nillycant",
+    "name": "Nillycant",
+    "souls": {
+      "Edge": 7,
+      "Scale": 7,
+      "Winter": 7
+    },
+    "properties": [
+      "Liquid",
+      "Encaustum",
+      "Ink"
+    ]
+  },
+  {
+    "id": "clock.moon",
+    "name": "Ninewink Clock",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "parchment.nivine",
+    "name": "Nivine Parchment",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Blank"
+    ]
+  },
+  {
+    "id": "numen.unde",
+    "name": "Numen: a Final Understanding",
+    "souls": {
+      "Rose": 5,
+      "Sky": 5,
+      "Winter": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.feas",
+    "name": "Numen: an Irresistible Feast",
+    "souls": {
+      "Edge": 5,
+      "Grail": 5,
+      "Nectar": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.bala",
+    "name": "Numen: Back Into Balance",
+    "souls": {
+      "Heart": 5,
+      "Sky": 5,
+      "Winter": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.conf",
+    "name": "Numen: Inescapable Confinement",
+    "souls": {
+      "Knock": 5,
+      "Scale": 5,
+      "Winter": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.loop",
+    "name": "Numen: Loopholes",
+    "souls": {
+      "Knock": 5,
+      "Moon": 5,
+      "Moth": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.alte",
+    "name": "Numen: Merciless Alteration",
+    "souls": {
+      "Edge": 5,
+      "Forge": 5,
+      "Grail": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.oldl",
+    "name": "Numen: That Old Lost Music",
+    "souls": {
+      "Rose": 5,
+      "Scale": 5,
+      "Sky": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.bell",
+    "name": "Numen: the Bells of Ys",
+    "souls": {
+      "Edge": 5,
+      "Forge": 5,
+      "Rose": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.secr",
+    "name": "Numen: the Great Counterfeit",
+    "souls": {
+      "Lantern": 5,
+      "Moon": 5,
+      "Nectar": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.asce",
+    "name": "Numen: the Paths of the Sun",
+    "souls": {
+      "Forge": 5,
+      "Knock": 5,
+      "Lantern": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.desc",
+    "name": "Numen: the Sun's Weakness",
+    "souls": {
+      "Grail": 5,
+      "Lantern": 5,
+      "Moth": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.thre",
+    "name": "Numen: Three Rules",
+    "souls": {
+      "Heart": 5,
+      "Moth": 5,
+      "Scale": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "numen.worl",
+    "name": "Numen: Weaving the World",
+    "souls": {
+      "Heart": 5,
+      "Moon": 5,
+      "Nectar": 5
+    },
+    "properties": [
+      "Memory",
+      "Numen"
+    ]
+  },
+  {
+    "id": "occult.scrap",
+    "name": "Occult Scrap",
+    "souls": {
+      "Knock": 2,
+      "Moth": 2,
+      "Rose": 2
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Horomachistry"
+    ]
+  },
+  {
+    "id": "old.moment",
+    "name": "Old Moment",
+    "souls": {
+      "Lantern": 2,
+      "Moth": 2,
+      "Scale": 4
+    },
+    "properties": [
+      "Memory",
+      "Preservation"
+    ]
+  },
+  {
+    "id": "old.wound",
+    "name": "Old Wound",
+    "souls": {
+      "Edge": 1,
+      "Moon": 2,
+      "Winter": 3
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "onion.gratin",
+    "name": "Onion Gratin",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "onion.rings",
+    "name": "Onion Rings",
+    "souls": {
+      "Edge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "soup.onion",
+    "name": "Onion Soup",
+    "souls": {
+      "Edge": 1,
+      "Heart": 2,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "orange.jumble",
+    "name": "Orange Jumble",
+    "souls": {
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "gull.wild",
+    "name": "Orphaned Chick",
+    "souls": {
+      "Moon": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "orpiment.exultant",
+    "name": "Orpiment Exultant",
+    "souls": {
+      "Forge": 7,
+      "Heart": 7,
+      "Sky": 7
+    },
+    "properties": [
+      "Liquid",
+      "Encaustum",
+      "Ink"
+    ]
+  },
+  {
+    "id": "oil.moth",
+    "name": "Oscillate Oil",
+    "souls": {
+      "Forge": 1,
+      "Moth": 2
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "egg.relic",
+    "name": "Outsized Egg",
+    "souls": {
+      "Scale": 3
+    },
+    "properties": [
+      "Sustenance",
+      "Egg",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "statuette.owl.moth",
+    "name": "Owl of Spirals",
+    "souls": {
+      "Knock": 1,
+      "Moth": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "paint.blue",
+    "name": "Paint: Blue",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.bosk",
+    "name": "Paint: Bosk-Green",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.blue.dark",
+    "name": "Paint: Dusk-Blue",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.green",
+    "name": "Paint: Green",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.moth",
+    "name": "Paint: Moth-Gold",
+    "souls": {
+      "Moth": 2
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.blue.pale",
+    "name": "Paint: Palest Blue",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.pink",
+    "name": "Paint: Pink",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.red",
+    "name": "Paint: Red",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "paint.yellow",
+    "name": "Paint: Yellow",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "stool.gullscry",
+    "name": "Painter's Stool",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.abra",
+    "name": "Pale Bust",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "veg.marrow.pale",
+    "name": "Pale Marrow",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pale.mommet",
+    "name": "Pale Mommet",
+    "souls": {
+      "Grail": 4,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "properties": [
+      "Device",
+      "Tool",
+      "Woven",
+      "Inert"
+    ]
+  },
+  {
+    "id": "stool.pale",
+    "name": "Pale Stool",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pot.bigken",
+    "name": "Paradise Palm",
+    "souls": {
+      "Nectar": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "jerry.paraffin",
+    "name": "Paraffin",
+    "souls": {
+      "Forge": 2
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "pie.pears",
+    "name": "Pear Pie",
+    "souls": {
+      "Forge": 1,
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "candle.pyrus",
+    "name": "Pear-Scented Candle",
+    "souls": {
+      "Forge": 4,
+      "Lantern": 1,
+      "Nectar": 4
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "perhibiate",
+    "name": "Perhibiate",
+    "souls": {
+      "Heart": 2,
+      "Lantern": 2,
+      "Scale": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "imago.perilous",
+    "name": "Perilous Imago",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 6,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "perinculate",
+    "name": "Perinculate",
+    "souls": {
+      "Edge": 4,
+      "Grail": 1,
+      "Scale": 4
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "candle.holderthree.persian",
+    "name": "Persian Candelabra",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "cat.tame",
+    "name": "Pet Cat",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "gull.tame",
+    "name": "Pet Gull",
+    "souls": {
+      "Moon": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "jerry.petrol",
+    "name": "Petrol",
+    "souls": {
+      "Forge": 2
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "pheasant",
+    "name": "Pheasant",
+    "souls": {
+      "Heart": 1,
+      "Rose": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Cooking Ingredient",
+      "Raw",
+      "Remains",
+      "Sustenance"
+    ]
+  },
+  {
+    "id": "stag.philemon",
+    "name": "Philemon",
+    "souls": {
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "scrapings.phosphorescent",
+    "name": "Phosphorescent Scrapings",
+    "souls": {
+      "Moon": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Material",
+      "Remains"
+    ]
+  },
+  {
+    "id": "mackerel.pickled",
+    "name": "Pickled Mackerel",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Moon": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "mushrooms.pickled",
+    "name": "Pickled Mushrooms",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "pilchards.pickled",
+    "name": "Pickled Pilchards",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Moon": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "statuette.pigeon",
+    "name": "Pigeon Statuette",
+    "souls": {
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pilchards",
+    "name": "Pilchards",
+    "souls": {
+      "Heart": 1,
+      "Moon": 2,
+      "Scale": 1
+    },
+    "properties": [
+      "Cooking Ingredient",
+      "Raw",
+      "Remains",
+      "Sustenance"
+    ]
+  },
+  {
+    "id": "toastie.pilchards",
+    "name": "Pilchards on Toast",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "bread.pillas",
+    "name": "Pillas-Oat Bread",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Bread",
+      "First Course",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "stool.plain",
+    "name": "Plain Stool",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "chicken.tuppence.hungry",
+    "name": "Pleading Tuppence",
+    "souls": {
+      "Scale": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "croutons.plum",
+    "name": "Plum Croutons",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "plums",
+    "name": "Plums",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "mackerel.poached",
+    "name": "Poached Mackerel",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Moon": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "weapon.bow.poacher",
+    "name": "Poacher's Bow",
+    "souls": {
+      "Rose": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "pear.belle.helene",
+    "name": "Poire Belle Hélène",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "pears.ys",
+    "name": "Poires Ys",
+    "souls": {
+      "Forge": 4,
+      "Grail": 2,
+      "Heart": 1,
+      "Nectar": 4
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "porphyrine",
+    "name": "Porphyrine",
+    "souls": {
+      "Knock": 7,
+      "Moon": 7,
+      "Rose": 7
+    },
+    "properties": [
+      "Liquid",
+      "Encaustum",
+      "Ink"
+    ]
+  },
+  {
+    "id": "pot.daisies.malachite",
+    "name": "Pot of Malachite Daisies",
+    "souls": {
+      "Nectar": 2
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "potatoes",
+    "name": "Potatoes",
+    "souls": {
+      "Heart": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pot.venus",
+    "name": "Potted Avidity",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.bamboo",
+    "name": "Potted Bamboo",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.dragon",
+    "name": "Potted Dragon Tree",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.fern",
+    "name": "Potted Fern",
+    "souls": {
+      "Nectar": 2
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.swiss",
+    "name": "Potted Monstera",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.orchid.pink",
+    "name": "Potted Pink Orchid",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "pot.snake",
+    "name": "Potted Snake Plant",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pot.orchid.white",
+    "name": "Potted White Orchid",
+    "souls": {
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "stool.lavender",
+    "name": "Prison Stool",
+    "souls": {
+      "Heart": 2,
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "whip.prune",
+    "name": "Prune Whip",
+    "souls": {
+      "Grail": 1,
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pie.pumpkin",
+    "name": "Pumpkin Pie",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "soup.pumpkin",
+    "name": "Pumpkin Soup",
+    "souls": {
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "pyrus.auricalcinus",
+    "name": "Pyrus Auricalcinus",
+    "souls": {
+      "Forge": 4,
+      "Nectar": 4
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "quartz.chunk",
+    "name": "Quartz Chunk",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": [
+      "Material",
+      "Gem"
+    ]
+  },
+  {
+    "id": "quire.paper",
+    "name": "Quire of Paper",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Blank",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "rags",
+    "name": "Rags",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Material",
+      "Fabric",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "lamp.revelation",
+    "name": "Reading Lamp",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "box.records",
+    "name": "Records Box",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Cache (Unregarded)"
+    ]
+  },
+  {
+    "id": "trophy.deer.red",
+    "name": "Red Deer Antlers",
+    "souls": {
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "shield.drake.red",
+    "name": "Red Drake Shield",
+    "souls": {
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "vase.redlotus",
+    "name": "Red Lotus Vase",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "weapon.leaf.grail",
+    "name": "Red Practice Sword",
+    "souls": {
+      "Edge": 1,
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "weapon.practice.grail",
+    "name": "Red Quarterstaff",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bust.medical",
+    "name": "Reference Image",
+    "souls": {
+      "Heart": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "pigment.refulgin",
+    "name": "Refulgin",
+    "souls": {
+      "Lantern": 2
+    },
+    "properties": [
+      "Material",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "liquid.regensburg",
+    "name": "Regensburg Balm",
+    "souls": {
+      "Heart": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "menorah",
+    "name": "Regensburg Menorah",
+    "souls": {
+      "Heart": 1,
+      "Lantern": 2
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "chicken.terrence.hungry",
+    "name": "Resentful Terrence",
+    "souls": {
+      "Scale": 3,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "chair.garden2",
+    "name": "Restful Garden Chair",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "chair.church.heart",
+    "name": "Restful Seat",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "beef.roast",
+    "name": "Roast Beef",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "pheasant.roast",
+    "name": "Roast Pheasant",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Rose": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "potatoes.roast",
+    "name": "Roast Potatoes",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Heart": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  },
+  {
+    "id": "bottle.roscraggan",
+    "name": "Roscraggan Whisky (Bottle)",
+    "souls": {
+      "Forge": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.roscraggan",
+    "name": "Roscraggan Whisky (Glass)",
+    "souls": {
+      "Forge": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "pearl.rose",
+    "name": "Rose-Pearl",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": [
+      "Material",
+      "Gem"
+    ]
+  },
+  {
+    "id": "jam.rosehip",
+    "name": "Rosehip Jam",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "cake.rosehip",
+    "name": "Rosehip Sponge Cake",
+    "souls": {
+      "Heart": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "rosehips",
+    "name": "Rosehips",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Cooking Ingredient",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "casket.royal",
+    "name": "Royal Casket",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Cache (Sovereign)"
+    ]
+  },
+  {
+    "id": "rubywise.ruin",
+    "name": "Rubywise Ruin",
+    "souls": {
+      "Grail": 4,
+      "Heart": 2,
+      "Moth": 2,
+      "Nectar": 2,
+      "Rose": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sofa.russet",
+    "name": "Russet Couch",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "sack.vegetables",
+    "name": "Sack of Vegetables",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sacrament.ascite",
+    "name": "Sacrament Ascite",
+    "souls": {
+      "Knock": 6
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sacrament.calicite",
+    "name": "Sacrament Calicite",
+    "souls": {
+      "Grail": 6
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sacrament.chalicite",
+    "name": "Sacrament Calicite [Collector's Edition]",
+    "souls": {
+      "Grail": 6,
+      "Heart": 6
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sacrament.malachite",
+    "name": "Sacrament Malachite",
+    "souls": {
+      "Nectar": 6
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sign.salt",
+    "name": "Salt-Sign",
+    "souls": {
+      "Moon": 2,
+      "Rose": 2
+    },
+    "properties": [
+      "Mark"
+    ]
+  },
+  {
+    "id": "liquid.sample",
+    "name": "Sample Jar",
+    "souls": {
+      "Knock": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "souls": {
+      "Lantern": 1,
+      "Moon": 1
+    },
+    "properties": [
+      "Material",
+      "Glass"
+    ]
+  },
+  {
+    "id": "music.savage",
+    "name": "Savage Hymn",
+    "souls": {
+      "Scale": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory",
+      "Sound"
+    ]
+  },
+  {
+    "id": "savage.relic",
+    "name": "Savage Relic",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "saw",
+    "name": "Saw",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "casket.scaled",
+    "name": "Scaled Casket",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Cache (Night)"
+    ]
+  },
+  {
+    "id": "casket.scarred",
+    "name": "Scarred Casket",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Cache (Night)"
+    ]
+  },
+  {
+    "id": "bottle.jannings",
+    "name": "Schloss Jannings (Bottle)",
+    "souls": {
+      "Edge": 2,
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.jannings",
+    "name": "Schloss Jannings (Glass)",
+    "souls": {
+      "Edge": 2,
+      "Heart": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "oil.forge",
+    "name": "Scintillate Oil",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "egg.scrambled",
+    "name": "Scrambled Egg",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1,
+      "Scale": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "pottery.scrumpy",
+    "name": "Scrumpy",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "cup.scrumpy",
+    "name": "Scrumpy (Cup)",
+    "souls": {
+      "Grail": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sea.holly",
+    "name": "Sea Holly",
+    "souls": {
+      "Moon": 1,
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "seaglass",
+    "name": "Sea-Glass",
+    "souls": {
+      "Lantern": 1,
+      "Moon": 1
+    },
+    "properties": [
+      "Material",
+      "Glass"
+    ]
+  },
+  {
+    "id": "sofa.winter",
+    "name": "Sea-Green Sofa",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pie.sea",
+    "name": "Sea-Pie",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "weapon.swords.sebastian",
+    "name": "Sebastian's Swords",
+    "souls": {
+      "Edge": 1,
+      "Moon": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Knife"
+    ]
+  },
+  {
+    "id": "secret.threshold",
+    "name": "Secret Threshold",
+    "souls": {
+      "Knock": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "weapon.bow.sentry",
+    "name": "Sentry's Bow",
+    "souls": {
+      "Lantern": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Wooden"
+    ]
+  },
+  {
+    "id": "serpentmilk",
+    "name": "Serpent-Milk",
+    "souls": {
+      "Edge": 6,
+      "Knock": 2,
+      "Scale": 3
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating"
+    ]
+  },
+  {
+    "id": "hourglass.scale.g",
+    "name": "Serpent-Styled Glass",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "hourglass.scale.w",
+    "name": "Serpent-Styled Glass",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "slab.serpentinite",
+    "name": "Serpentinite Slab",
+    "souls": {
+      "Knock": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material",
+      "Stone"
+    ]
+  },
+  {
+    "id": "chair.severe1",
+    "name": "Severe Chair",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pot.shadowless.silk",
+    "name": "Shadowless Silk",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "mirror.shaving",
+    "name": "Shaving Mirror",
+    "souls": {
+      "Lantern": 1,
+      "Moth": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "shears.sisterhood",
+    "name": "Shears of the Sisterhood",
+    "souls": {
+      "Moth": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "typewriter.winter",
+    "name": "Silent Typewriter",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Tool",
+      "Ink"
+    ]
+  },
+  {
+    "id": "spintria.silver",
+    "name": "Silver Spintria",
+    "souls": {
+      "Grail": 4
+    },
+    "properties": [
+      "Ductile",
+      "Tally"
+    ]
+  },
+  {
+    "id": "mirror.silver",
+    "name": "Silvery Mirror",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "skaptodon.fang",
+    "name": "Skaptodon Fang",
+    "souls": {
+      "Edge": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "skinshuck.mead",
+    "name": "Skinshuck Mead",
+    "souls": {
+      "Heart": 2,
+      "Moth": 6,
+      "Nectar": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "parcel.slim",
+    "name": "Slim Parcel",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "bottle.sloegin",
+    "name": "Sloe Gin (Bottle)",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.sloegin",
+    "name": "Sloe Gin (Glass)",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "alembic.sly",
+    "name": "Sly Alembic",
+    "souls": {
+      "Grail": 3,
+      "Heart": 3
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "candle.holdersmall",
+    "name": "Small Candlestick",
+    "souls": {
+      "Forge": 1,
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "jar.snootle",
+    "name": "Snootle Jar",
+    "souls": {
+      "Lantern": 1,
+      "Moth": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "candelabrum.snowflake",
+    "name": "Snowflake Candelabrum",
+    "souls": {
+      "Lantern": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "candle.holder.snowflake",
+    "name": "Snowflake Candle",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "chair.gullscry",
+    "name": "Snug Chair",
+    "souls": {
+      "Heart": 2,
+      "Scale": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "pumpkin.amber.x",
+    "name": "Soft Amber Pumpkin",
+    "souls": {
+      "Heart": 1,
+      "Lantern": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "sofa.gullscry",
+    "name": "Soft Blue Sofa",
+    "souls": {
+      "Moon": 2,
+      "Sky": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "symbol.solinvictis",
+    "name": "Sol Invictis Symbol",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "liquid.solomon",
+    "name": "Solomon's Preparation",
+    "souls": {
+      "Moon": 1,
+      "Moth": 1,
+      "Winter": 4
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "mackerel.soused",
+    "name": "Soused Mackerel",
+    "souls": {
+      "Heart": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course"
+    ]
+  },
+  {
+    "id": "chest.souvenirs",
+    "name": "Souvenir Cache",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "spanners",
+    "name": "Spanners",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "chair.severe2",
+    "name": "Spartan Chair",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "scales.spice",
+    "name": "Spice Scales",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": [
+      "Tool",
+      "Kitchenware",
+      "Spicing"
+    ]
+  },
+  {
+    "id": "square.forge",
+    "name": "Square",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "armchair.knock",
+    "name": "Staff Armchair",
+    "souls": {
+      "Knock": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "window.madrugad",
+    "name": "Stained Glass Window: the Madrugad",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "window.meniscate",
+    "name": "Stained Glass Window: the Meniscate",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "window.suninrags",
+    "name": "Stained Glass Window: the Sun-in-Rags",
+    "souls": {
+      "Winter": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "window.watchman",
+    "name": "Stained Glass Window: the Watchman",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Fixed"
+    ]
+  },
+  {
+    "id": "stargall.ink",
+    "name": "Stargall Ink",
+    "souls": {
+      "Forge": 1,
+      "Rose": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "chair.moon.b",
+    "name": "Starstrewn Chair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pie.pilchards",
+    "name": "Starygazy Pie",
+    "souls": {
+      "Forge": 1,
+      "Heart": 1,
+      "Moon": 1,
+      "Nectar": 1,
+      "Rose": 1,
+      "Scale": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "pie.vegetable.spring",
+    "name": "Steamed Spring Vegetable Pie",
+    "souls": {
+      "Forge": 1,
+      "Heart": 2,
+      "Nectar": 2,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "clock.knock",
+    "name": "Stepstrike Clock",
+    "souls": {
+      "Knock": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "mirror.storm",
+    "name": "Storm-Tossed Mirror",
+    "souls": {
+      "Lantern": 1,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "lamp.table.edge",
+    "name": "Strategist's Lamp",
+    "souls": {
+      "Edge": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "bottle.strathcoyne",
+    "name": "Strathcoyne Whisky (Bottle)",
+    "souls": {
+      "Nectar": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "glass.strathcoyne",
+    "name": "Strathcoyne Whisky (Glass)",
+    "souls": {
+      "Nectar": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "chair.lantern",
+    "name": "Straw-Cushioned Chair",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "cat.wild",
+    "name": "Stray Cat",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "dog.wild",
+    "name": "Stray Dog",
+    "souls": {
+      "Edge": 2,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "marrow.stuffed.acrid",
+    "name": "Stuffed Acrid Marrow",
+    "souls": {
+      "Edge": 1,
+      "Heart": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "marrow.stuffed.dark",
+    "name": "Stuffed Dark Marrow",
+    "souls": {
+      "Heart": 2,
+      "Moon": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "marrow.stuffed.golden",
+    "name": "Stuffed Golden Marrow",
+    "souls": {
+      "Heart": 2,
+      "Lantern": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "marrow.stuffed.pale",
+    "name": "Stuffed Pale Marrow",
+    "souls": {
+      "Heart": 2,
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "First Course",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "stymphling",
+    "name": "Stymphling",
+    "souls": {
+      "Moon": 3,
+      "Scale": 3
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": [
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "swaddled.thunder",
+    "name": "Swaddled Thunder",
+    "souls": {
+      "Heart": 6,
+      "Sky": 4
+    },
+    "properties": [
+      "Device",
+      "Tool",
+      "Fabric"
+    ]
+  },
+  {
+    "id": "cup.cocoa",
+    "name": "T.R.N. Limited Drinking Cocoa (Cup)",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "packet.cocoa",
+    "name": "T.R.N. Limited Drinking Cocoa (Packet)",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Material",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "pot.cocoa",
+    "name": "T.R.N. Limited Drinking Cocoa (Pot)",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "candle.holderthree",
+    "name": "Tall Candelabra",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light"
+    ]
+  },
+  {
+    "id": "candle.holdertall",
+    "name": "Tall Candlestick",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "parcel.tall",
+    "name": "Tall Parcel",
+    "souls": {
+      "Knock": 1,
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "viper.tame",
+    "name": "Tame Viper",
+    "souls": {
+      "Knock": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "tanglebrag",
+    "name": "Tanglebrag",
+    "souls": {
+      "Lantern": 1,
+      "Moth": 2,
+      "Nectar": 1,
+      "Scale": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "stag.tavish",
+    "name": "Tavish",
+    "souls": {
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "chicken.terrence",
+    "name": "Terrence, the Chicken",
+    "souls": {
+      "Scale": 3,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "painting.chiliarch.victory",
+    "name": "The Chiliarch's Victory'",
+    "souls": {
+      "Edge": 1,
+      "Scale": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "liquid.thirza",
+    "name": "Thirza's Cordials",
+    "souls": {
+      "Moth": 2,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Intoxicating"
+    ]
+  },
+  {
+    "id": "music.thunderskin",
+    "name": "Thunderskin's Paean",
+    "souls": {
+      "Grail": 1,
+      "Heart": 4,
+      "Scale": 1
+    },
+    "properties": [
+      "Memory",
+      "Sound",
+      "Preservation"
+    ]
+  },
+  {
+    "id": "spintria.tin",
+    "name": "Tin Spintria",
+    "souls": {
+      "Heart": 3
+    },
+    "properties": [
+      "Ductile",
+      "Tally"
+    ]
+  },
+  {
+    "id": "pot.bonsai",
+    "name": "Tiny Potted Tree",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "pudding.toffee",
+    "name": "Toffee Pudding",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "torgues.cleansing",
+    "name": "Torgue's Cleansing",
+    "souls": {
+      "Edge": 2
+    },
+    "properties": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "weapon.foil.torgue",
+    "name": "Torgue's Foil",
+    "souls": {
+      "Edge": 2,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "stand.umbrella",
+    "name": "Treasury of Shelters",
+    "souls": {
+      "Heart": 1,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "trumpeters.lily",
+    "name": "Trumpeter's Lily",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "chicken.tuppence",
+    "name": "Tuppence, the Other Chicken",
+    "souls": {
+      "Scale": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Beast",
+      "Cooperative"
+    ]
+  },
+  {
+    "id": "turpentine",
+    "name": "Turpentine",
+    "souls": {
+      "Forge": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Liquid",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "chair.moon.c",
+    "name": "Twilight Chair",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "pot.twilight",
+    "name": "Twilight Pot",
+    "souls": {
+      "Moon": 1,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "disc.fishes",
+    "name": "Twinned-Fish Stone",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "typewriter",
+    "name": "Typewriter",
+    "souls": {
+      "Forge": 1
+    },
+    "properties": [
+      "Tool",
+      "Ink"
+    ]
+  },
+  {
+    "id": "oil.moon",
+    "name": "Umbrous Oil",
+    "souls": {
+      "Forge": 1,
+      "Moon": 2
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "chair.church.knock",
+    "name": "Uncomfortable Seat",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "cat.hungry",
+    "name": "Unimpressed Cat",
+    "souls": {
+      "Grail": 1,
+      "Moth": 1
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "urn.ashes",
+    "name": "Urn of Ashes",
+    "souls": {
+      "Winter": 3
+    },
+    "properties": [
+      "Remains"
+    ]
+  },
+  {
+    "id": "uzult",
+    "name": "Uzult",
+    "souls": {
+      "Lantern": 7,
+      "Moth": 7,
+      "Sky": 7
+    },
+    "properties": [
+      "Liquid",
+      "Encaustum",
+      "Ink"
+    ]
+  },
+  {
+    "id": "gullscry.memorial",
+    "name": "Valentine's Memorial",
+    "souls": {
+      "Winter": 3
+    },
+    "properties": []
+  },
+  {
+    "id": "vase.amaryllis",
+    "name": "Vase of Amaryllis",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "vase.carnations",
+    "name": "Vase of Carnations",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "vase.bulrushes.golden",
+    "name": "Vase of Golden Bulrushes",
+    "souls": {
+      "Moon": 1,
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "vase.gorse",
+    "name": "Vase of Gorse",
+    "souls": {
+      "Forge": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "vase.lilies",
+    "name": "Vase of Lilies",
+    "souls": {
+      "Nectar": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "vase.roses",
+    "name": "Vase of Roses",
+    "souls": {
+      "Grail": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Flower"
+    ]
+  },
+  {
+    "id": "vase.rushes",
+    "name": "Vase of Rushes",
+    "souls": {
+      "Moon": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Leaf"
+    ]
+  },
+  {
+    "id": "stew.vegetables",
+    "name": "Vegetable Stew",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Rose": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Main Course"
+    ]
+  },
+  {
+    "id": "pot.tea.lapsang",
+    "name": "Veiled Goddess Lapsang Souchong  (Pot)",
+    "souls": {
+      "Forge": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative",
+      "Cooking Ingredient"
+    ]
+  },
+  {
+    "id": "cup.tea.lapsang",
+    "name": "Veiled Goddess Lapsang Souchong (Cup)",
+    "souls": {
+      "Forge": 2,
+      "Sky": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "packet.tea.lapsang",
+    "name": "Veiled Goddess Lapsang Souchong (Packet)",
+    "souls": {
+      "Forge": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Leaf",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "stool.knock",
+    "name": "Violet Stool",
+    "souls": {
+      "Knock": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "egg.viper",
+    "name": "Viper Egg",
+    "souls": {
+      "Scale": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Egg",
+      "Brewable"
+    ]
+  },
+  {
+    "id": "meringue.ys",
+    "name": "Walls-of-Ys",
+    "souls": {
+      "Forge": 4,
+      "Grail": 2,
+      "Knock": 2,
+      "Nectar": 4,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Pudding Course"
+    ]
+  },
+  {
+    "id": "yarns.warm",
+    "name": "Warmly Coloured Yarns",
+    "souls": {
+      "Grail": 1,
+      "Heart": 1
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "weapons.td.wasters",
+    "name": "Wasters: Darling-Dear and Father Turk",
+    "souls": {
+      "Edge": 2,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "candle.holdergold",
+    "name": "Watchful Candle",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "pot.watchful",
+    "name": "Watchful Potted Plant",
+    "souls": {
+      "Lantern": 1,
+      "Nectar": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "globe.watchman",
+    "name": "Watchman's Globe",
+    "souls": {
+      "Lantern": 1,
+      "Rose": 1,
+      "Sky": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "wateringcan",
+    "name": "Watering Can",
+    "souls": {
+      "Nectar": 1
+    },
+    "properties": [
+      "Tool"
+    ]
+  },
+  {
+    "id": "candle.bedside.x",
+    "name": "Weighty Bedside Candleholder",
+    "souls": {
+      "Lantern": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "material.westcott",
+    "name": "Westcott's Compounds",
+    "souls": {
+      "Forge": 2,
+      "Grail": 1,
+      "Lantern": 1,
+      "Moth": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Material"
+    ]
+  },
+  {
+    "id": "whispering.sand",
+    "name": "Whispering Sand",
+    "souls": {
+      "Lantern": 1,
+      "Moon": 2
+    },
+    "properties": [
+      "Material",
+      "Glass"
+    ]
+  },
+  {
+    "id": "statue.matilda.white",
+    "name": "White Matilda",
+    "souls": {
+      "Winter": 2
+    },
+    "properties": []
+  },
+  {
+    "id": "chair.wicker",
+    "name": "Wicker Chair",
+    "souls": {
+      "Heart": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "candle.holderblack",
+    "name": "Widow's Candle",
+    "souls": {
+      "Moon": 1
+    },
+    "properties": [
+      "Light",
+      "Candle"
+    ]
+  },
+  {
+    "id": "wild.surmise",
+    "name": "Wild Surmise",
+    "souls": {
+      "Lantern": 3,
+      "Moth": 3,
+      "Sky": 3
+    },
+    "properties": [
+      "Memory",
+      "Ithastry"
+    ]
+  },
+  {
+    "id": "viper.wild",
+    "name": "Wild Viper",
+    "souls": {
+      "Knock": 2,
+      "Scale": 2
+    },
+    "properties": [
+      "Beast"
+    ]
+  },
+  {
+    "id": "windinwaiting",
+    "name": "Wind-in-Waiting",
+    "souls": {
+      "Grail": 3,
+      "Moth": 3,
+      "Scale": 3,
+      "Sky": 6
+    },
+    "properties": [
+      "Memory",
+      "Birdsong",
+      "Bosk"
+    ]
+  },
+  {
+    "id": "windrumour",
+    "name": "Wind-Rumour",
+    "souls": {
+      "Heart": 1,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Birdsong"
+    ]
+  },
+  {
+    "id": "chair.grail.b",
+    "name": "Wine-Dark Chair",
+    "souls": {
+      "Grail": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "winning.move",
+    "name": "Winning Move",
+    "souls": {
+      "Edge": 3
+    },
+    "properties": [
+      "Memory",
+      "Illumination"
+    ]
+  },
+  {
+    "id": "wire.copper",
+    "name": "Wire (Copper)",
+    "souls": {
+      "Forge": 2,
+      "Nectar": 1,
+      "Sky": 1
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "wire.gold",
+    "name": "Wire (Gold)",
+    "souls": {
+      "Forge": 2,
+      "Lantern": 1
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "wire.orichalcum",
+    "name": "Wire (Orichalcum)",
+    "souls": {
+      "Forge": 4,
+      "Lantern": 1
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "wire.silver",
+    "name": "Wire (Silver)",
+    "souls": {
+      "Forge": 2,
+      "Moon": 1
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "wire.steel",
+    "name": "Wire (Steel)",
+    "souls": {
+      "Edge": 1,
+      "Forge": 2
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "wire.tin",
+    "name": "Wire (Tin)",
+    "souls": {
+      "Forge": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Material",
+      "Metal"
+    ]
+  },
+  {
+    "id": "music.wistful",
+    "name": "Wistful Air",
+    "souls": {
+      "Rose": 2,
+      "Sky": 2
+    },
+    "properties": [
+      "Memory",
+      "Sound"
+    ]
+  },
+  {
+    "id": "witching.tisane",
+    "name": "Witching Tisane",
+    "souls": {
+      "Grail": 2,
+      "Heart": 1
+    },
+    "properties": [
+      "Liquid",
+      "Beverage",
+      "Restorative"
+    ]
+  },
+  {
+    "id": "ampoule.wolfsnow",
+    "name": "Wolf-Snow Ampoule",
+    "souls": {
+      "Winter": 4
+    },
+    "properties": [
+      "Liquid"
+    ]
+  },
+  {
+    "id": "scraps.wood",
+    "name": "Wooden Scraps",
+    "souls": {
+      "Edge": 1,
+      "Forge": 1,
+      "Nectar": 1
+    },
+    "properties": [
+      "Material",
+      "Wood",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "wormwood.dream",
+    "name": "Wormwood Dream",
+    "souls": {
+      "Edge": 3,
+      "Moon": 6,
+      "Winter": 6
+    },
+    "properties": [
+      "Memory",
+      "Omen",
+      "Skolekosophy",
+      "Nyctodromy"
+    ]
+  },
+  {
+    "id": "pumpkin.wormy",
+    "name": "Wormy Pumpkin",
+    "souls": {
+      "Heart": 1,
+      "Nectar": 1,
+      "Scale": 1,
+      "Winter": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Raw"
+    ]
+  },
+  {
+    "id": "wyrdweft",
+    "name": "Wyrd-Weft",
+    "souls": {
+      "Heart": 3,
+      "Winter": 6
+    },
+    "properties": [
+      "Fabric"
+    ]
+  },
+  {
+    "id": "essence.xanthotic",
+    "name": "Xanthotic Essence",
+    "souls": {
+      "Forge": 2,
+      "Knock": 2,
+      "Lantern": 5
+    },
+    "properties": [
+      "Liquid",
+      "Pigment"
+    ]
+  },
+  {
+    "id": "yeartally",
+    "name": "Year-Tally",
+    "souls": {
+      "Winter": 6
+    },
+    "properties": [
+      "Mark"
+    ]
+  },
+  {
+    "id": "newspaper.yellowing",
+    "name": "Yellowing Newspaper",
+    "souls": {
+      "Rose": 1
+    },
+    "properties": []
+  },
+  {
+    "id": "trophy.yeth.hound",
+    "name": "Yeth-Hound Horns",
+    "souls": {
+      "Grail": 1,
+      "Scale": 2
+    },
+    "properties": [
+      "Carcass"
+    ]
+  },
+  {
+    "id": "yew.blank",
+    "name": "Yew Blank",
+    "souls": {
+      "Nectar": 2,
+      "Winter": 1
+    },
+    "properties": [
+      "Material",
+      "Wood",
+      "Fuel"
+    ]
+  },
+  {
+    "id": "yewgall.ink",
+    "name": "Yewgall Ink",
+    "souls": {
+      "Moth": 1,
+      "Nectar": 2
+    },
+    "properties": [
+      "Liquid",
+      "Ink"
+    ]
+  },
+  {
+    "id": "pudding.yorkshire",
+    "name": "Yorkshire Pudding",
+    "souls": {
+      "Heart": 2,
+      "Nectar": 1
+    },
+    "properties": [
+      "Sustenance",
+      "Side Course"
+    ]
+  }
+]

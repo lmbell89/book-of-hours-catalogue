@@ -1,0 +1,1422 @@
+/* ── Reset & Base ───────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #141209;
+  --bg-surface: #1e1a12;
+  --bg-raised: #2a241a;
+  --bg-hover: #332d20;
+  --border: #3d3428;
+  --border-md: #5a4e38;
+  --text: #cbbf9e;
+  --text-dim: #7a6d56;
+  --text-muted: #4a4030;
+  --gold: #c9a84c;
+  --gold-bright: #e0bc6a;
+  --gold-dim: #7a6430;
+  --red: #8b3a3a;
+  --red-hover: #a84444;
+  --tag-bg: #2e2718;
+  --tag-border: #5a4e38;
+  --highlight: rgba(201, 168, 76, 0.12);
+  --shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+  --radius: 6px;
+  --radius-sm: 4px;
+}
+
+html {
+  font-size: 15px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Georgia", "Times New Roman", serif;
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* ── App shell ──────────────────────────────────────────────── */
+.app {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+}
+
+header {
+  padding: 2rem 0 1.25rem;
+  border-bottom: 1px solid var(--border);
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: var(--gold-bright);
+  letter-spacing: 0.08em;
+  font-weight: normal;
+  text-shadow: 0 0 25px rgba(201, 168, 76);
+}
+
+.header-subtitle {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-top: 0.4rem;
+}
+
+/* ── Tabs ───────────────────────────────────────────────────── */
+.tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1.5rem;
+}
+
+.tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  letter-spacing: 0.06em;
+  padding: 0.75rem 1.4rem;
+  text-transform: uppercase;
+  transition:
+    color 0.15s,
+    border-color 0.15s;
+  margin-bottom: -1px;
+}
+
+.tab:hover {
+  color: var(--text);
+}
+
+.tab.active {
+  border-bottom-color: var(--gold);
+  color: var(--gold-bright);
+}
+
+/* ── Tab content ────────────────────────────────────────────── */
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.section-header h2 {
+  color: var(--gold);
+  font-size: 1.1rem;
+  font-weight: normal;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ── Table ──────────────────────────────────────────────────── */
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background: var(--bg-raised);
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  font-weight: normal;
+  letter-spacing: 0.08em;
+  padding: 0.65rem 0.9rem;
+  text-align: left;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+tbody tr:hover {
+  background: var(--bg-hover);
+}
+
+tbody tr.highlighted {
+  background: var(--highlight);
+  outline: 1px solid var(--gold-dim);
+}
+
+td {
+  padding: 0.6rem 0.9rem;
+  vertical-align: top;
+  font-size: 1rem;
+}
+
+.col-actions {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.item-link {
+  color: var(--gold);
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--gold-dim);
+  transition: color 0.15s;
+}
+
+.item-link:hover {
+  color: var(--gold-bright);
+}
+
+/* ── Tags ───────────────────────────────────────────────────── */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.tag {
+  background: var(--tag-bg);
+  border: 1px solid var(--tag-border);
+  border-radius: 3px;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  padding: 0.15rem 0.45rem;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.tag.soul {
+  border-color: var(--gold-dim);
+  color: var(--gold);
+}
+
+/* ── Soul colours ───────────────────────────────────────────── */
+.soul-Lantern {
+  --soul-color: #fded34;
+  --soul-bg: #332e00;
+  --soul-border: #655d00;
+}
+.soul-Forge {
+  --soul-color: #e7a373;
+  --soul-bg: #422510;
+  --soul-border: #854a21;
+}
+.soul-Grail {
+  --soul-color: #e4766a;
+  --soul-bg: #421915;
+  --soul-border: #853229;
+}
+.soul-Sky {
+  --soul-color: #a7bde8;
+  --soul-bg: #0b1b3b;
+  --soul-border: #163576;
+}
+.soul-Heart {
+  --soul-color: #eaa8af;
+  --soul-bg: #582c30;
+  --soul-border: #9a4d55;
+}
+.soul-Nectar {
+  --soul-color: #6be0b2;
+  --soul-bg: #0d3f2b;
+  --soul-border: #166a49;
+}
+.soul-Knock {
+  --soul-color: #d8b4f0;
+  --soul-bg: #2f1441;
+  --soul-border: #5e2983;
+}
+.soul-Moth {
+  --soul-color: #edeadd;
+  --soul-bg: #3f3d33;
+  --soul-border: #7e7a66;
+}
+.soul-Scale {
+  --soul-color: #ead9b8;
+  --soul-bg: #3d3017;
+  --soul-border: #7a5f2e;
+}
+.soul-Winter {
+  --soul-color: #dbecf1;
+  --soul-bg: #313e42;
+  --soul-border: #627c85;
+}
+.soul-Moon {
+  --soul-color: #dfdbe3;
+  --soul-bg: #353137;
+  --soul-border: #6a626f;
+}
+.soul-Rose {
+  --soul-color: #f9c1ff;
+  --soul-bg: #481e4c;
+  --soul-border: #8f3c99;
+}
+.soul-Edge {
+  --soul-color: #dfe46e;
+  --soul-bg: #2b2c0f;
+  --soul-border: #6c6f25;
+}
+
+/* ── Ability type colours (committed skill soul types) ──────── */
+.ability-Chor {
+  --soul-color: #d63072;
+  --soul-bg: #3a0c1e;
+  --soul-border: #6e1838;
+}
+.ability-Ereb {
+  --soul-color: #5a44a8;
+  --soul-bg: #150f2e;
+  --soul-border: #33256a;
+}
+.ability-Fet {
+  --soul-color: #466dce;
+  --soul-bg: #0f1a38;
+  --soul-border: #233568;
+}
+.ability-Health {
+  --soul-color: #d92542;
+  --soul-bg: #380a10;
+  --soul-border: #6e1420;
+}
+.ability-Mettle {
+  --soul-color: #f7912c;
+  --soul-bg: #3e220a;
+  --soul-border: #7c4414;
+}
+.ability-Phost {
+  --soul-color: #ffc502;
+  --soul-bg: #332800;
+  --soul-border: #665000;
+}
+.ability-Shapt {
+  --soul-color: #a02a64;
+  --soul-bg: #2a0c1c;
+  --soul-border: #571636;
+}
+.ability-Trist {
+  --soul-color: #638ead;
+  --soul-bg: #14242f;
+  --soul-border: #2a4a5e;
+}
+.ability-Wist {
+  --soul-color: #9441ce;
+  --soul-bg: #260f35;
+  --soul-border: #4c1e6a;
+}
+
+.tag.soul[class*="ability-"] {
+  background: var(--soul-bg);
+  border-color: var(--soul-border);
+  color: var(--soul-color);
+}
+
+.tag.soul[class*="soul-"] {
+  background: var(--soul-bg);
+  border-color: var(--soul-border);
+  color: var(--soul-color);
+}
+
+.tag.soul[class*="soul-"] .soul-val {
+  background: var(--soul-border);
+  color: var(--soul-color);
+}
+
+.soul-pair {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.soul-pair .soul-val {
+  border-radius: 2px;
+  color: var(--bg);
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0 0.3rem;
+  line-height: 1.2;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* ── Buttons ────────────────────────────────────────────────── */
+.btn-primary {
+  background: #4e3d1c;
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-sm);
+  color: var(--gold-bright);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  padding: 0.4rem 0.85rem;
+  height: 2.4rem;
+  transition:
+    background 0.15s,
+    color 0.15s;
+}
+
+.btn-primary:hover {
+  background: var(--gold);
+  color: var(--bg);
+}
+
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text-dim);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.85rem;
+  transition:
+    border-color 0.15s,
+    color 0.15s;
+}
+
+.btn-secondary:hover {
+  border-color: var(--text-dim);
+  color: var(--text);
+}
+
+.btn-danger {
+  background: var(--red);
+  border: 1px solid #a84444;
+  border-radius: var(--radius-sm);
+  color: #f0a0a0;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.85rem;
+  transition: background 0.15s;
+}
+
+.btn-danger:hover {
+  background: var(--red-hover);
+}
+
+.btn-icon {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.2rem 0.4rem;
+  border-radius: var(--radius-sm);
+  transition:
+    color 0.15s,
+    background 0.15s;
+}
+
+.btn-icon:hover {
+  color: var(--text);
+  background: var(--bg-raised);
+}
+.btn-icon.delete:hover {
+  color: #f08080;
+}
+
+.actions-cell {
+  display: flex;
+  gap: 0.3rem;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Empty state ────────────────────────────────────────────── */
+.section-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+/* ── Filter bar ─────────────────────────────────────────────── */
+.filter-bar {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: nowrap;
+}
+
+/* Wrapping container for the filter controls; the Add button stays on the
+   first row at the right, while the controls wrap below as needed. */
+.filter-bar-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.filter-bar > .btn-primary,
+.filter-bar > .filter-bar-right {
+  flex-shrink: 0;
+}
+
+.filter-input {
+  background: transparent;
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.4rem 0.7rem;
+  transition: border-color 0.15s;
+  width: 200px;
+}
+
+.filter-input::placeholder {
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.filter-input:focus {
+  border-color: var(--gold-dim);
+  outline: none;
+}
+
+.filter-input-number {
+  width: 120px;
+}
+
+/* Hide number input spinners in all browsers */
+.filter-input-number::-webkit-outer-spin-button,
+.filter-input-number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.filter-input-number[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+/* Always hide spinners (including on hover/focus) */
+.filter-input-no-arrows::-webkit-outer-spin-button,
+.filter-input-no-arrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.filter-input-no-arrows[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.filter-select {
+  background: transparent;
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.4rem 0.6rem;
+  transition: border-color 0.15s;
+  cursor: pointer;
+}
+
+.filter-select:focus {
+  border-color: var(--gold-dim);
+  outline: none;
+}
+
+.filter-select option {
+  background: var(--bg-raised);
+}
+
+.filter-select.is-placeholder {
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.btn-sm {
+  font-size: 0.85rem;
+  padding: 0.3rem 0.65rem;
+  white-space: nowrap;
+}
+
+/* Equal-height filter bar components */
+.filter-bar .filter-input,
+.filter-bar .filter-select,
+.filter-bar .btn-secondary,
+.filter-bar .btn-primary {
+  min-height: 2.4rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.filter-bar .multi-select-display {
+  min-height: 2.4rem;
+  padding: 0.4rem 0.5rem;
+}
+
+/* ── Per-column filter row (inside <thead>) ───────────────────── */
+.filter-row > th {
+  background: var(--bg-raised);
+  padding: 0.35rem 0.5rem;
+  vertical-align: top;
+  font-weight: normal;
+  border-top: 1px solid var(--border);
+  text-transform: none;
+  letter-spacing: normal;
+}
+.filter-row .filter-input,
+.filter-row .filter-select {
+  width: 100%;
+  min-height: 2.2rem;
+  padding: 0.3rem 0.4rem;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+}
+.filter-row .multi-select-wrap {
+  width: 100%;
+  min-width: 0;
+}
+.filter-row .multi-select-display {
+  width: 100%;
+  flex-wrap: nowrap;
+  min-height: 2.2rem;
+  padding: 0.3rem 0.4rem;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.filter-row .multi-select-placeholder {
+  font-size: 0.85rem;
+}
+/* Allow wrapping only when multiple tags are selected */
+.filter-row .multi-select-display.has-many {
+  flex-wrap: wrap;
+  overflow: visible;
+}
+.filter-row .multi-select-display .tag {
+  font-size: 0.75rem;
+  padding: 0.05rem 0.3rem;
+}
+.filter-row .filter-select {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.filter-row .filter-cell-empty {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+.filter-count {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin-left: 0.25rem;
+}
+
+/* Undiscovered items revealed only by a discovered recipe */
+.item-row-undiscovered td {
+  color: var(--text-dim);
+}
+.undiscovered-text {
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--text-dim);
+}
+
+/* Skill row: level dropdown */
+.skill-level-select {
+  min-height: 2rem;
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9rem;
+  width: 4rem;
+}
+
+/* Committed column on skills */
+.skill-committed-cell {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+.skill-committed-cell .toggle-cell {
+  margin-left: auto;
+}
+
+/* Clickable wisdom tag */
+.wisdom-tag {
+  cursor: pointer;
+  user-select: none;
+  transition:
+    border-color 0.15s,
+    color 0.15s,
+    opacity 0.15s;
+}
+.wisdom-tag:hover {
+  border-color: var(--gold-dim);
+  color: var(--gold);
+}
+.wisdom-tag--committed {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: rgba(255, 200, 80, 0.08);
+}
+.wisdom-tag--dimmed {
+  opacity: 0.4;
+}
+
+/* ── Toggle switch ─────────────────────────────────────────────── */
+.toggle {
+  position: relative;
+  display: inline-block;
+  width: 2.4rem;
+  min-width: 2.4rem;
+  height: 1.3rem;
+  cursor: pointer;
+}
+.toggle-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+.toggle-label {
+  display: inline-block;
+  min-width: 6rem;
+  font-size: 0.85rem;
+}
+.toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.toggle-slider {
+  position: absolute;
+  inset: 0;
+  background: var(--border-md);
+  border-radius: 999px;
+  transition: background 0.2s;
+}
+.toggle-slider::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  width: calc(1.3rem - 4px);
+  height: calc(1.3rem - 4px);
+  background: var(--text-dim);
+  border-radius: 50%;
+  transition:
+    transform 0.2s,
+    background 0.2s;
+}
+.toggle input:checked + .toggle-slider {
+  background: var(--gold-dim);
+}
+.toggle input:checked + .toggle-slider::before {
+  transform: translateX(1.1rem);
+  background: var(--gold);
+}
+.toggle input:disabled + .toggle-slider {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* ── Fixed-width columns ───────────────────────────────────── */
+.col-name {
+  width: 250px;
+  min-width: 250px;
+  max-width: 250px;
+  overflow-wrap: break-word;
+}
+
+.col-committed {
+  width: 240px;
+  min-width: 240px;
+  max-width: 240px;
+}
+
+/* ── Sortable columns ───────────────────────────────────────── */
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+th.sortable:hover {
+  color: var(--text);
+}
+
+.sort-indicator {
+  display: inline-block;
+  font-size: 0.7rem;
+  margin-left: 0.3rem;
+  opacity: 0.5;
+  width: 0.8em;
+}
+
+th.sortable.sort-asc .sort-indicator,
+th.sortable.sort-desc .sort-indicator {
+  opacity: 1;
+  color: var(--gold);
+}
+
+/* ── Empty state ────────────────────────────────────────────── */
+.empty-msg {
+  color: var(--text-muted);
+  font-size: 1rem;
+  font-style: italic;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+/* ── Modal ──────────────────────────────────────────────────── */
+.modal-overlay {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  inset: 0;
+  justify-content: center;
+  position: fixed;
+  z-index: 100;
+  backdrop-filter: blur(2px);
+}
+
+.modal-overlay.hidden {
+  display: none;
+}
+
+.modal {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  max-height: 90vh;
+  height: fit-content;
+  max-width: 580px;
+  width: 100%;
+  margin: 1rem;
+}
+
+.modal-sm {
+  max-width: 380px;
+}
+
+.modal-header {
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 1.25rem;
+}
+
+.modal-header h3 {
+  color: var(--gold);
+  font-size: 1rem;
+  font-weight: normal;
+  letter-spacing: 0.06em;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  cursor: pointer;
+  font-size: 1.3rem;
+  line-height: 1;
+  padding: 0.1rem 0.3rem;
+  transition: color 0.15s;
+}
+
+.modal-close:hover {
+  color: var(--text);
+}
+
+.modal-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.25rem;
+}
+
+.modal-footer {
+  border-top: 1px solid var(--border);
+  display: flex;
+  gap: 0.6rem;
+  justify-content: flex-end;
+  padding: 0.9rem 1.25rem;
+}
+
+/* ── Form elements ──────────────────────────────────────────── */
+.form-group {
+  margin-bottom: 1.1rem;
+}
+
+.form-group label {
+  color: var(--text-dim);
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.07em;
+  margin-bottom: 0.4rem;
+  text-transform: uppercase;
+}
+
+.form-group input[type="text"],
+.form-group input[type="number"],
+.form-group select {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 0.7rem;
+  transition: border-color 0.15s;
+  width: 100%;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  border-color: var(--gold-dim);
+  outline: none;
+}
+
+.form-group select option {
+  background: var(--bg-raised);
+}
+
+/* ── Tag input ──────────────────────────────────────────────── */
+.tag-input-wrap {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  min-height: 2.4rem;
+  padding: 0.4rem;
+  transition: border-color 0.15s;
+  cursor: text;
+}
+
+.tag-input-wrap:focus-within {
+  border-color: var(--gold-dim);
+}
+
+.tag-input-wrap .tag {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.3rem;
+}
+
+.tag-input-wrap .tag button {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1;
+  padding: 0;
+  transition: color 0.15s;
+}
+
+.tag-input-wrap .tag button:hover {
+  color: #f08080;
+}
+
+.tag-input-wrap input {
+  background: none;
+  border: none;
+  color: var(--text);
+  flex: 1;
+  font-family: inherit;
+  font-size: 1rem;
+  min-width: 80px;
+  outline: none;
+  padding: 0.1rem 0.2rem;
+}
+
+/* ── Soul pairs editor ──────────────────────────────────────── */
+.soul-editor {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.soul-row {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.soul-row select {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  flex: 1;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.4rem 0.5rem;
+}
+
+.soul-row input[type="number"] {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.4rem 0.5rem;
+  width: 70px;
+}
+
+.soul-row select:focus,
+.soul-row input:focus {
+  border-color: var(--gold-dim);
+  outline: none;
+}
+
+.btn-add-row {
+  align-self: flex-start;
+  background: none;
+  border: 1px dashed var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text-dim);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 0.3rem 0.7rem;
+  transition:
+    border-color 0.15s,
+    color 0.15s;
+}
+
+.btn-add-row:hover {
+  border-color: var(--gold-dim);
+  color: var(--gold);
+}
+
+.hint {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-top: 0.3rem;
+  font-style: italic;
+}
+
+/* ── Autocomplete ───────────────────────────────────────────── */
+.autocomplete-wrap {
+  position: relative;
+}
+
+.autocomplete-wrap input {
+  background: var(--bg-raised);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 0.7rem;
+  transition: border-color 0.15s;
+  width: 100%;
+}
+
+.autocomplete-wrap input:focus {
+  border-color: var(--gold-dim);
+  outline: none;
+}
+
+.autocomplete-dropdown {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  list-style: none;
+  max-height: 220px;
+  overflow-y: auto;
+  position: fixed;
+  z-index: 1000;
+}
+
+.autocomplete-dropdown.hidden {
+  display: none;
+}
+
+.autocomplete-item {
+  color: var(--text);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.45rem 0.75rem;
+  transition: background 0.1s;
+}
+
+.autocomplete-item:hover {
+  background: var(--bg-hover);
+  color: var(--gold-bright);
+}
+
+/* ── Multi-select ───────────────────────────────────────────── */
+.multi-select-wrap {
+  position: relative;
+}
+
+.multi-select-wrap.wide {
+  min-width: 11rem;
+}
+
+.multi-select-display {
+  background: transparent;
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: 2.4rem;
+  padding: 0.35rem 0.5rem;
+  transition: border-color 0.15s;
+  user-select: none;
+}
+
+.multi-select-display .tag {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.25rem;
+}
+
+.multi-select-display .tag button {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  line-height: 1;
+  padding: 0;
+  transition: color 0.15s;
+}
+
+.multi-select-display .tag button:hover {
+  color: #f08080;
+}
+
+/* Clicking anywhere on the pill removes it; highlight × on pill hover */
+.tag-removable {
+  cursor: pointer;
+}
+.tag-removable:hover button {
+  color: #f08080;
+}
+
+.multi-select-placeholder {
+  color: var(--text-dim);
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.multi-select-arrow {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  margin-left: auto;
+  padding-left: 0.25rem;
+}
+
+.multi-select-dropdown {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  max-height: 220px;
+  overflow-y: auto;
+  position: fixed;
+  z-index: 1000;
+}
+
+.multi-select-dropdown.hidden {
+  display: none;
+}
+
+.multi-select-search {
+  border-bottom: 1px solid var(--border);
+  padding: 0.35rem 0.4rem;
+  position: sticky;
+  top: 0;
+  background: var(--bg-surface);
+  z-index: 1;
+}
+
+.multi-select-search input {
+  background: var(--bg-input, var(--bg-raised));
+  border: 1px solid var(--border-md);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-size: 0.9rem;
+  outline: none;
+  padding: 0.25rem 0.45rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.multi-select-search input:focus {
+  border-color: var(--gold-dim);
+}
+
+.multi-select-option {
+  color: var(--text);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.45rem 0.75rem;
+  transition: background 0.1s;
+}
+
+.multi-select-option:hover {
+  background: var(--bg-hover);
+}
+
+.multi-select-option.selected {
+  color: var(--gold-bright);
+}
+
+.multi-select-option.selected::before {
+  content: "✓ ";
+  color: var(--gold);
+  font-size: 0.85rem;
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-md);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ── Skill recipe rows ──────────────────────────────────────────────────────── */
+
+.skill-row-expandable {
+  cursor: pointer;
+}
+
+.skill-row-expandable:hover > td {
+  background: var(--bg-raised);
+}
+
+.skill-recipes-row > td {
+  padding: 0 !important;
+}
+
+.skill-recipes-cell {
+  background: var(--bg-surface);
+  border-top: 1px solid var(--border);
+  padding: 1.1rem 1rem 0.8rem !important;
+}
+
+.skill-recipes-discovered {
+  margin-top: 0.5rem;
+}
+
+.skill-recipes-unknown {
+  margin-top: 0.5rem;
+}
+
+.skill-recipes-unknown--first {
+  margin-top: 0;
+}
+
+.skill-recipe--unknown {
+}
+
+.skill-recipe-unknown-placeholder {
+  color: var(--text-dim);
+  font-style: italic;
+  letter-spacing: 0.1em;
+}
+
+.skill-recipe-tier-label {
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  min-width: 4.5rem;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.skill-recipe-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.skill-recipe {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.skill-recipe-plus,
+.skill-recipe-arrow {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+}
+
+.reveal-row {
+  align-items: center;
+  display: flex;
+  gap: 0.4rem;
+}
+
+.skill-recipe-unknown {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  min-width: 1rem;
+}
+
+/* ── Notes tab ────────────────────────────────────────────────────────────── */
+.notes-tab {
+  display: block;
+}
+
+.notes-textarea {
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  font-family: inherit;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  resize: none;
+  outline: none;
+  overflow: hidden;
+  /* ~6 lines: 6 × (0.95rem × 1.6) + 2rem padding */
+  min-height: 11.2rem;
+}
+
+.notes-textarea:focus {
+  border-color: var(--accent);
+}
+
+/* Right-aligned button group (e.g. Expand All + Add Skill) */
+.filter-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* ── Reveal checkboxes in Add Book modal ─────────────────────────────────── */
+.reveal-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  margin-top: 0.25rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.reveal-checkbox input[type="checkbox"] {
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.reveal-checkbox-hidden {
+  font-style: italic;
+  opacity: 0.6;
+}
+
+/* ── Skill recipe try form ───────────────────────────────────────────────── */
+.skill-recipe-try {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-left: 0.5rem;
+  border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.skill-recipe-try--first {
+  border-top: none;
+  margin-top: 0.5rem;
+  padding-top: 0;
+}
+
+.skill-recipe-try .filter-select {
+  min-height: 2.4rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+
+.skill-recipe-try-soul {
+  width: 8rem;
+}
+
+.skill-recipe-try-amount {
+  width: 7rem;
+}
+
+.skill-recipe-try .filter-select,
+.skill-recipe-try .btn-secondary {
+  min-height: 2.4rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.skill-recipe-try-feedback {
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+.skill-recipe-try-feedback--found {
+  color: var(--gold);
+}
+.skill-recipe-try-feedback--known {
+  color: var(--text-muted);
+}
+.skill-recipe-try-feedback--miss {
+  color: #f08080;
+}

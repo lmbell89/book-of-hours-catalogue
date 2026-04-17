@@ -16,7 +16,7 @@ All data is stored locally in your browser — nothing is sent anywhere.
 
 The easiest way is to use the hosted version on GitHub Pages:
 
-> **https://[placeholder].github.io/book-of-hours/**
+> **https://lmbell89.github.io/book-of-hours-catalogue**
 
 No installation needed — just open it in a browser and start adding things.
 

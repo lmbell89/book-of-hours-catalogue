@@ -1330,8 +1330,13 @@ th.sortable.sort-desc .sort-indicator {
   min-height: 11.2rem;
 }
 
+.notes-textarea::placeholder {
+  color: var(--text-dim);
+  font-style: italic;
+}
+
 .notes-textarea:focus {
-  border-color: var(--accent);
+  border-color: var(--gold-dim);
 }
 
 /* Right-aligned button group (e.g. Expand All + Add Skill) */

@@ -33,13 +33,15 @@ Generated files:
 - `game-wisdom-commitments.json` — per-skill wisdom commitment → soul type mapping
 - `game-languages.json` — all languages with default/special classification
 - `game-terrains.json` — terrain unlock requirements (adjacency not available from JSON)
+- `game-beasts.json` — creatures inheriting from `_beast.*` prototypes, with souls, cooperative flag, `talkResult` (from `xtriggers.dist` spawn — reward for talking to a cooperative beast) and `inspectResult` (from `xtriggers.scrutiny` spawn — reward for inspecting any beast). Hungry/wild variants have `talkResult: null`.
 
 ### Tabs
-- **Items** — discovered items + undiscovered items revealed by crafting recipes
+- **Items** — discovered items + undiscovered items revealed by crafting recipes, book rereads, or cooperative beast talk rewards
 - **Books** — discovered books with reveal mechanics for reread results
 - **Workstations** — discovered workstations with soul/wisdom/property data
 - **Skills** — discovered skills with level, soul scaling, wisdom commitment, fulfillment toggle, and crafting recipe expansion
 - **Languages** — default (always shown) + discovered languages with a learned toggle
+- **Beasts** — discovered beasts with separate reveals for the talk reward (cooperative only) and the scrutiny reward (from inspecting the beast)
 - **Notes** — freeform text area
 
 ### Filtering

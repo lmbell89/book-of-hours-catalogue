@@ -8,12 +8,14 @@ import {
   gameSkillRecipes,
   gameSkills,
   gameLanguages,
+  gameBeasts,
 } from "./storage";
 import ItemsTab from "./components/ItemsTab";
 import BooksTab from "./components/BooksTab";
 import StationsTab from "./components/StationsTab";
 import SkillsTab from "./components/SkillsTab";
 import LanguagesTab from "./components/LanguagesTab";
+import BeastsTab from "./components/BeastsTab";
 import NotesTab from "./components/NotesTab";
 import ConfirmDialog from "./components/ConfirmDialog";
 import "./App.css";
@@ -227,6 +229,24 @@ export default function App() {
     }));
   }, []);
 
+  // ── Beast mutations ────────────────────────────────────────────────────────
+  const discoverBeast = useCallback((id) => {
+    setData((prev) => {
+      if ((prev.discoveredBeasts || []).includes(id)) return prev;
+      return {
+        ...prev,
+        discoveredBeasts: [...(prev.discoveredBeasts || []), id],
+      };
+    });
+  }, []);
+
+  const removeBeast = useCallback((id) => {
+    setData((prev) => ({
+      ...prev,
+      discoveredBeasts: (prev.discoveredBeasts || []).filter((b) => b !== id),
+    }));
+  }, []);
+
   // ── Confirm helper ──────────────────────────────────────────────────────────
   function confirmDelete(msg, onConfirm) {
     setConfirm({ msg, onConfirm });
@@ -260,20 +280,29 @@ export default function App() {
   const discoveredItems = gameItems.filter((i) =>
     data.discoveredItems.includes(i.id),
   );
-  // Items that are outputs of discovered crafting recipes but not themselves discovered
+  // Items that are outputs of discovered crafting recipes or revealed book
+  // rereads, but not themselves discovered.
   const discoveredItemIdSet = new Set(data.discoveredItems);
   const discoveredRecipeIdSet = new Set(data.discoveredCraftingResults || []);
-  const recipeRevealedItemIds = new Set();
+  const revealedItemIds = new Set();
   for (const r of gameSkillRecipes) {
     if (
       discoveredRecipeIdSet.has(r.id) &&
       !discoveredItemIdSet.has(r.outputId)
     ) {
-      recipeRevealedItemIds.add(r.outputId);
+      revealedItemIds.add(r.outputId);
+    }
+  }
+  const revealedBookSet = new Set(data.revealedBookResults || []);
+  for (const book of gameBooks) {
+    if (!revealedBookSet.has(book.id) || !book.rereadResult) continue;
+    const produced = gameItems.find((i) => i.name === book.rereadResult);
+    if (produced && !discoveredItemIdSet.has(produced.id)) {
+      revealedItemIds.add(produced.id);
     }
   }
   const recipeRevealedItems = gameItems
-    .filter((i) => recipeRevealedItemIds.has(i.id))
+    .filter((i) => revealedItemIds.has(i.id))
     .map((i) => ({ ...i, undiscovered: true }));
   const itemsForTab = [...discoveredItems, ...recipeRevealedItems];
   const discoveredBooks = gameBooks.filter((b) =>
@@ -292,7 +321,10 @@ export default function App() {
       return { ...game, ...s };
     })
     .filter(Boolean);
-  const TABS = ["items", "books", "workstations", "skills", "languages", "notes"];
+  const discoveredBeasts = gameBeasts.filter((b) =>
+    (data.discoveredBeasts || []).includes(b.id),
+  );
+  const TABS = ["items", "books", "workstations", "skills", "languages", "beasts", "notes"];
 
   return (
     <div className="app">
@@ -389,6 +421,18 @@ export default function App() {
             onUnlearn={unlearnLanguage}
             onDelete={(id, name) =>
               confirmDelete(`Remove "${name}"?`, () => removeLanguage(id))
+            }
+          />
+        </div>
+
+        <div style={{ display: activeTab === "beasts" ? "block" : "none" }}>
+          <BeastsTab
+            beasts={discoveredBeasts}
+            discoveredItemIds={data.discoveredItems || []}
+            onDiscover={discoverBeast}
+            onDiscoverItem={discoverItem}
+            onDelete={(id, name) =>
+              confirmDelete(`Delete "${name}"?`, () => removeBeast(id))
             }
           />
         </div>

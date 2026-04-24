@@ -5,6 +5,7 @@ import gameWorkstationsData from "./data/game-workstations.json";
 import gameSkillRecipesData from "./data/game-skill-recipes.json";
 import gameWisdomCommitmentsData from "./data/game-wisdom-commitments.json";
 import gameLanguagesData from "./data/game-languages.json";
+import gameBeastsData from "./data/game-beasts.json";
 
 const KEY = "book-of-hours";
 
@@ -15,6 +16,7 @@ export const gameSkills = gameSkillsData;
 export const gameSkillRecipes = gameSkillRecipesData;
 export const gameWisdomCommitments = gameWisdomCommitmentsData;
 export const gameLanguages = gameLanguagesData;
+export const gameBeasts = gameBeastsData;
 
 export function searchLanguages(q) {
   const ql = (q || "").toLowerCase();
@@ -94,6 +96,10 @@ function seed(data) {
   }
   if (data.notes === undefined) {
     data.notes = "";
+    changed = true;
+  }
+  if (!data.discoveredBeasts) {
+    data.discoveredBeasts = [];
     changed = true;
   }
 
@@ -206,7 +212,7 @@ export function searchItems(q) {
     }))
     .filter((r) => r.score >= 1)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 12)
+    .slice(0, 50)
     .map((r) => r.item);
 }
 
@@ -294,6 +300,32 @@ export function lookupWorkstation(name) {
     if (score > bestScore) {
       bestScore = score;
       best = w;
+    }
+  }
+  if (!best || bestScore < 1) return null;
+  return best;
+}
+
+export function searchBeasts(q) {
+  return gameBeastsData
+    .map((b) => ({
+      score: fuzzyScore(b.name, b.id, q),
+      item: { id: b.id, name: b.name },
+    }))
+    .filter((r) => r.score >= 1)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 50)
+    .map((r) => r.item);
+}
+
+export function lookupBeast(name) {
+  let best = null,
+    bestScore = -1;
+  for (const beast of gameBeastsData) {
+    const score = fuzzyScore(beast.name, beast.id, name);
+    if (score > bestScore) {
+      bestScore = score;
+      best = beast;
     }
   }
   if (!best || bestScore < 1) return null;

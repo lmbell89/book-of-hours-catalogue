@@ -248,6 +248,7 @@ function resolveProtoAspects(id) {
 
 const items = [];
 const books = [];
+const beastElements = []; // raw elements for beasts (resolved later once elementLabel is built)
 let skipped = 0;
 
 for (const e of (itemsData.elements || [])) {
@@ -279,6 +280,10 @@ for (const e of (itemsData.elements || [])) {
   }
 
   items.push({ id, name: label, souls, properties });
+
+  if (inheritId.startsWith('_beast.')) {
+    beastElements.push({ id, label, aspects: allAspects, raw: e });
+  }
 }
 
 // ── Build element label lookup (for resolving re-read spawn IDs) ──────────────
@@ -463,6 +468,41 @@ function lookupLabel(id) {
   return allElementLabel[id] || PROP_LABEL[id] || id;
 }
 
+// ── Extract beasts (creatures inheriting from _beast.*) ──────────────────────
+// The `dist` xtrigger fires for the "Time with the Beastie" recipe (talk to a
+// cooperative beast). Its first spawn is the memory you get. Hungry/wild
+// variants have no dist trigger, so talkResult is null there.
+
+const beasts = [];
+for (const b of beastElements) {
+  const souls = {};
+  for (const [k, v] of Object.entries(b.aspects)) {
+    if (k.startsWith('boost.')) continue;
+    if (SOUL_ASPECTS.has(k)) {
+      souls[k.charAt(0).toUpperCase() + k.slice(1)] = v;
+    }
+  }
+  const xt = b.raw.xtriggers || {};
+  const firstSpawnId = (trigger) => {
+    const list = Array.isArray(trigger) ? trigger : (trigger ? [trigger] : []);
+    const spawn = list.find(t => t && t.morpheffect === 'spawn' && t.id);
+    return spawn ? spawn.id.toLowerCase() : null;
+  };
+  const talkResultId = firstSpawnId(xt.dist);
+  const inspectResultId = firstSpawnId(xt.scrutiny);
+  beasts.push({
+    id: b.id,
+    name: b.label,
+    desc: (b.raw.Desc || b.raw.desc || '').trim(),
+    souls,
+    cooperative: b.aspects.cooperative === 1,
+    talkResultId,
+    talkResult: talkResultId ? lookupLabel(talkResultId) : null,
+    inspectResultId,
+    inspectResult: inspectResultId ? lookupLabel(inspectResultId) : null,
+  });
+}
+
 const CRAFTING_FILES = [
   { file: 'crafting_2_keeper.json',  tier: 'keeper'   },
   { file: 'crafting_3_scholar.json', tier: 'scholar'  },
@@ -644,6 +684,7 @@ workstations.sort((a, b) => a.name.localeCompare(b.name));
 wisdomCommitments.sort((a, b) =>
   a.skillName.localeCompare(b.skillName) || a.wisdom.localeCompare(b.wisdom));
 terrains.sort((a, b) => a.name.localeCompare(b.name));
+beasts.sort((a, b) => a.name.localeCompare(b.name));
 
 fs.writeFileSync(path.join(SRC, 'game-items.json'),               JSON.stringify(items,             null, 2));
 fs.writeFileSync(path.join(SRC, 'game-books.json'),               JSON.stringify(books,             null, 2));
@@ -653,6 +694,7 @@ fs.writeFileSync(path.join(SRC, 'game-skill-recipes.json'),       JSON.stringify
 fs.writeFileSync(path.join(SRC, 'game-wisdom-commitments.json'),  JSON.stringify(wisdomCommitments, null, 2));
 fs.writeFileSync(path.join(SRC, 'game-terrains.json'),            JSON.stringify(terrains,          null, 2));
 fs.writeFileSync(path.join(SRC, 'game-languages.json'),           JSON.stringify(languages,         null, 2));
+fs.writeFileSync(path.join(SRC, 'game-beasts.json'),              JSON.stringify(beasts,            null, 2));
 
 console.log(`Extracted:`);
 console.log(`  ${items.length} items        → src/data/game-items.json  (${skipped} variants skipped)`);
@@ -662,3 +704,4 @@ console.log(`  ${workstations.length} workstations → src/data/game-workstation
 console.log(`  ${skillRecipes.length} skill recipes → src/data/game-skill-recipes.json`);
 console.log(`  ${wisdomCommitments.length} wisdom commitments → src/data/game-wisdom-commitments.json`);
 console.log(`  ${terrains.length} terrains     → src/data/game-terrains.json (adjacency NOT available; lives in Unity scene binaries)`);
+console.log(`  ${beasts.length} beasts       → src/data/game-beasts.json`);

@@ -1,0 +1,396 @@
+[
+  {
+    "id": "larva.chimeric",
+    "name": "Chimeric Larva",
+    "desc": "Approaching the chrysalis crossroads.",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 4
+    },
+    "cooperative": true,
+    "talkResultId": "mem.fear",
+    "talkResult": "Memory: Fear",
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "dog.hungry",
+    "name": "Hungry Dog",
+    "desc": "A bottomless and reproachful appetite! But <i>such a good</i> bottomless appetite!",
+    "souls": {
+      "Edge": 1,
+      "Heart": 1,
+      "Scale": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "cockatoo.green.hungry",
+    "name": "Hungry Green Cockatoo",
+    "desc": "On numerous occasions, this wonderful bird has remained almost entirely inaudible.",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Sky": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "gull.hungry",
+    "name": "Hungry Gull",
+    "desc": "Squawking urgently.",
+    "souls": {
+      "Moon": 1,
+      "Sky": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "imago.hungry",
+    "name": "Hungry Imago",
+    "desc": "Torpid with hunger.",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 6,
+      "Scale": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "larva.hungry",
+    "name": "Hungry Larva",
+    "desc": "Twitching voraciously.",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 4
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "relic.hungry",
+    "name": "Hungry Relic",
+    "desc": "Quarrelsome, until it feeds again.",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "stymphling.hungry",
+    "name": "Hungry Stymphling",
+    "desc": "Hissing avidly.",
+    "souls": {
+      "Moon": 3,
+      "Scale": 3
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "viper.hungry",
+    "name": "Hungry Viper",
+    "desc": "Inclined to strike, although sluggishly, until fed.",
+    "souls": {
+      "Knock": 1,
+      "Scale": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "relic.living",
+    "name": "Living Relic",
+    "desc": "Few of these have been seen in the world under <i>this</i> sun.",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 2
+    },
+    "cooperative": true,
+    "talkResultId": "old.moment",
+    "talkResult": "Old Moment",
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "dog.tame",
+    "name": "Loyal Dog",
+    "desc": "Walkies are surely a small price to pay for his unshakeable fidelity.",
+    "souls": {
+      "Edge": 2,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "cooperative": true,
+    "talkResultId": "mem.solace",
+    "talkResult": "Memory: Solace",
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "cockatoo.green",
+    "name": "Magnificent Green Cockatoo",
+    "desc": "On numerous occasions, this wonderful bird has remained almost entirely inaudible.",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Sky": 2
+    },
+    "cooperative": true,
+    "talkResultId": "mem.gossip",
+    "talkResult": "Memory: Gossip",
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "gull.wild",
+    "name": "Orphaned Chick",
+    "desc": "A peeping little thing, its mother is dead or flown.",
+    "souls": {
+      "Moon": 1,
+      "Sky": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "imago.perilous",
+    "name": "Perilous Imago",
+    "desc": "It's come so far. Release it, and it could fly farther.",
+    "souls": {
+      "Knock": 2,
+      "Moon": 2,
+      "Moth": 6,
+      "Scale": 2
+    },
+    "cooperative": true,
+    "talkResultId": "music.hive",
+    "talkResult": "Hive's Lament",
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "cat.tame",
+    "name": "Pet Cat",
+    "desc": "Oh? Were you hoping to <i>work</i> on that desk?",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "cooperative": true,
+    "talkResultId": "mem.solace",
+    "talkResult": "Memory: Solace",
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "gull.tame",
+    "name": "Pet Gull",
+    "desc": "As noisy and demanding as it was in its youth. But much bigger.",
+    "souls": {
+      "Moon": 1,
+      "Sky": 2
+    },
+    "cooperative": true,
+    "talkResultId": "windrumour",
+    "talkResult": "Wind-Rumour",
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "chicken.tuppence.hungry",
+    "name": "Pleading Tuppence",
+    "desc": "Cluck. …cluck?",
+    "souls": {
+      "Scale": 2,
+      "Sky": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "chicken.terrence.hungry",
+    "name": "Resentful Terrence",
+    "desc": "Cluck. CLUCK.",
+    "souls": {
+      "Scale": 3,
+      "Sky": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "savage.relic",
+    "name": "Savage Relic",
+    "desc": "A shrieking little bundle of primordial ill-temper.",
+    "souls": {
+      "Heart": 1,
+      "Scale": 4,
+      "Sky": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "cat.wild",
+    "name": "Stray Cat",
+    "desc": "Feed some animals and earn their loyalty. Feed this one, and earn its patience.",
+    "souls": {
+      "Grail": 2,
+      "Heart": 2,
+      "Moth": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  },
+  {
+    "id": "dog.wild",
+    "name": "Stray Dog",
+    "desc": "Lost, frightened, eager.",
+    "souls": {
+      "Edge": 2,
+      "Heart": 2,
+      "Scale": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "stymphling",
+    "name": "Stymphling",
+    "desc": "Eva Dewulf taught her father Valentine how to hatch these silvery little villains, but he never learnt to like them.",
+    "souls": {
+      "Moon": 3,
+      "Scale": 3
+    },
+    "cooperative": true,
+    "talkResultId": "horizonsight",
+    "talkResult": "Horizon-Sight",
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "viper.tame",
+    "name": "Tame Viper",
+    "desc": "An avid student of warm fireplace stones, warm mice, and warm milk.",
+    "souls": {
+      "Knock": 2,
+      "Scale": 2
+    },
+    "cooperative": true,
+    "talkResultId": "earthsign",
+    "talkResult": "Earth-Sign",
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "chicken.terrence",
+    "name": "Terrence, the Chicken",
+    "desc": "Was this magnificent and indomitable beast named for the rector's indomitable and magnificent housekeeper? Best not to inquire too closely.",
+    "souls": {
+      "Scale": 3,
+      "Sky": 1
+    },
+    "cooperative": true,
+    "talkResultId": "egg.chicken",
+    "talkResult": "Hen's Egg",
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "chicken.tuppence",
+    "name": "Tuppence, the Other Chicken",
+    "desc": "Tuppence's most notable quality, all observers will agree, is that she is not Terrence.",
+    "souls": {
+      "Scale": 2,
+      "Sky": 1
+    },
+    "cooperative": true,
+    "talkResultId": "egg.chicken",
+    "talkResult": "Hen's Egg",
+    "inspectResultId": "mem.sound",
+    "inspectResult": "Memory: Sound"
+  },
+  {
+    "id": "cat.hungry",
+    "name": "Unimpressed Cat",
+    "desc": "RECENTLY THERE HAS BEEN A DEARTH OF FOOD. YOU WILL UNDERSTAND THE GRAVITY OF THE SITUATION. NO DOUBT YOU ARE EAGER TO RECTIFY IT.",
+    "souls": {
+      "Grail": 1,
+      "Moth": 1
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.touch",
+    "inspectResult": "Memory: Touch"
+  },
+  {
+    "id": "viper.wild",
+    "name": "Wild Viper",
+    "desc": "Don't make any sudden moves.",
+    "souls": {
+      "Knock": 2,
+      "Scale": 2
+    },
+    "cooperative": false,
+    "talkResultId": null,
+    "talkResult": null,
+    "inspectResultId": "mem.sight",
+    "inspectResult": "Memory: Sight"
+  }
+]
